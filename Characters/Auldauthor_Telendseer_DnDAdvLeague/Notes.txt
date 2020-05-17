@@ -1,0 +1,20 @@
+NPCs
+====
+	
+	*	Linan Swift
+	*	Nighhill - Governor of Greenest
+	*	Lennauthon - Blue dragon above Greenest
+
+Locations
+=======
+	
+	*	Greenest
+	
+Quests
+=====
+
+	* Capture a cult leader.
+	* Stop the dragon.
+	
+Notes
+====

@@ -1,0 +1,242 @@
+<Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="d0610b95-9b6a-4a36-8d14-fa85d7d0ddb0" Sequence="4" CampaignID="4eb10396-be9d-45e1-8796-ee84788c1294">
+  <Name>Auldauthor</Name>
+  <OutputFormat>Landscape</OutputFormat>
+  <Reference>CompMage</Reference>
+  <Reference>CPsi</Reference>
+  <Reference>CSc</Reference>
+  <Reference>CV</Reference>
+  <Reference>DotF</Reference>
+  <Reference>DMG</Reference>
+  <Reference>CoR</Reference>
+  <Reference>WD</Reference>
+  <Reference>FaP</Reference>
+  <Reference>LoD</Reference>
+  <Reference>LEoF</Reference>
+  <Reference>RoF</Reference>
+  <Reference>SerKng</Reference>
+  <Reference>ShinSth</Reference>
+  <Reference>FrstBrn</Reference>
+  <Reference>HoB</Reference>
+  <Reference>LoM</Reference>
+  <Reference>OA</Reference>
+  <Reference>PHBII</Reference>
+  <Reference>PHB</Reference>
+  <Reference>RcDst</Reference>
+  <Reference>RcStn</Reference>
+  <Reference>RcDrn</Reference>
+  <Reference>RcWld</Reference>
+  <Reference>Rok</Reference>
+  <Reference>Snd</Reference>
+  <Reference>ElvM</Reference>
+  <Reference>SCmp</Reference>
+  <Reference>Tome</Reference>
+  <Reference>UA</Reference>
+  <Reference>WoL</Reference>
+  <StatValue Statistic="Str">11</StatValue>
+  <StatValue Statistic="Dex">14</StatValue>
+  <StatValue Statistic="Con">14</StatValue>
+  <StatValue Statistic="Int">22</StatValue>
+  <StatValue Statistic="Wis">16</StatValue>
+  <StatValue Statistic="Cha">15</StatValue>
+  <Classes>
+    <Class ReferenceAbbrev="ElvM" Name="Selu'taar (Elven Mage)">
+      <CasterLevel>10</CasterLevel>
+      <CasterLevelModifier>0</CasterLevelModifier>
+      <SaveDCModifier>0</SaveDCModifier>
+      <SpellPointModifier>0</SpellPointModifier>
+      <BannedAttributes />
+      <AttributeModifiers />
+      <SpellLevelModifiers>
+        <SpellLevelModifier Level="0">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="1">
+          <SpellsKnownModifier>8</SpellsKnownModifier>
+          <SpellsPerDayModifier>2</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="2">
+          <SpellsKnownModifier>6</SpellsKnownModifier>
+          <SpellsPerDayModifier>2</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="3">
+          <SpellsKnownModifier>4</SpellsKnownModifier>
+          <SpellsPerDayModifier>1</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="4">
+          <SpellsKnownModifier>2</SpellsKnownModifier>
+          <SpellsPerDayModifier>1</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="5">
+          <SpellsKnownModifier>1</SpellsKnownModifier>
+          <SpellsPerDayModifier>1</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="6">
+          <SpellsKnownModifier>1</SpellsKnownModifier>
+          <SpellsPerDayModifier>1</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="7">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="8">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="9">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="10">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="11">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="12">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="13">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="14">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="15">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="16">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="17">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="18">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="19">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+        <SpellLevelModifier Level="20">
+          <SpellsKnownModifier>0</SpellsKnownModifier>
+          <SpellsPerDayModifier>0</SpellsPerDayModifier>
+          <DoubleSpellSlots>false</DoubleSpellSlots>
+        </SpellLevelModifier>
+      </SpellLevelModifiers>
+      <SpellEntries />
+      <Domains />
+      <Spells>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Amanuensis</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Arcane Mark</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Caltrops</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Dancing Lights</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Detect Magic</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Flare</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Launch Bolt</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Launch Item</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Light</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Mage Hand</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Mending</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Message</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Open/Close</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Prestidigitation</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Read Magic</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="0">Resistance</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Animate Rope</Spell>
+        <Spell ReferenceAbbrev="ShinSth" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Arcane Sensitivity</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Benign Transposition</Spell>
+        <Spell ReferenceAbbrev="CSc" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Blockade</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Charm Person</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Comprehend Languages</Spell>
+        <Spell ReferenceAbbrev="ShinSth" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Darsson's Cooling Breeze</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Dispel Ward</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Endure Elements</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Erase</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Expeditious Retreat</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Hold Portal</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Mage Hand, Greater</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Magic Missile</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Magic Weapon</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Nystul's Magic Aura</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">Obscuring Mist</Spell>
+        <Spell ReferenceAbbrev="CompMage" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="1">True Casting</Spell>
+        <Spell ReferenceAbbrev="CompMage" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Arcane Turmoil</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Blur</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Create Magic Tattoo</Spell>
+        <Spell ReferenceAbbrev="ShinSth" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Dispel Fog</Spell>
+        <Spell ReferenceAbbrev="PHBII" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Dispelling Touch</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Fog Cloud</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Glitterdust</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Gust of Wind</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Lively Step</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Malevolent Miasma</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Mirror Image</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Rainbow Beam</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Rope Trick</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Speak to Allies</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Surefooted Stride</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="2">Swim</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Blink</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Chain Missile</Spell>
+        <Spell ReferenceAbbrev="FrstBrn" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Control Temperature</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Dispel Magic</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Displacement</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Hold Person</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Leomund's Tiny Hut</Spell>
+        <Spell ReferenceAbbrev="PHBII" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Prismatic Mist</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Rainbow Blast</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Spell Vulnerability</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Tongues</Spell>
+        <Spell ReferenceAbbrev="RcStn" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="3">Walk the Mountains Path</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="4">Charm Monster</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="4">Energy Spheres</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="4">Leomund's Secure Shelter</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="4">Minor Creation</Spell>
+        <Spell ReferenceAbbrev="PHBII" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="4">Mirror Image, Greater</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="4">Solid Fog</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="4">Stone Shape</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="4">Stoneskin</Spell>
+        <Spell ReferenceAbbrev="SCmp" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="5">Blink, Greater</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="5">Hold Monster</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="5">Major Creation</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="5">Sending</Spell>
+        <Spell ReferenceAbbrev="PHB" CasterLevelModifier="0" SaveDCModifier="0" KnownLevelSlotUsed="5">Teleport</Spell>
+      </Spells>
+    </Class>
+  </Classes>
+  <SpellLikeAbilities>
+    <SpellLikeAbility ReferenceAbbrev="PHB" SpellLevel="0" CasterLevel="11" SaveDCStatistic="Int" SaveDCModifier="0" Frequency="3">Telekinesis</SpellLikeAbility>
+    <SpellLikeAbility ReferenceAbbrev="PHB" SpellLevel="0" CasterLevel="11" SaveDCStatistic="Int" SaveDCModifier="0" Frequency="">Detect Magic</SpellLikeAbility>
+    <SpellLikeAbility ReferenceAbbrev="PHB" SpellLevel="0" CasterLevel="11" SaveDCStatistic="Wis" SaveDCModifier="0" Frequency="3">Identify</SpellLikeAbility>
+  </SpellLikeAbilities>
+</Character>

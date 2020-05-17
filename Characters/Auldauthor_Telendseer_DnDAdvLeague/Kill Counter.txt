@@ -1,0 +1,5 @@
+Kill Counter
+=======
+
+Kobold				1
+Cultist				1

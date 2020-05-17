@@ -1,0 +1,12 @@
+Spellbook
+=======
+[Cantrip]
+	*	Firebolt
+	*	Prestidigitation
+	*	Mage Hand
+	*	Poison Spray
+[1st Level]
+	*	Sleep
+	*	Mage Armor
+	*	Magic Missile
+	*	Unseen Servant
