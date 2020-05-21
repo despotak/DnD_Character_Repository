@@ -58,4 +58,5 @@ Soon after that, Selanar reunited with his brother for the funeral of their fath
 With the revival of Mystra and the reconstruction of the Weave, Selanar started working on his quest to revive the old elven magic teachings of Arselu’Tel’Quess.
 
 ### Visual aid
+(A5 size)
 ![](https://github.com/despotak/DnD_Character_Repository/raw/master/Characters/Selanar%20Durothil/visual_aid.png)
