@@ -1,6 +1,6 @@
 # Selanar Durothil
 
-![](.\Selanar%20Durothil.jpg)
+![WIP](.\Selanar%20Durothil.jpg)
 
 ## Summary
 
@@ -13,17 +13,27 @@
 
 ## Backstory
 
-*It was Ches 10 1374 DR when Arandur Durothil defied the will of the Durothil matron, Selsharra Durothil, and followed Seiveril Miritar back to Faerûn. If the greatest house is not going to help retake the elven ancestral lands back, then who is going to do it? When finally the city was retaken, Arandur became the head of the Durothil house, while Selsharra stayed back in Evermeet, withholding her place in the Queen's High Council.*
+*"It was Ches 10 in the year of Lightning Storms (1374 DR) when Arandur Durothil defied the will of the Durothil matron, Selsharra Durothil, and followed Seiveril Miritar back to Faerûn. If the greatest house is not going to help retake the elven ancestral lands back, then who is going to do it? When finally the city of Song was retaken, Arandur became the head of the Durothil house, while Selsharra stayed back in Evermeet, withholding her place in the Queen's High Council."*
 
-Born in the year of the Risen Elfkin (1375 DR) {Year of the Harsh Goals in the Black Chronology}, the second son of Arandur, Selanar had always had an easy life. While Taenis, his brother, was to succeed their father as the head of the house, Selanar had the freedom to follow his own path. Arandur had great dreams for his children, wanting them to help the Tel'Quessir recover their lost grandeur. Their bed stories were about Aryvandaar and old Cormanthyr while the dark stories of the Crown Wars and the Fall of Myth Drannor were the prime example of how even the mighty can fall.
+Born in the year of the Risen Elfkin (1375 DR), the second son of Arandur, Selanar had always had an easy life. While Taenis, his brother, was to succeed their father as the head of the house, Selanar had the freedom to follow his own path. Arandur had great dreams for his children, wanting them to help the Tel'Quessir recover their lost grandeur. Their bed stories were about Aryvandaar and old Cormanthyr while the dark stories of the Crown Wars and the Fall of Myth Drannor were the prime examples of how even the mighty can fall.
+
+[//]: # "TODO: info about the tattoo"
+
+[//]: # "**Tattoo on his right hand/forearm:*** silver lightning sigil on hand-back, an elaborate and large tattoo of fine azure lines with yellow finework among them wraps an entire forearm; (while in all individual azure and yellow lines, only under close inspection can one actually see that the tattoo is not a solid green color from wrist to elbow). A series of up to four interlocking circles can be added lengthwise along this tattoo. Concentric lozenges either intersecting the centers of the four rank circles or surrounding all the circles on the outside, all in silver."
+
+[//]: # "WIP"
+
+Born to the house of Durothil comes with some baggage though, no matter how free you want to be. That is the case with Selanar as well since when he started weaving his first dweomercræft, the traces of an ancient tattoo appeared on his right  forearm. Fine azure lines with yellow finework among them wraps the entire forearm, with a series of four interlocking circles lengthwise along this tattoo and concentric lozenges intersecting the centers of the four rank circles, all in silver. 
+
+[//]: # "/WIP"
 
 The tragic passing of Iamorasse Aluviirsan, their mother, was never fully explained and was speculated by many that it was a political assassination from the house's enemies. Fearing for the lives of his greatest treasures, Arandur sent both his sons away from Myth Drannor. Under the watchful eye of Berrenion Faerondalan, they were sent to the "Glade of Elistraee", the fortified secret retreat of House Durothil. Having lost both their parents practically, the brothers had only each other and Berrenion to hold on. It was not until their father's passing, many years later, that the children, men now, returned to Myth Drannor to reclaim their rightful place.
 
 Under the care of Berrenion, both grow to become great examples and paragons of the House Durothil and the Ar'tel'quessir of Myth Drannor. Berrenion also initiated them to the Corellite clergy as Faerna. When the children came to age, Taenis followed the road of the warrior, like their father, while Selanar chose the path of Arselu'Tel'Quess, like their mother. Soon after his brother joined the military school in Evermeet, Selanar left to study at Lady's College. There he studied history, geography, biology, and many other fields. But most importantly he studied Cosmology and the Arcane. As a talented wizard and someone with a cooperative spirit, he joined the Order of the Silver Twilight, a fraternity inside the College whose objective is the advancement of magical knowledge through both ongoing research and archaeological investigation of lost arcane disciplines.
 
-!- TODO -
+That led Selanar to an archeological expedition in the ruins of Sharlarion, to the ancient elven kingdom of Aryvandaaran. After years of research, hampered by the occasional attacks from the dhaeraow who want the secrets of the old city, as well as the remaining terrors that live in the ruins, Selanar's [treatise on Aryvandaaran](./Aryvandaar.pdf) was ready. This publication was greeted with respect from the mentors of the Academy, who awarded the title "Seeker of Mysteries" to Selanar for this.
 
-Soon after that, Selanar reunited with his brother for the funeral of their father. Taenis, as Arandur's heir, took over the reins of House Durothil and Selanar helped him to establish his station. The house's enemies became visible to the brothers and a great deal of time and effort was spent to fortify the house from future intrigues against them.
+Soon after this expedition, Selanar reunited with his brother for the funeral of their father. Taenis, as Arandur's heir, took over the reins of House Durothil and Selanar helped him to establish his station. The house's enemies became visible to the brothers and a great deal of time and effort was spent to fortify the house from future intrigues against them.
 
 With the revival of Mystra and the reconstruction of the Weave, Selanar started working on his quest to revive the old elven magic teachings of Arselu'Tel'Quess.
 
