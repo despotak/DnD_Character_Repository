@@ -17,15 +17,7 @@
 
 Born in the year of the Risen Elfkin (1375 DR), the second son of Arandur, Selanar had always had an easy life. While Taenis, his brother, was to succeed their father as the head of the house, Selanar had the freedom to follow his own path. Arandur had great dreams for his children, wanting them to help the Tel'Quessir recover their lost grandeur. Their bed stories were about Aryvandaar and old Cormanthyr while the dark stories of the Crown Wars and the Fall of Myth Drannor were the prime examples of how even the mighty can fall.
 
-[//]: # "TODO: info about the tattoo"
-
-[//]: # "**Tattoo on his right hand/forearm:*** silver lightning sigil on hand-back, an elaborate and large tattoo of fine azure lines with yellow finework among them wraps an entire forearm; (while in all individual azure and yellow lines, only under close inspection can one actually see that the tattoo is not a solid green color from wrist to elbow). A series of up to four interlocking circles can be added lengthwise along this tattoo. Concentric lozenges either intersecting the centers of the four rank circles or surrounding all the circles on the outside, all in silver."
-
-[//]: # "WIP"
-
-Born to the house of Durothil comes with some baggage though, no matter how free you want to be. That is the case with Selanar as well since when he started weaving his first dweomercræft, the traces of an ancient tattoo appeared on his right  forearm. Fine azure lines with yellow finework among them wraps the entire forearm, with a series of four interlocking circles lengthwise along this tattoo and concentric lozenges intersecting the centers of the four rank circles, all in silver. 
-
-[//]: # "/WIP"
+Born to the house of Durothil comes with some baggage though, no matter how free you want to be. That is the case with Selanar as well since when he started weaving his first dweomercræft, the traces of an ancient tattoo appeared on his right  forearm. Fine azure lines with yellow finework among them wraps the entire forearm, with a series of four interlocking circles lengthwise along this tattoo and concentric lozenges intersecting the centers of the four rank circles, all in silver. A tattoo last seen worn by Josidiah Starym, at least 7 centuries ago, symbolizing the rank of the Spell-Major of Cormanthyr.
 
 The tragic passing of Iamorasse Aluviirsan, their mother, was never fully explained and was speculated by many that it was a political assassination from the house's enemies. Fearing for the lives of his greatest treasures, Arandur sent both his sons away from Myth Drannor. Under the watchful eye of Berrenion Faerondalan, they were sent to the "Glade of Elistraee", the fortified secret retreat of House Durothil. Having lost both their parents practically, the brothers had only each other and Berrenion to hold on. It was not until their father's passing, many years later, that the children, men now, returned to Myth Drannor to reclaim their rightful place.
 
