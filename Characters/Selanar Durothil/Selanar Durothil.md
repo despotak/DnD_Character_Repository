@@ -1,6 +1,6 @@
 # Selanar Durothil
 
-![WIP](.\sk-335.jpg)
+![WIP](.\Selanar_Durothil_high.jpg)
 
 ## Summary
 
