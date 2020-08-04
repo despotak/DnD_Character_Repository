@@ -1,6 +1,79 @@
 # Selanar Durothil
 
+
 ![WIP](.\Selanar_Durothil_high.jpg)
+
+## Character Concept
+
+Selanar is a Sun Elf Mage from Myth Drannor. During his childhood, when he started weaving his first dweomercræft, the traces of an ancient tattoo appeared on his right forearm. A tattoo last seen worn by Josidiah Starym, at least 7 centuries ago, symbolizing the rank of the Spell-Major of Cormanthyr. He was just a fresh recruit of the Akh'Faer when the city fell for the second time. With the revival of Mystra and the reconstruction of the Weave, Selanar started working on his life-long quest to revive the old elven magic teachings of Arselu’Tel’Quess. To accomplice that, he looks for the Quess'Ar'Teranthvar, a set of small scrolls that described fundamental magical theory (Nether Scrolls) and the Ary'Faern'Kerym, the ancient Elfblade that signifies the rank of the Spell-Major, which he considers his right to bear.
+
+## Character Basics
+
+**Full Name:** Selanar Durothil, second son of late Hîr Arandur of House Durothil and late Etriel Iamorasse of House Aluviirsan, loyal subject of Cor'Etriel Ilsevele of House Miritar, Scion of Tintageer and Aryvandaar, Akf'Faern of Cormanthyr, Aegiess of Myth Drannor, Seeker of Mysteries.  
+**Race/Ethnic Group:** Ar'Tel'Quessir (Sun/Gold Elf)  
+**Class/Occupation:** Faer (Wizard) / El'Tael (Bladesiner) / Selu'Taar (Elven High mage)  
+**Gender:** Male  
+**Age:** ~150 years old  
+**Skin:** Bronze  
+**Hair:** Long wavy golden blonde  
+**Eyes:** Metalic silver  
+**Distinguishing Marks:** Tattoo on his right hand/forearm: silver lightning sigil on hand-back, an elaborate and large tattoo of fine azure lines with yellow finework among them wraps an entire forearm; (while in all individual azure and yellow lines, only under close inspection can one actually see that the tattoo is not a solid green color from wrist to elbow). A series of up to four interlocking circles can be added lengthwise along this tattoo. Concentric lozenges either intersecting the centers of the four rank circles or surrounding all the circles on the outside, all in silver.
+
+**Alignment:** Neutral Good  
+**Character Nature:** A bon viveur that will go to the hell and back to save the people who he cares about.  
+
+**Personality Traits:**
+
+* There’s nothing I like more than a good mystery.
+* I take great pains to always look my best and follow the latest fashions.
+* Despite my noble birth, I do not place myself above other folk; we all have the same blood.
+* If someone is in trouble, I’m always ready to lend help.
+* I’m confident in my own abilities and do what I can to instill confidence in others.
+* Traps don't make me nervous. Idiots who trigger traps make me nervous.  
+  
+**Ideals and Goals:**  
+
+* Nothing should fetter the infinite possibility inherent in all existence.
+* What is beautiful points us beyond itself toward what is true.  
+
+**Bonds:**
+
+* I hold no greater cause than my service to my people.
+* I will face any challenge to protect his family.
+* I have been searching my whole life for ways to restore the ancient art of High Magic.
+
+**Flaws:**
+
+* I’m convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure.
+* I am easily distracted by the promise of information.
+* I have an insatiable desire for carnal pleasures.
+* Most people scream and run when they see a demon. I stop and take notes on its anatomy.
+
+**Virtue:** (Prudence) “People only act in ways that they perceive will bring them maximum good. It is the lack of wisdom that results in the making of a bad choice instead of a prudent one.”  
+**Vice:** (Lust) “Lust is the craving for salt of a man who is dying of thirst”  
+**Motto:** “Blood, lust, and pixie dust”
+
+**Short-Term Goal:** Now that the Weave is stable again, I start to practice the art of the arcane magic once again.  
+**Mid-Term Goal:** I am searching for the Quess'Ar'Teranthvar and the Ary'Faern'Kerym.  
+**Long-Term Goal:** I am searching for ways to restore the ancient art of High Magic.  
+
+**Allies:**
+    
+* Taenis Durothil:  Head of house Durothil and big brother of Selanar.
+* House Durothil:  It claims to be one of the founding houses of the gold elves. It had a reputation for producing excellent warriors and wizards, many of whom joined Evermeet's army. 
+* House Miritar: Lady Ilsevele Miritar worked with her father on the Elven Crusade to Myth Drannor, and after his death took up leadership of the Army of Myth Drannor. She became the seventh Coronal of the rebuilt realm of Cormanthyr.
+* Berrenion Faerondalan: A 900-year-old Lateu'suoress (Crescent-blessed) retainer of House Durothil. Resides at the "Glade of Eilistraee".
+  
+**Enemies:**
+
+* Selsharra Durothil: Matron of house Durothil and aunt of Taenis and Selanar. Stayed in Evermeet.
+* Zhentarim: A mercenary company who, over their 200 years of existence, experienced several leaps and bounds in terms of successes, but also several major defeats.
+* House Starym: House Starym is an ultraconservative and powerful elven noble family that once inhabited the city of Cormanthor in the elven empire of Cormanthyr.
+  
+**Organizations:**
+
+* The Silver Twilight: A fraternity inside the College whose objective is the advancement of magical knowledge through both ongoing research and archaeological investigation of lost arcane disciplines.
+* Harpers: A scattered network of spellcasters and spies who advocate equality and covertly oppose the abuse of power. The organization is benevolent, knowledgeable, and secretive.
 
 ## Summary
 
