@@ -1,7 +1,8 @@
 # Selanar Durothil
 
 
-![WIP](.\Selanar_Durothil_high.jpg)
+> ![WIP](.\Selanar_Durothil_high.jpg)
+> ***-Selanar Durothil, the Ar'Tel'Quessir Kerymaer Selu'taar***
 
 ## Character Concept
 
@@ -9,9 +10,9 @@ Selanar is a Sun Elf Mage from Myth Drannor. During his childhood, when he start
 
 ## Character Basics
 
-**Full Name:** Selanar Durothil, second son of late Hîr Arandur of House Durothil and late Etriel Iamorasse of House Aluviirsan, loyal subject of Cor'Etriel Ilsevele of House Miritar, Scion of Tintageer and Aryvandaar, Akf'Faern of Cormanthyr, Aegiess of Myth Drannor, Seeker of Mysteries.  
+**Full Name:** Selanar Durothil, second son of Arandurian of House Durothil and Iamorasseianna of House Aluviirsan, loyal subject of Cor'Etriel Ilsevele of House Miritar, Scion of Tintageer and Aryvandaar, Akf'Faern of Cormanthyr, Aegiess of Myth Drannor, Seeker of Mysteries.  
 **Race/Ethnic Group:** Ar'Tel'Quessir (Sun/Gold Elf)  
-**Class/Occupation:** Faer (Wizard) / El'Tael (Bladesiner) / Selu'Taar (Elven High mage)  
+**Class/Occupation:** Faer (Wizard) / Kerymaer (Bladesiner) / Selu'Taar (Elven High mage)  
 **Gender:** Male  
 **Age:** ~150 years old  
 **Skin:** Bronze  
@@ -102,7 +103,7 @@ Soon after this expedition, Selanar reunited with his brother for the funeral of
 
 In the Year of the Rune Lords Triumphant (1487 DR) he, along with his brother, was among the knights that were tasked with protecting the Coronal, during that attack of the mercenary forces of the Netherese. At the end of the 3rd day of the fight he stood along with Taenis, Ilsevele Miritar, Fflar Starbrow Melruth, Storm Silverhand, and 3 more knights as the last defenders of the Tel'Quess. And when they gotten surrounded by the countless sell-swords is when he saw her; Sapphire-blue hair swirled, dark eyes blazed, the lone petite elf slashed with a sword that was not there, a bloody edge of sharp force sweeping through the air and cleaving flesh, bone, armor and blade alike. Srinshee. In a blink her visage blurred, along with the deepening darkness as the floating city came down on all their heads. The next blink he was somewhere else. Somewhere green and forested and familiar, that lacked tall spires and human butchers-for-coin beyond number and fallen Tel’Quess everywhere. He blinked again, to make sure. Semberholme, that’s where he was. There were elves everywhere around him, in bloody armor, swords in their hands, weeping and embracing. His people, the last Myth Drannans who’d fought beside Ilsevele, she who was now coronal of nowhere.
 
-Three winters passed since then. With the revival of Mystra and the reconstruction of the Weave, Selanar started working on his quest to revive the old elven magic teachings of Arselu’Tel’Quess. He caught wind that Volothamp Geddarm was in Baldur's Gate, so he decided to pay him a visit. He made his way to Iriaebor to buy passage on a ship to the Grey Harbor.
+Three winters passed since then. With the revival of Mystra and the reconstruction of the Weave, Selanar started working on his quest to revive the old elven magic teachings of Arselu’Tel’Quess. He caught wind that Volothamp Geddarm was in [Baldur’s Gate/Waterdeep/Neverwinter], so he decided to pay him a visit. He made his way to Iriaebor to buy passage on a ship to the [Grey Harbor/City of Splendors/Jewel of the North]
 
 ## Lore
 
