@@ -1,0 +1,14 @@
+1:High Elf, Booming Blade. Wizard 1: Arcana, History, Minor Illusion, Green-Flame Blade, Toll the Dead, Shield*, Mage Armor*, Sleep*, Absorb Elements, Find Familiar, Detect Magic.  10/14/14/15/10/8. Noble, Stealth. Quarter staff, Component Pouch, buy Longbow.
+2: Wizard 2, Bladesinger, Rapier, buy Studded Leather Rapier, Grease*, Comprehend Languages
+3: Wizard 3, Mirror Image*, Flaming Sphere*, Sleep(*)
+4: Wizrward 4, Warcaster Feat, Misty Step*, Web*, Mage Armor(*), Ray of Frost
+5: Wizard 5, Hypnotic Pattern*, Leomund’s Tiny Hut
+6: Wizard 6, Counterspell*, Slow*, Web(*)
+7: Wizard 7, Fire Shield, Polymorph*
+8: Wizard 8, INT x2, Watery Sphere*, Greater Invisibility, Fire Shield*
+10: Wizard 10, Fire bolt, Wall of Force*, Rary’s Telepathic Bond, Steel Wind Strike*, Animate Objects*, Flaming Sphere(*)
+12: Wizard 12, Tough, Dimension Door, Contingency, Mass Suggestion*,  Soul Cage*
+14: Wizard 14, Simulacrum, Forcecage*, Crown of Stars*, Teleport
+16: Wizard 16, ASI INT x2, Maze*, Demi plane, Antimagic Field*, Mind Blank, Teleport*
+18: Wizard 18, Spell Mastery: Misty Step Shield, Wish*, Foresight*, True Polymorph, Prismatic Wall
+20: Wizard 20, Alert, Dispel Magic, Thunder step, Water Breathing, Clairvoyance, Signature Spells: Dispel Magic Thunder Step
