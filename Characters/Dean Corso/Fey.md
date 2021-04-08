@@ -108,7 +108,7 @@ Verenestra rarely visits the Prime Material Plane on her own, only doing so to v
 * **Fluff:** [Treasures of the Fey-Market](https://www.tribality.com/2016/05/19/treasures-of-the-fey-market/)
 
 ### Bibliography
-* [Faeries](Faeris.pdf) by Brian Fround and Alan Lee
+* [Faeries](Faeries.pdf) by Brian Fround and Alan Lee
 * [Journey into the Faywild](Journey%20Into%20the%20Feywild.pdf) by Jacky Leung
 * [Gimble's Guide to the Feywild](Gimble's%20Guide%20to%20the%20Feywild.pdf) by David Markiwsky
 * [The Book of the Fey A Fey Bestiary](Pirate%20Gonzalez%20-%20The%20Book%20of%20the%20Fey%20A%20Fey%20Bestiary.pdf) by Pirate Gonzalez
