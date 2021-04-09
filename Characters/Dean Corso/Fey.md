@@ -52,6 +52,16 @@ Your character doesn't have to be intensely clever with wordplay but would proba
 * Always keep your word.
 * Don't repay more than you borrowed.
 
+### Hospitality
+> While I am here, I am bound by the same traditions as would apply were I your invited guest. I will offer no harm to anyone you have accepted into your home, nor take any action which would be considered untoward for a guest. I will report nothing of what I see and hear in this place, and make every effort to aid and assist your household and other guests while I remain.  
+>— Cat Sith
+
+The Code of Honor of the Old World was accepted and expected when negotiating between various supernatural factions. The Obligations of Hospitality and a Sworn Oath are more binding than the threat of violence. A being making such an oath would be obligated to protect the other person from themselves and others making a threat. Failing that duty would be a serious loss of face and respect. Word would get around. In fact, they are almost holy to the Supernatural world.
+
+The Fae, in particular, set great store on forms of courtesy, etiquette, and the relationship of guest to host; proper forms are ignored at great risk. The Sidhe, the Lords of Faerie are likely to have extreme reactions. Further, the Code rules that problems are settled face to face amongst quarrelers. Supernatural fights in the open calls human attention who, as history tells, will band together and kill supernaturals indiscriminately.
+
+Traditional courtesies are respecting safe passage and losing to a guest with grace.
+
 ## The Summer Court
 The members of the Inner Circle are:
 * Queen [Titania](https://forgottenrealms.fandom.com/wiki/Titania), the Summer Queen of the Feywild, leader of the Summer Fey, and possibly the mightiest of all archfey. She is also known as the Faerie Queen and the Queen of Light and leads the Seelie Court.
@@ -101,7 +111,9 @@ Verenestra rarely visits the Prime Material Plane on her own, only doing so to v
 ## Further Reading and Sources
 ### Links
 * **Blue/Orange morality:** [Part 2: The Fae](https://www.reddit.com/r/DnDBehindTheScreen/comments/383xim/blueorange_morality_and_rpgs_thoughts_on_the/), [Part 2.5: Implementing the Fae in game: Patron](https://www.reddit.com/r/DnD/comments/38aaor/blueorange_morality_in_rpgs_part_25_implementing/)
-* **Fey Etiquette and Laws of Hospitality:** [Thread 1](https://www.reddit.com/r/dndnext/comments/7xkzm8/fey_etiquette/), [Thread 2](https://www.reddit.com/r/dndnext/comments/hdjtdl/if_someone_was_bound_by_fey_laws_of_hospitality/), [Thread 3](https://www.dndbeyond.com/forums/d-d-beyond-general/story-lore/42817-true-fey-etiquette)
+* **Fey Etiquette and Laws of Hospitality:** [Reddit /dndnext: Fey Etiquette](https://www.reddit.com/r/dndnext/comments/7xkzm8/fey_etiquette/), [Reddit /r/dndnext: Fey Laws of Hospitality](https://www.reddit.com/r/dndnext/comments/hdjtdl/if_someone_was_bound_by_fey_laws_of_hospitality/), [DNDBeyond: Fey Etiquette](https://www.dndbeyond.com/forums/d-d-beyond-general/story-lore/42817-true-fey-etiquette), [The sacred duty of hospitality](https://www.ancient-hebrew.org/manners/the-sacred-duty-of-hospitality.htm), [Dresden Files: Laws of hospitality
+](https://dresdenfiles.fandom.com/wiki/Laws_of_hospitality), [Sacred Hospitality Tropes
+](https://tvtropes.org/pmwiki/pmwiki.php/Main/SacredHospitality)
 * **Feywild:** [A Guide to the Feywild](https://docs.google.com/document/d/1N1W_v8kBnukfUxSEkGDAjQ6_rSzlBCtMt1Hs2PlIc6w/edit)
 * **Verenestra the Oak Princess:** [The Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Verenestra), [Monster Mythology Update](http://blog.aulddragon.com/2021/01/verenestra-the-oak-princess/)
 * **Warlock Patron Variant:** [The Fey Highlord Patron](https://www.tribality.com/2017/09/07/the-fey-highlord-patron/)
