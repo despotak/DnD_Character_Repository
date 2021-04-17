@@ -29,6 +29,20 @@ The AC penalties do not stack together.
 
 &nbsp;
 
+### Void Sabre
+|                                                                           |                                                                               |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Martial weapon, melee weapon, major tier, rare |                                                                               |
+| Priceless, 3 lb.                                                          | 1d8 magical slashing — Finesse, Armor Piercing (-4) |
+
+&nbsp;
+
+*Void Sabres are archaic weapons seem most frequently among Eldar Corsairs. Crafted from wraithbone interlaced with a rare anathemic crystal found upon Dead Worlds orbiting the edge of the Ghoul Stars, Void Sabres are considered by some within the Eldar race to be accursed. However in many Corsair bands these weapons are considered status symbols.*
+
+When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
+
+&nbsp;
+
 ### Shuriken Pistol
 |                                                                                                 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
@@ -141,10 +155,21 @@ When active (a bonus action) this device emits a forcefield around the wearer. W
 
 ## Equipment
 
-### Tear of Isha
+### Tears of Isha
 
 &nbsp;
 
 *Spirit Stones are made out of psycho-receptive crystals called waystones. At the moment of the Eldar's death, the stone acts like a 'psychic trap', absorbing their psychic self and preventing it from entering the warp and being consumed by the nemesis of the Eldar race: Slaanesh. The Waystone can then be brought back to the Eldar's own Craftworld and embedded into its wraithbone core where it will grow into a larger spirit stone. Once the stone is implanted, the Eldar's soul can travel freely through the wraithbone, mingling with other Eldar souls and forming part of the communal spirit of the Craftworld itself. All the souls within a Craftworld collectively exist inside the Infinity Circuit. In times of dire need, the Eldar are also able to retrieve the spirit stones of long dead Eldar heroes and place them into the artificial bodies of Wraithguards and Wraithlords. These constructs are then piloted by the Eldar soul, which experiences reality as a dream. This process is considered necromancy in Eldar culture and is only used as a last resort. The Eldar Warlocks who specialize in this process are known as Spiritseers. Iyanden, an Eldar Craftworld with a very small population is known for its greater use of these 'living dead'.*
 
 > As we have said, I would like to improve this during our travels from a `Ring of Mind Shielding`, adding an `Amulet of Proof against Detection and Location`, the `Charm against charming` we just got, and finally a `Mind Blank` enchantment.
+
+&nbsp;
+
+## Vehicle
+
+### Aurora class Light Cruiser "Arcadia"
+![](Eldar+Corsair+ships.png)
+![](Eldar+Corsair+ships2.png)
+#### Info:
+https://wh40k.lexicanum.com/wiki/Aurora_Light_Cruiser  
+https://forums.focus-home.com/topic/384/ship-profiles/20
