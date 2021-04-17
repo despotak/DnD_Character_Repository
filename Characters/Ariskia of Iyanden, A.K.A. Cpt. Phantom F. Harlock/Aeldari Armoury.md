@@ -120,4 +120,7 @@ This armor is fashioned from premium materials that are resilient to being damag
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Wondrous Item, futuristic, major tier, legendary |                                                                                                             |
 | Priceless, 1 lb.                                                                                |  |
+
+&nbsp;
+
 When active (a bonus action) this device emits a forcefield around the wearer. Whenever the wearer would take damage, the forcefield is damaged first. The forcefield has 30 hit points and regenerates 1 hit point each round. When a forcefield is reduced to 0 hit points, the void shield breaks and requires a DC 20 Intelligence (Technology) check and 1 minute of work to repair. Deactivating a void shield is a reaction.
