@@ -18,7 +18,6 @@ A Witch Blade contains a helix-shaped, crystalline psychic matrix embedded with 
 &nbsp;
 
 **Lethal Strike.** When you hit a creature with a melee weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
-
 > Based on the Mystic Psionic Weapon discipline
 
 **Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas.
@@ -42,7 +41,6 @@ The AC penalties do not stack together.
 *Void Sabres are archaic weapons seem most frequently among Eldar Corsairs. Crafted from wraithbone interlaced with a rare anathemic crystal found upon Dead Worlds orbiting the edge of the Ghoul Stars, Void Sabres are considered by some within the Eldar race to be accursed. However in many Corsair bands these weapons are considered status symbols.*
 
 When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
-
 > based on the Vicious Weapon
 
 &nbsp;
@@ -60,7 +58,6 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 slashing 
 &nbsp;
 
 **Speed dart** When you hit a creature with a ranged weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
-
 > Based on the Mystic Nomadic Arrow discipline
 
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.
@@ -93,7 +90,6 @@ While equivalent in function to the Imperial Long-Las, the long rifle is custom-
 &nbsp;
 
 **Speed dart** When you hit a creature with a ranged weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
-
 > Based on the Mystic Nomadic Arrow discipline
 
 **Pans-pectral scope.** These rifles are equiped with a Pan-spectral scope sight. While looking through the sight, you have truesight, you have advantage on Wisdom (Perception) checks that rely on sight, and in conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
