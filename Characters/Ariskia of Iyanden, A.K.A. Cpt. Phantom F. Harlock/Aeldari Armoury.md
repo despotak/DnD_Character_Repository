@@ -113,6 +113,8 @@ This armor is fashioned from premium materials that are resilient to being damag
 * The bonus to AC increases to +3.
 * While wearing this armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
+> Legacy items become `Superior` at level 5, `Master` at level 10, and `Epic` at level 15.
+
 &nbsp;
 
 ### Void Shield
@@ -124,3 +126,25 @@ This armor is fashioned from premium materials that are resilient to being damag
 &nbsp;
 
 When active (a bonus action) this device emits a forcefield around the wearer. Whenever the wearer would take damage, the forcefield is damaged first. The forcefield has 30 hit points and regenerates 1 hit point each round. When a forcefield is reduced to 0 hit points, the void shield breaks and requires a DC 20 Intelligence (Technology) check and 1 minute of work to repair. Deactivating a void shield is a reaction.
+
+&nbsp;
+
+### Ghost Helm
+
+&nbsp;
+
+*The Ghost Helm (or Ghosthelm) is a helmet worn by Eldar Farseers. It incorporates intricate crystalline psychic circuitry which helps to mask the wearer's soul or spirit in the warp, protecting them from the depredations of Daemons and other warp creatures.*
+
+> I envision a HUD interface projected in the crystals that act as eyeslots, with information like time, compass, tactical map, tactical enemy information, magnification/zoom, etc., Ironman style. So I plan to combine items like the `Eyes of the Eagle`, the `Eyes of Minute Seeing`, an `Orb of Direction`, an `Orb of Time`, an `Obviator's Lenses`, the `Goggles of Night`, the `Goggles of Object Reading`, a `Danoth's Visor`, a `Dorje of Assess Foe`, etc. This can be an ongoing project, with me adding more and more functionality as we go along.
+
+&nbsp;
+
+## Equipment
+
+### Tear of Isha
+
+&nbsp;
+
+*Spirit Stones are made out of psycho-receptive crystals called waystones. At the moment of the Eldar's death, the stone acts like a 'psychic trap', absorbing their psychic self and preventing it from entering the warp and being consumed by the nemesis of the Eldar race: Slaanesh. The Waystone can then be brought back to the Eldar's own Craftworld and embedded into its wraithbone core where it will grow into a larger spirit stone. Once the stone is implanted, the Eldar's soul can travel freely through the wraithbone, mingling with other Eldar souls and forming part of the communal spirit of the Craftworld itself. All the souls within a Craftworld collectively exist inside the Infinity Circuit. In times of dire need, the Eldar are also able to retrieve the spirit stones of long dead Eldar heroes and place them into the artificial bodies of Wraithguards and Wraithlords. These constructs are then piloted by the Eldar soul, which experiences reality as a dream. This process is considered necromancy in Eldar culture and is only used as a last resort. The Eldar Warlocks who specialize in this process are known as Spiritseers. Iyanden, an Eldar Craftworld with a very small population is known for its greater use of these 'living dead'.*
+
+> As we have said, I would like to improve this during our travels from a `Ring of Mind Shielding`, adding an `Amulet of Proof against Detection and Location`, the `Charm against charming` we just got, and finally a `Mind Blank` enchantment.
