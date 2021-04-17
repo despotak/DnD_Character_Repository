@@ -19,6 +19,8 @@ A Witch Blade contains a helix-shaped, crystalline psychic matrix embedded with 
 
 **Lethal Strike.** When you hit a creature with a melee weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
 
+> Based on the Mystic Psionic Weapon discipline
+
 **Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas.
 * Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
 * Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
@@ -41,19 +43,25 @@ The AC penalties do not stack together.
 
 When you roll a 20 with this magic weapon, the target takes an extra 7 slashing damage.
 
+> based on the Vicious Weapon
+
 &nbsp;
 
 ### Shuriken Pistol
 |                                                                                                 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Firearm, futuristic, martial weapon, ranged weapon, major tier, legendary |                                                                                                             |
-| Priceless, 3 lb.                                                                                | 3d8 radiant - Ammunition (150/600), reload (100), armor piercing (-3). |
+| Priceless, 3 lb.                                                                                | 3d6 magical slashing - Ammunition (150/600), reload (100), armor piercing (-3). |
 
 &nbsp;
 
 *Shuriken Weapons are the primary type of anti-personnel weapons used by the Aeldari. Utilising gravitic pulses, a mono-molecular disc of plasti-crystal taken from the weapon's magazine is accelerated down the barrel of the weapon, hurling it at the target at incredible velocity. The accelerator creates a peristaltic shift from the front to the rear of the firing chamber, hurling the shuriken missiles forward at a tremendous velocity. A burst of several missiles can be fired in a fraction of a second in this way.*
 
 &nbsp;
+
+**Speed dart** When you hit a creature with a ranged weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
+
+> Based on the Mystic Nomadic Arrow discipline
 
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
@@ -75,7 +83,7 @@ Two-Handed. This weapon requires two hands to use. This property is relevant onl
 |                                                                                                 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Firearm, futuristic, martial weapon, ranged weapon, major tier, legendary (requires attunement) |                                                                                                             |
-| Priceless, 7 lb.                                                                                | 3d8 radiant - Ammunition (2,000/8,000), reload (100), scope (range 8,000), armor piercing (-5), two-handed. |
+| Priceless, 7 lb.                                                                                | 6d8 radiant - Ammunition (2,000/8,000), reload (100), scope (range 8,000), armor piercing (-5), two-handed. |
 
 &nbsp;
 
@@ -83,6 +91,10 @@ Two-Handed. This weapon requires two hands to use. This property is relevant onl
 While equivalent in function to the Imperial Long-Las, the long rifle is custom-grown to take advantage of the superior abilities of the Eldar, and its psychically-grown firing crystals maintain a tighter beam over longer distances.*
 
 &nbsp;
+
+**Speed dart** When you hit a creature with a ranged weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
+
+> Based on the Mystic Nomadic Arrow discipline
 
 **Pans-pectral scope.** These rifles are equiped with a Pan-spectral scope sight. While looking through the sight, you have truesight, you have advantage on Wisdom (Perception) checks that rely on sight, and in conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
