@@ -20,11 +20,11 @@ A Witch Blade contains a helix-shaped, crystalline psychic matrix embedded with 
 **Lethal Strike.** When you hit a creature with a melee weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
 
 **Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas.
-	* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
-	* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
-	* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
-	* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
-	* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
+* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
+* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
+* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
+* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
+* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
 The AC penalties do not stack together.
 
 &nbsp;
@@ -33,7 +33,7 @@ The AC penalties do not stack together.
 |                                                                           |                                                                               |
 |---------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Martial weapon, melee weapon, major tier, rare |                                                                               |
-| Priceless, 3 lb.                                                          | 1d8 magical slashing — Finesse, Armor Piercing (-4) |
+| Priceless, 3 lb.                                                          | 1d8 magical slashing — Finesse |
 
 &nbsp;
 
@@ -47,7 +47,7 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 slashing 
 |                                                                                                 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Firearm, futuristic, martial weapon, ranged weapon, major tier, legendary |                                                                                                             |
-| Priceless, 3 lb.                                                                                | 3d8 radiant - Ammunition (150/600), reload (100), armor piercing (-4). |
+| Priceless, 3 lb.                                                                                | 3d8 radiant - Ammunition (150/600), reload (100), armor piercing (-3). |
 
 &nbsp;
 
@@ -59,11 +59,11 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 slashing 
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
 **Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas.
-	* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
-	* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
-	* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
-	* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
-	* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
+* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
+* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
+* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
+* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
+* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
 The AC penalties do not stack together.
 
 **Reload.** A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
@@ -90,11 +90,11 @@ While equivalent in function to the Imperial Long-Las, the long rifle is custom-
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
 **Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas.
-	* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
-	* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
-	* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
-	* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
-	* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
+* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
+* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
+* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
+* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
+* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
 The AC penalties do not stack together.
 
 **Scope.** Firearms with the scope trait have a scope which facilitates extreme long-range engagements. If you have not moved since the end of your last turn, you can use an action to aim down the scope of a firearm that has this trait at a specific target. Once you do so, you are incapacitated and your speed becomes 0 until the start of your next turn. However, the first attack you make against the target at the start of your next turn is made as if the firearm has a different range value (listed in parentheses), with no long range at which attacking imposes disadvantage on your attack roll.
