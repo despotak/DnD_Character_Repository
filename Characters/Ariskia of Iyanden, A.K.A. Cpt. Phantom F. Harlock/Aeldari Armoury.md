@@ -139,11 +139,13 @@ This armor is fashioned from premium materials that are resilient to being damag
 
 &nbsp;
 
-### Void Shield
+### Shimmershield
 |                                                                                                 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Wondrous Item, futuristic, major tier, legendary |                                                                                                             |
 | Priceless, 1 lb.                                                                                |  |
+
+*A Shimmershield is a piece of Eldar battle equipment used primarily by Exarchs of the Dire Avenger warrior aspect. It has also been reported to be used by Eldar Corsair Princes, Voidstorm Squads and Void Dreamers. It is an advanced force-field generator that is strong enough to protect the Exarch and the Dire Avengers around him from melee attacks.*
 
 &nbsp;
 
