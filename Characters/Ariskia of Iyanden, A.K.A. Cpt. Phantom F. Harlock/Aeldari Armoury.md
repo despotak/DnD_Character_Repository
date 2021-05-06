@@ -17,6 +17,9 @@ A Witch Blade contains a helix-shaped, crystalline psychic matrix embedded with 
 
 &nbsp;
 
+When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
+> Based on the Sword of Sharpness
+
 **Lethal Strike.** When you hit a creature with a melee weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
 > Based on the Mystic Psionic Weapon discipline
 
