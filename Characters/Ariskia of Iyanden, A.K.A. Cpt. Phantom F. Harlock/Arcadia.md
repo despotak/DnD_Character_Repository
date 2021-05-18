@@ -1,4 +1,4 @@
-## Arcadia (Aurora Class ~~Light Cruiser~~ Corvette)
+## Arcadia (Aurora Class Corvette)
 *Gargantuan vehicle (310 ft. by 170 ft.)*
 
 |                          |                 |
@@ -21,8 +21,8 @@
 ### Stores
 | Food | Drink | Medical | Supplies | Bolts | Shot | Special |
 |:----:|:-----:|:-------:|:--------:|:-----:|:----:|:-------:|
-|  10  |  10   |    2    |     2    |   -   |   -  |    30    |
-|   1.500 gmp  |   1.500 gpm   |    20 gp    |     40 gp    |   -   |   -  |    60 gp    |
+|  5  |  5   |    2    |     2    |   -   |   -  |    30    |
+|   750 gmp  |   50 gpm   |    20 gp    |     40 gp    |   -   |   -  |    60 gp    |
 
 ---
 
