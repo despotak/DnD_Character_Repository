@@ -3,7 +3,7 @@
 
 |                          |                 |
 |--------------------------|-----------------|
-| **Crew Capacity:** 50/100    | **Crew Quality:** 4 |
+| **Crew Capacity:** 50/100    | **Crew Quality:** 6 |
 | **Cargo Capacity:** 150 tons | **Ship Size:** +15  |
 | **Travel Pace:** Wildspace 4.000.000 mph, Air 500 mph           |                 |
 
@@ -34,7 +34,7 @@
 ### Holofield
 > *Holo-fields are programmable hologram fields utilized by the Eldar to defend themselves from enemy attacks. Rather than a typical force field which directly blocks an attack a holo-field distorts the user's image, preventing them from being hit in the first place. When stationary the field mimics the surrounding terrain so that the person or vehicle becomes invisible, but when they move the field causes their image to explode into a cloud of tiny, multi-coloured fragments, with the fragments dispersing more widely the faster they move and then collapsing back together as the subject stops, giving rise to the term jigsaw or domino field.*
 
-**Effect:** Make the craft and the crew invisible to an outside observer, if the craft is not moving. If the craft is moving, the holofield causes attacks against the craft to have disadvantage.  
+**Effect:** Make the craft and the crew invisible to an outside observer, if the craft is not moving. If the craft is moving, the holofield causes attacks against the craft to have disadvantage.<!---limiter needed-->  
 
 ### Helm
 **Armor Class:** 18  
@@ -56,7 +56,7 @@
 **Speed** *(Air)***:** 120ft.  <!---tunning might be needed-->
 
 ### Eye of Harmony
-> Extracting energy from a [charged rotating black hole](https://en.wikipedia.org/wiki/Kerr%E2%80%93Newman_metric) ([Sphere of Annihilation](https://www.dndbeyond.com/magic-items/sphere-of-annihilation) in D&D terminology) through a combination of [Hawking Radiation](https://en.wikipedia.org/wiki/Hawking_radiation) and the [Penrose process](https://en.wikipedia.org/wiki/Penrose_process). In terms of SJ, it works like a [Pump Helm](https://spelljammer.fandom.com/wiki/Spelljammer_Helms#Pump_Helm) but with much greater efficiency.
+> Extracting energy from a [charged rotating black hole](https://en.wikipedia.org/wiki/Kerr%E2%80%93Newman_metric) ([Sphere of Annihilation](https://www.dndbeyond.com/magic-items/sphere-of-annihilation) in D&D terminology) through a combination of [Hawking Radiation](https://en.wikipedia.org/wiki/Hawking_radiation) and the [Penrose process](https://en.wikipedia.org/wiki/Penrose_process). In terms of SJ, it works like a [Pump Helm](https://spelljammer.fandom.com/wiki/Spelljammer_Helms#Pump_Helm) but with much greater efficiency (1 kg ≈ 3.77×10<sup>16</sup> J).
 
 **Effect:** A pound of material can power the craft for XXXX <!---TO DECIDE-->    
 
@@ -76,7 +76,7 @@
 **Ranged Weapon Attack:** +CQ to hit, range xxxx/xxxx ft. (can't hit targets within 60ft. of it), one target. Hit: xx (xxdxx) radiant damage. Uses Special.   
 
 ### Torpedo Launcher (4)
-<!---Neutron Warhead Torpedos-->
+<!---Neutron Warhead & Sonic Torpedos-->
 > Eldar torpedoes carry sophisticated scrambling systems and targeting sensors. These make them highly accurate and difficult to shoot down. While most commonly equipped with Neutron Warheads the Eldar also use a specialized variant of Torpedo known as the Sonic Torpedo, which is a gigantic Sonic Weapon. A Sonic Weapon, these torpedoes are fired from Eldar warships and release powerful sonic explosions upon impact.
 
 `Forward Facing`
