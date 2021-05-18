@@ -14,15 +14,15 @@
 
 ---
 
-**Salaries:** 1.530gpm  
-**Maintenance Cost:** 100gpm  
+**Salaries:** 1.530 gpm  
+**Maintenance Cost:** 100 gpm  
 **Orders:** 4 - The crew can perform 1 order per 12 sailors.  
 
 ### Stores
 | Food | Drink | Medical | Supplies | Bolts | Shot | Special |
 |:----:|:-----:|:-------:|:--------:|:-----:|:----:|:-------:|
 |  10  |  10   |    2    |     2    |   -   |   -  |    30    |
-|   1.500gmp  |   1.500gpm   |    20gp    |     40gp    |   -   |   -  |    60gp    |
+|   1.500 gmp  |   1.500 gpm   |    20 gp    |     40 gp    |   -   |   -  |    60 gp    |
 
 ---
 
@@ -44,7 +44,7 @@
 ### Tachyon Engines
 > Used mainly for superluminal flight.  
 
-**Armor Class:** 12 
+**Armor Class:** 12  
 **Hit Points:** 100; -10ft. Speed per 25 damage taken  
 **Speed** *(Air)***:** 120ft.  <!---tunning might be needed-->
 
