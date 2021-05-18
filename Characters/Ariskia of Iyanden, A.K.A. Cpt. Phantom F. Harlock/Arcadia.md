@@ -130,70 +130,113 @@
 ## Command
 
 **Captain (CO):**  
+
 **Executive Officer (XO):**<!---First Mate-->  
-**Helm 1st Class:**  
-**Helm 2nd Class:**  
-**Navigator:**  
-**Ordnance Officer:**  
-**Ordnance Specialist (Laser):**  
-**Ordnance Specialist (Torpedo):**  
-**Ordnance Specialist (Shuriken):**  
+
+**Helm 1st Class:** Shalu  
+
+**Helm 2nd Class:** Sigre: Female Elf Aristocrat, CN. Str 5, Dex 7, Con 11, Int 13, Wis 7, Cha 5. Sigre has a long face, with gray hair and green eyes. She wears fine raiment and jewelry. Sigre has a mild allergy to silver.  
+
+**Navigator:** Sidab: Female Dragonborn Scholar, N. Str 11, Dex 12, Con 9, Int 11, Wis 11, Cha 5. Sidab has bronze scales and gray eyes, and horns engraved with strange symbols. She wears fine clothing and carries a fine stiletto. Sidab is mischievous and fanatical.  
+
+**Ordnance Officer:** Nezhu  
+
+**Ordnance Specialist (Laser):** Rewyn: Male Human Professional, CG. Str 10, Dex 11, Con 6, Int 12, Wis 11, Cha 6. Rewyn has a narrow face, with copper hair and brown eyes. He wears expensive clothing and numerous rings.  
+
+**Ordnance Specialist (Torpedo):** Thiudane: Female Half-orc Professional, N. Str 6, Dex 8, Con 8, Int 9, Wis 14, Cha 14. Thiudane is exceptionally beautiful, with silver hair and bright green eyes. She wears tailored clothing and silk gloves. Thiudane seeks to free herself from an ancient curse.  
+
+**Ordnance Specialist (Shuriken):** Gerey: Male Human Professional, N. Str 14, Dex 11, Con 6, Int 5, Wis 8, Cha 15. Gerey has a square face, with copper hair and soft amber eyes. He wears well-made clothing and several pouches hang from his belt.  
 
 ## Science Medical
 
-**Science Chief:**<!---Ship's Mage-->  
+**Science Chief:**<!---Ship's Mage--> Induinyen: Female Elf Sage, NG. Str 11, Dex 6, Con 11, Int 15, Wis 13, Cha 7. Induinyen is exceptionally beautiful, with copper hair and soft green eyes. She wears fine raiment and jewelry.  
+
 **Chief Medical Officer:**<!---Surgeon-->  
-**Doctor:**
-**Head Nurse:**  
-**Nurse 1st Class:**  
-**Nurse 2nd Class:**  
-**Medical Tech 1st Class:**  
-**Medical Tech 2nd Class:**  
+
+**Doctor:** Olfil: Male Half-elf Priest, LN. Str 10, Dex 7, Con 13, Int 8, Wis 12, Cha 10. Olfil has straight golden hair and bright amber eyes, and an unusual scar on his face. He wears well-made clothing and a dragonscale cloak. Olfil has an animal companion, a hunting dog named Ohil.
+
+**Head Nurse:** Abes: Male Gnome Priest, LG. Str 14, Dex 15, Con 12, Int 10, Wis 12, Cha 8. Abes is tall, with auburn hair and green eyes. He wears tailored clothing and a gold amulet. Abes compulsively plays with a copper coin.  
+
+**Nurse 1st Class:** Helcha: Female Tiefling Priest, N. Str 12, Dex 7, Con 8, Int 10, Wis 12, Cha 10. Helcha has dark red hair and gold eyes, and wears glasses with electrum rims. She wears fine clothing and a rabbit fur cape. Helcha has an acute fear of open water.  
+
+**Nurse 2nd Class:** Elrel: Male Halfling Priest, NG. Str 11, Dex 9, Con 8, Int 9, Wis 7, Cha 14. Elrel is tall, with uneven copper hair and hazel eyes. He wears modest garments and silk gloves. Elrel is haunted by the memories of a past life.  
+
+**Medical Tech 1st Class:** Bornore: Male Elf Alchemist, NE. Str 8, Dex 13, Con 6, Int 10, Wis 10, Cha 11. Bornore has copper hair and green eyes, and an uneven moustache. He wears fine clothing and a gold amulet.  
+
+**Medical Tech 2nd Class:** Agnifg Rymidotr: Female Dwarf Alchemist, CG. Str 13, Dex 12, Con 6, Int 10, Wis 12, Cha 9. Agnifg has a long face, with red hair and light amber eyes. She wears tailored clothing and a silver holy symbol. Agnifg seeks to atone for past sins.  
 
 ## Engineering/Communications
 
-**Chief Engineer:**<!---Bosum/Chief-->  
-**Engineer Tech 1st Class:**  
-**Engineer Tech 2nd Class:**  
-**Engineer Tech 3rd Class:**  
-**Engineer Tech 4th Class:**  
-**Engineer Tech 5th Class:**  
-**Communication Chief:**  
-**Communication Officer:**  
-**Communication Technician:**  
+**Chief Engineer:**<!---Bosum/Chief--> Ebex: Male Elf Craftsman, N. Str 10, Dex 7, Con 11, Int 13, Wis 10, Cha 10. Ebex has uneven auburn hair and narrow green eyes. He wears simple clothing and a bronze amulet.  
+
+**Engineer Tech 1st Class:** Maly Parry: Female Human Craftsman, N. Str 12, Dex 8, Con 10, Int 11, Wis 15, Cha 12. Maly has blonde hair and narrow hazel eyes, and pointed ears. She wears modest garments and several small tools hang from her belt.  
+
+**Engineer Tech 2nd Class:** Gonore: Male Half-elf Craftsman, N. Str 7, Dex 10, Con 10, Int 12, Wis 9, Cha 6. Gonore has auburn hair and brown eyes. He wears simple clothing and a wooden holy symbol. Gonore is searching for his lost sister.  
+
+**Engineer Tech 3rd Class:** Altent: Male Halfling Craftsman, N. Str 7, Dex 10, Con 6, Int 7, Wis 5, Cha 10. Altent has a square face, with red hair and bright green eyes. He wears well-made clothing and several small tools hang from his belt. Altent seeks revenge against the sister who betrayed him  
+
+**Engineer Tech 4th Class:** Issawst: Female Elf Craftsman, NE. Str 14, Dex 12, Con 13, Int 8, Wis 10, Cha 11. Issawst has tangled red hair and hazel eyes. She wears sturdy clothing and carries a long knife. Issawst is perverted and crude.  
+
+**Engineer Tech 5th Class:** Tare: Male Elf Craftsman, N. Str 12, Dex 8, Con 12, Int 9, Wis 13, Cha 10. Tare has a long face, with messy white hair and gray eyes. He wears well-made clothing and carries an oak staff. Tare is inventive and polite.  
+
+**Communication Chief:** Miniga: Male Tiefling Scholar, LN. Str 5, Dex 10, Con 8, Int 13, Wis 14, Cha 9. Miniga has dark blue hair and gold eyes, and rows of shark-like teeth. He wears tailored clothing and an ermine fur cape.  
+
+**Communication Officer:** Cora: Female Elf Entertainer, CG. Str 10, Dex 13, Con 15, Int 12, Wis 11, Cha 12. Cora has red hair and soft brown eyes, and a round nose. She wears modest garments and numerous rings. Cora seeks to free herself from an ancient curse.  
+
+**Communication Technician:** Johny Velley: Male Human Scholar, LN. Str 15, Dex 8, Con 11, Int 8, Wis 10, Cha 8. Johny has a square face, with black hair and green eyes. He wears tailored clothing and a copper amulet. Johny is agreeable and stoic.  
 
 ## Food/Janitorial
 
-**Head Chef:**  
-**Cook 1st Class:**  
-**Cook 2nd Class:**  
-**Chief Janitor:**  
+**Head Chef:** Elelwis: Female Elf Professional, NG. Str 6, Dex 10, Con 13, Int 14, Wis 12, Cha 9. Elelwis has short red hair and green eyes, and an unusual scar on her face. She wears expensive clothing and a dragonscale cloak. Elelwis seeks to make amends for a life accidentally taken.  
+
+**Cook 1st Class:** Orod: Male Elf Servant, NE. Str 8, Dex 9, Con 10, Int 12, Wis 10, Cha 12. Orod has brown hair and amber eyes. He wears modest garments and carries a long knife. Orod is impossibly lucky.  
+
+**Cook 2nd Class:** Alfrimo Gamge: Female Halfling Peasant, NG. Str 9, Dex 8, Con 5, Int 11, Wis 12, Cha 10. Alfrimo has a narrow face, with red hair and soft gray eyes. She wears plain clothing and a wide-brimmed hat. Alfrimo was petrified for a hundred years.  
+
+**Chief Janitor:** Aennad: Female Human Peasant, LG. Str 12, Dex 9, Con 8, Int 10, Wis 10, Cha 9. Aennad is thin, with matted brown hair and gray eyes. She wears well-made clothing and riding boots. Aennad is searching for her missing son.  
 
 ## Maintenance
 
-**Maintenance Chief:**  
-**Hull Repair technician 1st Class:**  
-**Hull Repair technician 2nd Class:**  
+**Maintenance Chief:** Geoffry: Male Human Craftsman, N. Str 5, Dex 8, Con 8, Int 9, Wis 11, Cha 11. Geoffry is fair in appearance, with copper hair and brown eyes. He wears travel-stained clothing and carries a long knife. Geoffry has an animal companion, a red fox named Gery.  
+
+**Hull Repair technician 1st Class:** Sigve: Female Dwarf Craftsman, N. Str 13, Dex 10, Con 6, Int 10, Wis 10, Cha 10. Sigve has copper hair and blue eyes. She wears modest garments and several small tools hang from her belt.  
+
+**Hull Repair technician 2nd Class:** Kater: Female Human Craftsman, N. Str 9, Dex 12, Con 14, Int 13, Wis 15, Cha 12. Kater has a narrow face, with uneven brown hair and hazel eyes. She wears modest garments and carries a long knife.  
 
 ## Security/Defense/Intellience
 
-**Gunner (Lance), 1st Class:**  
-**Gunner (Lance), 2nd Class:**  
-**Gunner (Lance), 3rd Class:**  
-**Gunner (Torpedo), 1st Class:**  
-**Gunner (Torpedo), 2nd Class:**  
-**Gunner (Shuriken), 1st Class:**  
-**Gunner (Shuriken), 2nd Class:**  
-**Gunner (Shuriken), 3rd Class:**  
-**Security Chief:**  
-**Security Officer:**  
-**Chief Sensor Officer:**  
-**Sensor Technician:**
+**Gunner (Lance), 1st Class:** Ecin Wyne: Female Human Soldier, N. Str 10, Dex 10, Con 10, Int 10, Wis 12, Cha 10. Ecin has straight blonde hair and narrow amber eyes, and a thin nose. She wears studded leather and wields a morningstar. Ecin is impossibly lucky.  
+
+**Gunner (Lance), 2nd Class:** Mugi: Male Dwarf Mercenary, NE. Str 11, Dex 9, Con 14, Int 15, Wis 13, Cha 12. Mugi has messy blonde hair and light brown eyes. He wears leather armor and wields a morningstar and shield.  
+
+**Gunner (Lance), 3rd Class:** Thilda Skoptidotr: Female Dwarf Soldier, N. Str 12, Dex 10, Con 9, Int 12, Wis 8, Cha 12. Thilda is exceptionally beautiful, with golden hair and dark hazel eyes. She wears studded leather and wields a warhammer and heavy crossbow. Thilda is lustful and nervous.  
+
+**Gunner (Torpedo), 1st Class:** Sane: Female Halfling Mercenary, CN. Str 6, Dex 11, Con 12, Int 12, Wis 11, Cha 8. Sane is thin, with thin golden hair and light gray eyes. She wears studded leather and wields a war pick. Sane seeks revenge against the sister who betrayed her.  
+
+**Gunner (Torpedo), 2nd Class:** Mered: Male Halfling Mercenary, N. Str 10, Dex 10, Con 12, Int 9, Wis 11, Cha 13. Mered has black hair and soft amber eyes, and a round nose. He wears leather armor and wields a trident and shield. Mered is dying and desperately seeks the secret of immortality.  
+
+**Gunner (Shuriken), 1st Class:** Verti Budison: Male Elf Mercenary, CG. Str 9, Dex 10, Con 6, Int 8, Wis 10, Cha 10. Verti is fey in appearance, with red hair and gray eyes. He wears leather armor and wields a trident. Verti is generous and protective.  
+
+**Gunner (Shuriken), 2nd Class:** Drancis Arches: Male Human Soldier, LG. Str 10, Dex 10, Con 10, Int 11, Wis 6, Cha 12. Drancis has a narrow face, with silver hair and light hazel eyes. He wears studded leather and wields a battleaxe and heavy crossbow. Drancis is cheerful and impartial.  
+
+**Gunner (Shuriken), 3rd Class:** Lenda: Female Elf Mercenary, CN. Str 13, Dex 12, Con 11, Int 9, Wis 12, Cha 6. Lenda is fey in appearance, with braided golden hair and sharp green eyes. She wears studded leather and wields a rapier and blowgun. Lenda has a terrible sense of direction.  
+
+**Security Chief:** Thonu  
+
+**Security Officer:** Comi: Male Elf Soldier, CE. Str 9, Dex 10, Con 10, Int 7, Wis 11, Cha 6. Comi is wretched in appearance, with thick brown hair and hazel eyes. He wears studded leather and wields a greatsword.  
+
+**Chief Sensor Officer:** Elin: Female Human Scholar, N. Str 9, Dex 12, Con 10, Int 9, Wis 10, Cha 9. Elin has a square face, with short white hair and blue eyes. She wears modest garments and a fox fur cape. Elin has an animal companion, a red fox named Wulfa.  
+
+**Sensor Technician:** Gaathene: Female Tiefling Scholar, N. Str 7, Dex 10, Con 13, Int 9, Wis 9, Cha 14. Gaathene has gray hair and red eyes, and a pair of tiny wings. She wears fine clothing and numerous rings.
 
 ## Miscellanous Crew	
 
-**Instructor:**  
+**Instructor:** Athyert Payne: Male Halfling Scholar, NE. Str 10, Dex 10, Con 14, Int 10, Wis 8, Cha 10. Athyert has an angular face, with matted blonde hair and sharp brown eyes. He wears modest garments and silk gloves.  
+
 **Cargo Chief:**<!---Quartermaster-->  
-**Cargo Handler 1st Class:**  
-**Cargo Handler 2nd Class:**  
-**Cargo Handler 3rd Class:**  
+
+**Cargo Handler 1st Class:** Elyerith: Female Half-elf Merchant, N. Str 9, Dex 6, Con 13, Int 9, Wis 13, Cha 9. Elyerith has matted gray hair and light brown eyes. She wears plain clothing and carries a blackthorn staff. Elyerith has an animal companion, a gray rabbit named Athell.  
+
+**Cargo Handler 2nd Class:** Nezzaru: Male Dragonborn Servant, NG. Str 11, Dex 9, Con 15, Int 12, Wis 11, Cha 6. Nezzaru has bronze scales and light gray eyes. He wears plain clothing and a wooden holy symbol. Nezzaru seeks to free himself from an ancient curse.  
+
+**Cargo Handler 3rd Class:** Altaren: Female Elf Peasant, LN. Str 11, Dex 10, Con 10, Int 8, Wis 8, Cha 11. Altaren is overweight, with messy black hair and narrow hazel eyes. She wears well-made clothing and a yellow cloak. Altaren seeks revenge against the sister who betrayed her.  
