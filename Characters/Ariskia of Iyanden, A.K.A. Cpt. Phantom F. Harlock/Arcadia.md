@@ -99,7 +99,7 @@
 
 ---
 
-## Officers
+<!---## Officers
 **Captain:**  
 **First Mate:**  
 **Bosum:**  
@@ -125,4 +125,75 @@
 #### 
 ### Ship's Guard
 ### Mounted Units
-### Night Shift
+### Night Shift-->
+
+## Command
+
+**Captain (CO):**  
+**Executive Officer (XO):**<!---First Mate-->  
+**Helm 1st Class:**  
+**Helm 2nd Class:**  
+**Navigator:**  
+**Ordnance Officer:**  
+**Ordnance Specialist (Laser):**  
+**Ordnance Specialist (Torpedo):**  
+**Ordnance Specialist (Shuriken):**  
+
+## Science Medical
+
+**Science Chief:**<!---Ship's Mage-->  
+**Chief Medical Officer:**<!---Surgeon-->  
+**Doctor:**
+**Head Nurse:**  
+**Nurse 1st Class:**  
+**Nurse 2nd Class:**  
+**Medical Tech 1st Class:**  
+**Medical Tech 2nd Class:**  
+
+## Engineering/Communications
+
+**Chief Engineer:**<!---Bosum/Chief-->  
+**Engineer Tech 1st Class:**  
+**Engineer Tech 2nd Class:**  
+**Engineer Tech 3rd Class:**  
+**Engineer Tech 4th Class:**  
+**Engineer Tech 5th Class:**  
+**Communication Chief:**  
+**Communication Officer:**  
+**Communication Technician:**  
+
+## Food/Janitorial
+
+**Head Chef:**  
+**Cook 1st Class:**  
+**Cook 2nd Class:**  
+**Chief Janitor:**  
+
+## Maintenance
+
+**Maintenance Chief:**  
+**Hull Repair technician 1st Class:**  
+**Hull Repair technician 2nd Class:**  
+
+## Security/Defense/Intellience
+
+**Gunner (Lance), 1st Class:**  
+**Gunner (Lance), 2nd Class:**  
+**Gunner (Lance), 3rd Class:**  
+**Gunner (Torpedo), 1st Class:**  
+**Gunner (Torpedo), 2nd Class:**  
+**Gunner (Shuriken), 1st Class:**  
+**Gunner (Shuriken), 2nd Class:**  
+**Gunner (Shuriken), 3rd Class:**  
+**Security Chief:**  
+**Security Officer:**  
+**Chief Sensor Officer:**  
+**Sensor Technician:**
+
+## Miscellanous Crew	
+
+**Instructor:**  
+**Cargo Chief:**<!---Quartermaster-->  
+**Cargo Handler 1st Class:**  
+**Cargo Handler 2nd Class:**  
+**Cargo Handler 3rd Class:**  
