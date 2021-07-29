@@ -5,7 +5,7 @@
 |--------------------------|-----------------|
 | **Crew Capacity:** 50/100    | **Crew Quality:** 6 |
 | **Cargo Capacity:** 150 tons | **Ship Size:** +15  |
-| **Travel Pace:** Wildspace 4.000.000 mph, Air 500 mph           |                 |
+| **Travel Pace:** Wildspace 4.000.000 mph, Tactical 10 hex, Air 500 mph           |                 |
 
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -73,7 +73,7 @@
 
 **Armor Class:** 15  
 **Hit Points:** 100  
-**Ranged Weapon Attack:** +CQ to hit, range xxxx/xxxx ft. (can't hit targets within 60ft. of it), one target. Hit: xx (xxdxx) radiant damage. Uses Special.   
+**Ranged Weapon Attack:** +CQ to hit, range 6/8 miles (can't hit targets within 60ft. of it), one target. Hit: 132 (24d10) radiant damage. Uses Special.   
 
 ### Torpedo Launcher (4)
 <!---Neutron Warhead & Sonic Torpedos-->
@@ -83,7 +83,7 @@
 
 **Armor Class:** 15  
 **Hit Points:** 100  
-**Ranged Weapon Attack:** +CQ to hit, range xxxx/xxxx ft. (can't hit targets within 60ft. of it), one target. Hit: (Neutron torpedo) xx (xxdxx) fire damage plus xx (xxdxx) necrotic damage, (Sonic torpedo) xx (xxdxx) thunder damage. Uses Special.
+**Ranged Weapon Attack:** +CQ to hit, range xxxx/xxxx ft. (can't hit targets within 60ft. of it), one target. Hit: (Neutron torpedo) 280 (80d6) fire damage plus 280 (80d6) necrotic damage, (Sonic torpedo) 65 (10d12) thunder damage. Uses Special.
 
 ### Shuriken Cannon (6)
 <!---Monomolecular Coil Turrets -->
@@ -95,7 +95,7 @@
 
 **Armor Class:** 15  
 **Hit Points:** 100  
-**Ranged Weapon Attack:** +CQ to hit, range xxxx/xxxx ft., one target. Hit: xx (xxdxx) slashing damage. Uses Special.
+**Ranged Weapon Attack:** +CQ to hit, range 3/6 miles, one target. Hit: 55 (10d10) slashing damage. Uses Special.
 
 ---
 
