@@ -1,7 +1,7 @@
 # Selanar Durothil
 
 
-> ![WIP](.\Selanar_Durothil_high.jpg)
+> ![](Selanar_Durothil_high.jpg)
 > ***-Selanar Durothil, the Ar'Tel'Quessir Kerymaer Selu'taar***
 
 ## Character Concept
