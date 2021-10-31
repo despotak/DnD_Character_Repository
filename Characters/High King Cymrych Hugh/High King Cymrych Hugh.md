@@ -2,15 +2,15 @@
 
 ## Character Concept
 
-> ![](High_King_Cymrych_Hugh.jpg)
+> ![](High_King_Cymrych_Hugh.jpg)  
 > ***-High King Cymrych Hugh***
 
 **Cadwgan** is the Heroic Spirit of High King Cymrych Hugh brought back to life by unknown means and bound to the 7-year-old girl Eirene as her servant.
 
 (Based on the [Heroic Spirit](https://typemoon.fandom.com/wiki/Heroic_Spirit) ideas from the [Fate series](https://typemoon.fandom.com/wiki/Fate_series) by [Kinoko Nasu](https://typemoon.fandom.com/wiki/Kinoko_Nasu) and the Forgotten Realms' equivalent of King Arthur Pendragon)
 
-> ![](Eirine.png)
-> ![](Eirine2.jpg)
+> ![](Eirine.png)  
+> ![](Eirine2.jpg)  
 > ***-Eirine***
 
 ## Character Basics
@@ -98,9 +98,9 @@ https://www.youtube.com/watch?v=2LJFr7wtD-s
 
 ## Images
 
-![](High_King_Cymrych_Hugh_2.jpg)
-![](High_King_Cymrych_Hugh_3.jpg)
-![](High_King_Cymrych_Hugh_4.jpg)
-![](High_King_Cymrych_Hugh_5.jpg)
-![](High_King_Cymrych_Hugh_6.jpg)
-![](High_King_Cymrych_Hugh_7.jpg)
+![](High_King_Cymrych_Hugh_2.jpg)  
+![](High_King_Cymrych_Hugh_3.jpg)  
+![](High_King_Cymrych_Hugh_4.jpg)  
+![](High_King_Cymrych_Hugh_5.jpg)  
+![](High_King_Cymrych_Hugh_6.jpg)  
+![](High_King_Cymrych_Hugh_7.jpg)  
