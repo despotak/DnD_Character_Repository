@@ -76,8 +76,6 @@ The AC penalties do not stack together.
 
 **Reload.** A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
 
-**Two-Handed.** This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
-
 &nbsp;
 
 ### Ranger Long Rifle
@@ -113,6 +111,8 @@ The AC penalties do not stack together.
 
 **Reload.** A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
 Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
+
+**Two-Handed.** This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
 &nbsp;
 
