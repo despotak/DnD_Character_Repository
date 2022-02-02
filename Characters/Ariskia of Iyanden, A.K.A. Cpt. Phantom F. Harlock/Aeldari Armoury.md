@@ -6,7 +6,7 @@
 |                                                                           |                                                                               |
 |---------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | Martial weapon, melee weapon, major tier, legendary (requires attunement) |                                                                               |
-| Priceless, 3 lb.                                                          | 1d8 magical piercing plus 1d8 magical slashing — Finesse, Armor Piercing (-4) |
+| Priceless, 3 lb.                                                          | 1d8 magical piercing plus 1d8 magical slashing — Finesse, Armor Piercing (2) |
 
 &nbsp;
 
@@ -23,13 +23,7 @@ When you attack an object with this magic sword and hit, maximize your weapon da
 **Lethal Strike.** When you hit a creature with a melee weapon attack, you can expend psi points, up to your psi limit, to deal psychic damage to the target, in addition to the weapon's damage. The extra damage is 1d10 per psi point spent. The extra damage ignores resistance to phychic damage and treats immunity to psychic damage as resistance to phychic damage.
 > Based on the Mystic Psionic Weapon discipline
 
-**Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas.
-* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
-* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
-* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
-* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
-* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
-The AC penalties do not stack together.
+**Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas. You have a +2 bonus to attack rolls made with this magic weapon.
 
 &nbsp;
 
@@ -52,7 +46,7 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 slashing 
 |                                                                                                 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Firearm, futuristic, martial weapon, ranged weapon, major tier, legendary |                                                                                                             |
-| Priceless, 3 lb.                                                                                | 3d6 magical slashing - Ammunition (150/600), reload (100), armor piercing (-3). |
+| Priceless, 3 lb.                                                                                | 3d6 magical slashing - Ammunition (80/320), reload (10), armor piercing (1). |
 
 &nbsp;
 
@@ -66,13 +60,7 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 slashing 
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
-**Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas.
-* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
-* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
-* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
-* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
-* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
-The AC penalties do not stack together.
+**Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas. You have a +1 bonus to attack rolls made with this magic weapon.
 
 **Reload.** A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
 
@@ -82,7 +70,7 @@ The AC penalties do not stack together.
 |                                                                                                 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | Firearm, futuristic, martial weapon, ranged weapon, major tier, legendary (requires attunement) |                                                                                                             |
-| Priceless, 7 lb.                                                                                | 6d8 radiant - Ammunition (2,000/8,000), reload (100), scope (range 8,000), armor piercing (-5), two-handed. |
+| Priceless, 7 lb.                                                                                | 6d8 radiant - Ammunition (2,000/8,000), loading, scope (range 8,000), armor piercing (3), two-handed. |
 
 &nbsp;
 
@@ -99,13 +87,7 @@ While equivalent in function to the Imperial Long-Las, the long rifle is custom-
 **Ammunition.** You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
-**Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas.
-* Armor Piercing (-1). Targets with natural armor or worn armor and an AC of 14 or better take a -1 penalty to AC.
-* Armor Piercing (-2). Targets with natural armor or worn armor and an AC of 16 or better take a -2 penalty to AC, in addition to the benefits of armor piercing (-1).
-* Armor Piercing (-3). Targets with natural armor or worn armor and an AC of 18 or better take a -3 penalty to AC, in addition to the benefits of armor piercing (-1) and (-2).
-* Armor Piercing (-4). Targets with natural armor or worn armor and an AC of 20 or better take a -4 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), and (-3).
-* Armor Piercing (-5). Targets with natural armor or worn armor and an AC of 22 or better take a -5 penalty to AC, in addition to the benefits of armor piercing (-1), (-2), (-3), and (-4).
-The AC penalties do not stack together.
+**Armor Piercing.** Attacks with weapons or ammunition with the armor piercing trait are quite effective against armor, by either burning straight through it or passing through unsealed areas. You have a +3 bonus to attack rolls made with this magic weapon.
 
 **Scope.** Firearms with the scope trait have a scope which facilitates extreme long-range engagements. If you have not moved since the end of your last turn, you can use an action to aim down the scope of a firearm that has this trait at a specific target. Once you do so, you are incapacitated and your speed becomes 0 until the start of your next turn. However, the first attack you make against the target at the start of your next turn is made as if the firearm has a different range value (listed in parentheses), with no long range at which attacking imposes disadvantage on your attack roll.
 
@@ -113,6 +95,79 @@ The AC penalties do not stack together.
 Two-Handed. This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
 **Two-Handed.** This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
+
+&nbsp;
+
+## Grenades
+### Anti-Grav Grenade
+|                                                                                                 |                                                                                                             |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Explosive, futuristic |                                                                                                             |
+| 1 lb.                                                                                |  |
+
+*The Anti-Grav Grenade is a weapon used by Warp Spider Exarchs. When the grenade detonates, it temporarily eliminates gravity in an area, levitating and disabling enemy infantry.*
+
+As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.
+
+This grenade nullifies gravity for 30 seconds in a 15-foot-radius, 100-foot-high cylinder centered on a point where it explodes. All creatures and objects that aren't somehow anchored to the ground in the area start floating. A creature can make a DC 15 Dexterity saving throw to grab onto a fixed object it can reach.
+
+
+&nbsp;
+
+### Hallucinogen Grenade
+|                                                                                                 |                                                                                                             |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Explosive, futuristic |                                                                                                             |
+| 1 lb.                                                                                |  |
+
+*Hallucinogen grenades are used as psychological weapons.  
+They release a cloud of invisible gas which has strange and unpredictable effects on the minds of those inhaling it. These effects usually have the result of taking the victim out of combat or making him turn against his allies; effects range from turning victims into passive zombies or idiots, to producing delusions, paranoia and hallucination. Only those with armour which seals them from the local environment are unaffected by hallucinogenic gas. Though the effect may be much strong on the victim, it is usually short-lived and ceased soon.*
+
+As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.
+
+Each creature within 20 feet of a shattered Hallucinogen grenade is under the effects of the `Confusion` spell.
+
+&nbsp;
+
+### Haywire Grenade
+|                                                                                                 |                                                                                                             |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Explosive, futuristic |                                                                                                             |
+| 1 lb.                                                                                |  |
+
+*Haywire Grenades are used by both the Eldar and Dark Eldar for disabling enemy vehicles. Each one sends out a pulse of electromagnetic energy which shorts out electrical wires and disrupts many energy systems. They don't have any effect on biological creatures.*
+
+As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.
+
+Each construct within 20 feet of a haywire plasma grenade must succeed on a DC 15 Constitution saving throw or be `stunned`. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the effect ends.
+
+&nbsp;
+
+### Plasma Grenade
+|                                                                                                 |                                                                                                             |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Explosive, futuristic |                                                                                                             |
+| 1 lb.                                                                                |  |
+
+*The Eldar and Dark Eldar use plasma grenades in placement of the more crudely designed Frag Grenades used by the Imperium. They use a small amount of exploding plasma to blind the enemy and prevent them from properly using their terrain to defend their position against advancing enemy forces.*
+
+As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.
+
+Each creature within 20 feet of a shattered plasma grenade must succeed on a DC 15 Constitution saving throw or be `blinded`. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the effect ends.
+
+&nbsp;
+
+### Shimmer Orb
+|                                                                                                 |                                                                                                             |
+|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| Explosive, futuristic |                                                                                                             |
+| 1 lb.                                                                                |  |
+
+*Shimmer Orbs are grenades used by Warp Spider Exarchs, that when thrown emit a barrier that blocks all incoming and outgoing ranged attacks, for a few moments.*
+
+As an action, a character can throw a grenade at a point up to 60 feet away. With a grenade launcher, the character can propel the grenade up to 120 feet away.
+
+A protective force field extend 15 feet around the point of impact for 1 round, blocking all incoming and outgoing ranged attacks. 
 
 &nbsp;
 
@@ -146,7 +201,7 @@ This armor is fashioned from premium materials that are resilient to being damag
 ### Shimmershield
 |                                                                                                 |                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Wondrous Item, futuristic, major tier, legendary |                                                                                                             |
+| Wondrous Item, futuristic, major tier, legendary (requires attunement)|                                                                                                             |
 | Priceless, 1 lb.                                                                                |  |
 
 *A Shimmershield is a piece of Eldar battle equipment used primarily by Exarchs of the Dire Avenger warrior aspect. It has also been reported to be used by Eldar Corsair Princes, Voidstorm Squads and Void Dreamers. It is an advanced force-field generator that is strong enough to protect the Exarch and the Dire Avengers around him from melee attacks.*
