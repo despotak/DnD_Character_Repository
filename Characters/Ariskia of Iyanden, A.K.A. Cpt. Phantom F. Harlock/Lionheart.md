@@ -74,9 +74,9 @@ Lionheart's greatest protection is its mythal. It was laid by the five most powe
 
 - The third defense of Lionheart is a psionic suppression field. All sciences and devotions of the Telepathic and Psychoportive disciplines are completely nullified while the psionicist is within the mythal. Likewise, all spells belonging to the school of mentalism are nullified. This defense cuts down on spies and ensures the privacy of the many admirals and diplomats aboard the station.
 
-- The last major defense of Lionheart is a magical block against any sort of planar intrusion. Astral and ethereal beings cannot enter the mythal, portals cannot be opened, and gate spells fail utterly. Spells that open portals into the Ethereal or Astral Planes will not work on Lionheart, nor will those magical items that create such portals. Items and spells that create extradimensional spaces do work on Lionheart, but Seljuril has the power to shut such items down at will if they endanger the safety of the station.
-
     > ***(Ed. Notes) We lost the opportunity to rp that earlier, but now that we are closer to the Mythal/Infinity Circuit/Black Hole, Harlock is not only going to lose access to all her psycic abilities, but physically get weaker and weaker (losing max HP), since being cut off the void is totally alien for the Aeldari.***
+
+- The last major defense of Lionheart is a magical block against any sort of planar intrusion. Astral and ethereal beings cannot enter the mythal, portals cannot be opened, and gate spells fail utterly. Spells that open portals into the Ethereal or Astral Planes will not work on Lionheart, nor will those magical items that create such portals. Items and spells that create extradimensional spaces do work on Lionheart, but Seljuril has the power to shut such items down at will if they endanger the safety of the station.
 
 #### The Minor Powers
 Lionheart's mythal has nine minor powers. Two of these powers are left up to the DM to create; the rest are detailed below. Most of these powers aid in the maintenance of the station in the hostile environment of space. Others aid the station in a number of other ways.
