@@ -9,20 +9,20 @@ A scion of a Byzantine noble house that fled Constantinople after it's fall in t
 
 ## Character Basics
 
-**Full Name:**  Angelos Drakos Schleswig Holstein Sonderburg Glücksburg
-**Race/Ethnic Group:**  Greek
-**Class/Occupation:**  Nobleman occultist
+**Full Name:**  Angelos Drakos Schleswig Holstein Sonderburg Glücksburg  
+**Race/Ethnic Group:**  Greek  
+**Class/Occupation:**  Nobleman occultist  
 **Gender:** Male  
 **Age:** 38 years old  
-**Skin:**  Light tanned
-**Hair:**  Salt and pepper
-**Eyes:**  Blue
+**Skin:**  Light tanned  
+**Hair:**  Salt and pepper  
+**Eyes:**  Blue  
 **Distinguishing Marks:**  
 
 **Alignment:**  
 **Character Nature:**   
 
-**Personality Traits:**
+**Personality Traits:**  
 
 * 
   
@@ -85,6 +85,7 @@ As the world entered the twentieth century, Angelos Drakos remained a beacon of 
 
 ### House Drakos
 
+-
 
 
 #### Notable members
