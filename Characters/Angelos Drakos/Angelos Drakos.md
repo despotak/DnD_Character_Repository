@@ -1,19 +1,19 @@
 # Angelos Drakos
 
 
-> ![](Angelos_Drakos.jpg)
-> ***-Angelos Drakos, the ***
+> ![](Angelos_Drakos_3_quarters.jpg)
+> ***-Angelos Drakos, the Socialite***
 
 ## Character Concept
 A scion of a Byzantine noble house that fled Constantinople after it's fall in the year 1453 and moved to Florence. A nobleman by birth that continues the family tradition of researching the occult as member of the Rosicrucians.
 
 ## Character Basics
 
-**Full Name:**  Angelos Drakos Schleswig Holstein Sonderburg Glücksburg  
+**Full Name:**  Angelos Drakos  
 **Race/Ethnic Group:**  Greek  
 **Class/Occupation:**  Nobleman occultist  
 **Gender:** Male  
-**Age:** 38 years old  
+**Age:** 48 years old  
 **Skin:**  Light tanned  
 **Hair:**  Salt and pepper  
 **Eyes:**  Blue  
