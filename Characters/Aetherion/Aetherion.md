@@ -1,4 +1,4 @@
-![.](Aetherion/Aetherion.png)
+![.](Aetherion.png)
 
 **Name**: Aetherion  
 **Class**: Paladin (Oath of Devotion)  
