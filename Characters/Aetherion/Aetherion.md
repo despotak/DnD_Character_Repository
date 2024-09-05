@@ -8,7 +8,7 @@
 ---
 
 ### Early Life  
-Born to an aasimar father and a tiefling mother, Aetherionsath’s very existence seemed a contradiction. His father, a noble aasimar emissary of a celestial court, fell in love with his mother, a tiefling wanderer who had once sought redemption after escaping from a life of crime and dark dealings. Aetherion grew up on the edge of both worlds—the celestial light that graced his father and the infernal shadows that followed his mother.
+Born to an aasimar father and a tiefling mother, Aetherion’s very existence seemed a contradiction. His father, a noble aasimar emissary of a celestial court, fell in love with his mother, a tiefling wanderer who had once sought redemption after escaping from a life of crime and dark dealings. Aetherion grew up on the edge of both worlds—the celestial light that graced his father and the infernal shadows that followed his mother.
 
 Torn between these two worlds, Aetherion often felt like he didn’t belong. His golden eyes and faintly glowing skin reflected his celestial heritage, while his horns, tail, and ashen red skin spoke of the infernal blood that coursed through his. This duality made him a target for misunderstanding, fear, and, at times, hatred. The people of his village whispered behind his back, calling him cursed and an omen of chaos.
 
