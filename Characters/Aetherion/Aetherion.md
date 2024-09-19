@@ -1,5 +1,7 @@
 ![.](Aetherion.png)
 
+> *"Virtue untested is merely innocence. Good must be tempered by temptation in order to become as steel. Death is with us always, but each death is a rebirth. Failure is an essential learning experience that forms the building blocks of endurance. All lives flow into one another, as all streams and winds. Life is a cycle, as is all reality."*
+
 **Name**: Aetherion  
 **Class**: Paladin (Oath of Devotion)  
 **Race**: Half-Aasimar, Half-Tiefling  
