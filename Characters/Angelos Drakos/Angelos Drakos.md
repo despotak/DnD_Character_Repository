@@ -14,9 +14,9 @@ A scion of a Byzantine noble house that fled Constantinople after it's fall in t
 **Class/Occupation:**  Nobleman occultist  
 **Gender:** Male  
 **Age:** 48 years old  
-**Skin:**  Light tanned  
+**Skin:**  Pale  
 **Hair:**  Salt and pepper  
-**Eyes:**  Blue  
+**Eyes:**  Brown  
 **Distinguishing Marks:**  
 
 **Alignment:**  
