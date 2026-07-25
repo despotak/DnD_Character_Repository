@@ -42,12 +42,32 @@ Running log of the pre-Session-0 Discord thread, pasted verbatim as posted.
 
 > Im thinking that ill swap my character to something else, by chance my rogue and back up bard were similar to yours lol. Ill think on it through the weekend. I'm thinking maybe a Paladin or warlock. Looking forward to session 0 with yall your characters sound really cool!
 
+**kalesauce_** — 7:16 PM
+
+> Vesper Lyonsbane (Shifter Knowledge Domain Cleric) is an acolyte of Selûne, the Moonmaiden, from the House of the Moon in Waterdeep. He is soon to join the silverstars, like his mother did. They are an order of Selûnites who are at once monster-slayers and philosopher-priests, with a focus in particular on cultivating peace with lycanthropes - even if it means destroying the most dangerous ones. Some say they can even receive prophetic visions from their lunar patron. Yet, he descends from two cursed lineages:
+>
+> His mother's – a renowned silverstar, Maeri Lyonsbane. The men in the legendary Lyonsbane family, from which the God of Death called Kelemvor ascended from, are cursed with a strange lycanthropy - to demand payment for every good deed or be filled with terrible bloodlust and transform into a black-as-night werepanther. They are also supposedly extinct. But history did not learn about Hans Lyonsbane, forgotten bastard brother to Kelemvor, who fled his family and was welcomed into the Silverstars five generations ago. Today, the curse has gotten so strong that every Lyonsbane is now a shifter. It is tradition for them to join the Silverstars.
+>
+> And his father's – Ataam was something of a mystery. The clergy would not speak of him much. He had pretended to be a cleric of Kelemvor for years, but in truth was a dark paladin of Cyric. He murdered Maeri before Vesper could even speak. He was never caught.
+>
+> As such, Vesper has held a life-long desire to become a member of the Silverstars like his mother, and to destroy any evil resembling his father, especially the cults of The Dark Sun and The Dead Three. And yet this is not his most sinful position: Vesper in secret believes in The Dark Moon heresy: That Shar and Selûne are two faces of the same god.
+> He has two main goals: to free himself and his family of his curse, and to destroy the cults of The Dark Sun and The Dead Three. He hopes the latter may cause the former.
+>
+> Vesper has a muscular, but lithe build and dresses practically. He possesses an almost sickly pale complexion that contrasts sharply with his ink-black hair. His eyes are strange golden-amber, and in the bright light his pupils shrink to become cat-like slits. He has a known hobby of collecting tomes, as well as a merciful streak to Sharrites. From the streets of Waterdeep, he befriended a stray female black cat he affectionately named Shar, after elven goddess of the void, eternal enemy and sister to Selûne.
+
 ---
 
 ## Party so far
-- **Kale** (kalesauce_) — undecided, leaning Paladin or Warlock (dropped an Arcane Trickster and a Rogue/Bard concept after overlap with Selanar's build)
+- **Kale** (kalesauce_) — **Vesper Lyonsbane**, Shifter, **Knowledge Domain Cleric** of Selûne. Silverstar-in-training out of the House of the Moon (Waterdeep); cursed Lyonsbane lycanthrope bloodline (kin to the ascended Kelemvor); secret Dark Moon heretic (Shar/Selûne as one). Goals: break the family curse, destroy the Dead Three & Dark Sun cults. Tome-collector, has a black cat named Shar. (Locked in — dropped the earlier Arcane Trickster / Rogue-Bard concepts.)
 - **Matt / Matticus** (matticus) — leaning College of Eloquence Bard (a "elaborate tales, varying truthfulness" storyteller); backup idea was a Thief Rogue
 - **Chris (you)** — Selanar Durothil, High (Sun) Elf, Myth Drannor survivor, Akh'Faer recruit, questing to recover the Nether Scrolls and the Ary'Faern'Kerym
+
+## Cross-character resonances (Selanar ↔ Vesper) — for your awareness, let it surface in play
+Per Crusty's discovery-RP preference, don't pre-coordinate these with Kale out of game — but worth having in your pocket:
+- **Shared enemies:** both oppose the Dead Three cults. Selanar's sheet already lists the Zhentarim (historically Bane/Cyric-tangled) as enemies; Vesper's father was a Cyricist. Natural alliance-of-purpose.
+- **Lunar / religious link:** Selanar is Corellon/Seldarine-initiated; the elven moon goddess **Sehanine Moonbow** is closely allied with **Selûne** in canon. An elven Corellite and a Selûnite silverstar share real theological common ground — a good organic bridge.
+- **Waterdeep:** Vesper is from the House of the Moon; Selanar's backstory has him possibly bound for Waterdeep (Volothamp Geddarm / "City of Splendors"). Possible shared point of origin/destination.
+- **Two scholars:** both are lore/knowledge specialists (Selanar arcane/elven-historical; Vesper Selûnite/monster-lore). Complementary, not competing — worth consciously carving distinct lanes so you don't step on each other's "the knowledgeable one" niche.
 
 ## Notable GM guidance not in the formal Session 0 doc
 - Backstory should cover: why you started adventuring, personal hooks, ties elsewhere in the world

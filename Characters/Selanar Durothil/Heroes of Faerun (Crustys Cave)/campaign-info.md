@@ -18,12 +18,12 @@ Sandbox-style campaign — threats (banditry, monsters, corruption) span the reg
 
 ## Party
 - **Selanar Durothil (Chris/Archangel)** — High (Sun) Elf, House Durothil, Myth Drannor / Akh'Faer background — this character
-- **Kale** (kalesauce_) — undecided as of last check-in, leaning Paladin or Warlock
+- **Kale** (kalesauce_) — **Vesper Lyonsbane**, Shifter Knowledge Domain Cleric of Selûne (locked in). Silverstar-in-training, cursed Lyonsbane lycanthrope line, secret Dark Moon heretic; out to break his curse and destroy the Dead Three / Dark Sun cults. → party now has a full divine caster (healing/utility covered)
 - **Matt / Matticus** (matticus) — leaning College of Eloquence Bard (a "tall tales" storyteller); backup concept was a Thief Rogue
 
 ## Character creation
 - Start at **level 0, classless** — build out during Session 0; built mechanically as 1st-level characters, but class abilities get dropped in narratively as the story justifies them (e.g. a druid's awakening = the trees warning of a threat; a first prayer answered with Cure Wounds)
-- **Stat rolling:** 4d6kh3, rolled 5 times; 6th stat = the total sum vs. 75. Roll 3 arrays total — you get access to everyone's unchosen arrays too. Runs slightly above-average, favors MAD builds
+- **Stat rolling:** 4d6kh3, rolled 5 times per array; 6th stat = 75 − sum of the other five. Mulligan the whole array if that derived 6th lands outside 3–18 (confirmed by Crusty directly). Each player rolls **4 arrays and discards 1**, keeping 3 — all kept arrays go into a shared pool anyone at the table can draw from (no array reused by two people), and the pool persists campaign-long as a "library." With 3 players signed up, that's 9 arrays to choose from at Session 0. (Corrects the formal Session 0 doc's "3 times" phrasing — see `gm-correspondence.md` for the direct clarification.) Runs slightly above-average, favors MAD builds
 - Because stats run higher, lean toward **feats over ASIs**
 - Full freedom to customize background skill/tool proficiencies, ASI, and origin feat
 - Level 0 feat (and its attached tool proficiency) needs a narrative reason — factor it into the backstory

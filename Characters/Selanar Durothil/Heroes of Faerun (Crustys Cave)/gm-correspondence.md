@@ -158,10 +158,54 @@ Direct-message history between Cdr Archangel (Chris) and Crusty, from first cont
 
 ---
 
+**Cdr Archangel** — (weekend, ~late July 2026)
+
+> Happy weekend there, Crusty.
+>
+> I was going over your stat rolling rules, since it's the first time I have seen something like this, and I was running some simulations, and I do have to ask. Is there a floor/ceiling (3-18) for that derived 6th stat? Because there is a ~3% chance that it can be below 3, and a ~15% chance it can be above 20.
+>
+> Other than that, I do like this system.
+
+**Crusty** — 7:50 PM
+
+> yes exactly that, if the sixth stat is everything above or below what is physicality possible on the dice 3/18 we mulligan
+
+**Cdr Archangel** — 7:50 PM
+
+> thank you
+
+**Crusty** — 7:51 PM
+
+> youll be making 4 arrays each
+> and then throwing one away
+> all of the arrays will be able to be chosen by each other
+> so if we end up starting with just the three of you, youll have 9 different arrays to choose from
+
+**Cdr Archangel** — 7:51 PM
+
+> gotcha
+
+**Crusty** — 7:51 PM
+
+> no single array may be chosen by more than pne person
+> I keep all of the arrays in a library, so if someone dies/makes a new character or joins the campaign further on, the library of arrays grows over the campaign
+
+**Cdr Archangel** — 7:52 PM
+
+> oh, I really like that. I'll borrow it for my own games 😛
+
+**Crusty** — 7:53 PM
+
+> it allows for more MAD arrays, some great diversity in skills, and mostly, everyone will have the same total sum so no one is stronger than anyone else
+> Its perfect, Ive used it in every game ive ran for the last 3 years
+
+---
+
 ## Context notes
 
 - **Don't re-post the backstory link in the public party channel.** Crusty deliberately pulled it (23/7/2026) — he runs player-to-player RP as in-fiction discovery, so Selanar's full backstory should stay unknown to Kale and Matt until it comes out in play. The party-facing intro should stay at the level of the premise Selanar already gave in the intro thread, not the full write-up.
 - **Why Monday over Saturday:** Chris's stated preference was whichever table is most lore-invested; Crusty's read was that Monday's players (though one is newer to FR) are more RP/enthusiasm-forward, which Chris explicitly deferred to over the Saturday player's deeper existing lore knowledge.
 - **Party composition preference on record:** Chris told Crusty he gets the most out of parties drawn from the Realms' "core" peoples (human, elf, dwarf, halfling, gnome) rather than more exotic options — relevant if optimizing/suggesting builds for hypothetical future party members, and explains the framing of why Selanar (Sun Elf, House Durothil) was built the way he was.
 - **Backstory lineage:** the character sent to Crusty in April 2025 is the same Selanar concept being brought to this table — a Myth Drannor-born Akh'Faer recruit, magically trained through the Spellplague years at the Lady's College in Silverymoon, now rebuilding lost elven magical knowledge (Arselu'Tel'Quess) after the Weave's restoration. Full backstory lives at `Characters/Selanar Durothil/Selanar Durothil.md`.
+- **Stat rolling, corrected mechanic:** this DM thread is more precise than the formal Session 0 doc's "3 times" phrasing. Actual rule: each player rolls **4** arrays (4d6kh3 ×5, 6th stat = 75 − sum of the other five; mulligan the *entire* array if that derived 6th lands outside 3–18), then discards **1**, keeping 3. All kept arrays go into a shared pool anyone at the table can draw from — no array usable by more than one person — and that pool persists as a running "library" across the whole campaign (grows if someone dies or a new player joins later). With 3 players at the table, that's 9 arrays in the pool for Session 0.
 - **Listing link mismatch:** Crusty's March 2026 message linked a *different* StartPlaying listing (`cmm1gsqwc00yal4044q6ri6wf`) than the one actually joined (`cmq2rpi3c006gk104ejuqbyqj`, saved in `campaign-info.md`) — likely an earlier/parallel posting of the same "Heroes of Faerun" campaign; the joined listing is the current source of truth.
