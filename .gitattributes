@@ -1,0 +1,14 @@
+# Normalize all text files to LF in the repository, regardless of which OS
+# last touched them (this repo is synced via OneDrive/CIFS between Windows
+# and Linux clients).
+* text=auto eol=lf
+
+# Explicit binary types — never run through the text-normalization filter.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.psd binary
+*.pdf binary
+*.xlsx binary
+*.docx binary
