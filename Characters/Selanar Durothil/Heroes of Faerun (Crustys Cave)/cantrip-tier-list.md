@@ -54,7 +54,7 @@ All wizard-list cantrips per the class-source lookup: 24 XPHB entries (2024 core
 
 ## C/D — surveyed, dismissed
 
-**Thunderclap** (CON-save AoE, loud in an intrigue game, Sword Burst is better imagery), **Acid Splash**, **Poison Spray** (poison = most-resisted damage type in the game), **Friends** (rides CHA 7 *and* ends with the target knowing — a diplomatic incident generator), **Mending** (off-camera practicality per house rules), **Dancing-Lights-style XGE utilities** (Shape Water, Mold Earth, Control Flames, Gust, Create Bonfire, Frostbite, Infestation — superseded or off-theme).
+**Thunderclap** (CON-save AoE, loud in an intrigue game, Sword Burst is better imagery), **Acid Splash**, **Poison Spray** (poison = most-resisted damage type in the game), **Friends** (the CHA 13 swap makes the mod respectable, but it still ends with the target knowing — a diplomatic incident generator), **Mending** (off-camera practicality per house rules), **Dancing-Lights-style XGE utilities** (Shape Water, Mold Earth, Control Flames, Gust, Create Bonfire, Frostbite, Infestation — superseded or off-theme).
 
 ## Recommended loadout
 

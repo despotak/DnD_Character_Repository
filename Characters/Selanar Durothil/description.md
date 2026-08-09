@@ -26,7 +26,7 @@ The basic gist of it is a noble elf that is trying to master the ancient rituali
 |Significant item 2:|***Selu'Kiira:*** A platinum diadem with a blistering red tourmaline as the centerpiece.|
 |Body Type:| 5'7'' (~1.70 m) tall. Fit, but not muscular. The body of a dancer, not a fighter|
 |Color Scheme:|**Primary:** white, gold, silver, azure. **Secondary:** red, Tyrian purple, iridescent. **Materials:**  gold, platinum, silk, velvet|
-|Gear:|He wears expensive/posh/high class clothes, but for love of Corellon, not a mage's robe. A shirt, trousers, overcoat, boots will do fine. Nothing of those is armored. He is noble going to a dance, even if the venue is on the battlefield. You can go wild, but **no robes** and **no staff** :P|
+|Gear:|He wears expensive/posh/high class clothes, but for love of Corellon, not a mage's robe. A shirt, trousers, overcoat, boots will do fine. Nothing of those is armored. He is noble going to a dance, even if the venue is on the battlefield.|
 |Animal Companion:|He does have a faerie dragon as a familiar, but it is not required to draw that|
 |Action/Pose:|Whatever you fancy|
 

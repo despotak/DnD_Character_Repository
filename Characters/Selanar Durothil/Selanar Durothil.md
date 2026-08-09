@@ -14,7 +14,7 @@ Selanar is a Sun Elf Mage from Myth Drannor. During his childhood, when he start
 **Race/Ethnic Group:** Ar'Tel'Quessir (Sun/Gold Elf)  
 **Class/Occupation:** Faer (Wizard) / Kerymaer (Bladesiner) / Selu'Taar (Elven High mage)  
 **Gender:** Male  
-**Age:** ~150 years old  
+**Age:** ~120 years old  
 **Skin:** Bronze  
 **Hair:** Long wavy golden blonde  
 **Eyes:** Metalic silver  
