@@ -1,0 +1,40 @@
+Create a single ornate illuminated-manuscript / grimoire character-dossier spread, as a worn page from House Durothil’s arcane records. Format and physical style: aged tan parchment, frayed edges, stains, creases, foxing, hand-inked borders, corner flourishes, compass-rose motif, marginal runes, ink-and-watercolor washes, delicate medieval-fantasy calligraphy, painterly sketchbook dossier layout with multiple boxed panels and leader-line annotations. The page should feel hand-painted and archival, not modern UI.
+
+Subject: Selanar Durothil, Ar’Tel’Quessir Sun/Gold Elf wizard on the path to Bladesinger, second son of House Durothil. Large corner portrait: three-quarter view, noble bearing, faint knowing smile, confident and charming. Bronze sun-kissed skin, long wavy golden-blonde hair worn loose or half-braided, metallic silver eyes, classic pointed elven ears, lean dancer-like build. He wears expensively tailored noble attire suitable for a ball: fine white silk shirt, fitted trousers, long elegant overcoat, tall boots, gold/platinum/silver ornamentation, azure accents, crimson/deep red or Tyrian purple secondary details, iridescent trim. No robe, no armor. He is a duelist-mage aristocrat, not a robed staff-wizard.
+
+Layout elements:
+1) Title at top in ornate calligraphy: “Selanar Durothil” with small elven-style script above it.
+2) Large framed corner portrait of Selanar, ink-and-watercolor, with pale blue/azure wash behind him and gold flourishes around the frame.
+3) “Basic Profile” text block, readable calligraphy:
+Name: Selanar Durothil
+Race: Ar’Tel’Quessir — Sun Elf
+Class: Wizard, Bladesinger aspirant
+Age: 120–130, young by elven years
+Alignment: Neutral Good
+House: Durothil of Cormanthyr
+Traits: charming, curious, protective, impeccably dressed
+4) Annotated close-up diagram of his RIGHT hand and forearm tattoo. Show the silver lightning sigil on the back of the right hand. Around the forearm, show an elaborate rank tattoo: fine azure lines woven with yellow/gold finework; from a distance it reads as a solid green-gold band, but close inspection reveals separate azure and gold strands. Include up to four interlocking circles along the tattoo and concentric silver lozenges intersecting or surrounding the circle centers. Add small leader-line callouts reading: “silver lightning sigil,” “azure linework,” “gold finework,” “green-gold from afar,” “interlocking circles,” “silver lozenges,” “rank tattoo of the Spell-Major of Cormanthyr.”
+5) “Personality” panel:
+Confident, charming bon viveur.
+Meticulous about fashion and appearance.
+Treats commoners as equals.
+Endlessly curious; distracted by lost lore.
+Compassionate protector of House and people.
+Motto: Blood, lust, and pixie dust.
+6) “Goals” panel:
+Recover the Quess’Ar’Teranthvar, the shattered Nether Scrolls.
+Revive Arselu’Tel’Quess, lost elven High Magic.
+Find and be chosen by the Ary’Faern’Kerym, the Artblade.
+Protect House Durothil and Cormanthyr-in-exile at Semberholme.
+7) Compact “Backstory” blurb:
+Born 1375 DR in Myth Drannor, second son of Arandur Durothil. Raised at the hidden Glade of Eilistraee after his mother’s suspicious death. Studied history, cosmology, and the arcane at Lady’s College and joined the Order of the Silver Twilight. Fought as a fresh recruit of the Akh’Faer when Myth Drannor fell again to Netheril/Thultanthar in 1487 DR, escaping to Semberholme with Coronal Ilsevele Miritar. Now seeks House regalia and the secrets of High Magic.
+8) “Regalia” panel with three small labelled ink-and-wash item sketches and one-line captions:
+Ary’Faern’Kerym, the Artblade — single-edged lightly curved elven sabre of solid non-reflective darkness, basket hilt, razor crimson energy along the edge, crimson elven rune near pommel; caption: “Dormant and lost, birthright of the Spell-Major.”
+Selu’Kiira — platinum diadem/circlet with ornate gold-and-silver filigree holding a long faceted deep late-summer orange tourmaline; caption: “House Durothil’s high lore-gem.”
+Ar’N’Ehalaer, Arcstaff of Khavoerm — bright reflective silver staff coiling into a wingless, legless dragon around an invisible shaft, rainbow sparks through its coils; caption: “Scrap metal until awakened in a wizard’s grip.”
+9) Small House Durothil crest incorporated as a wax seal or marginal banner: a rearing/coiled golden dragon on a white or pale field.
+10) One evocative quote in Selanar’s voice in a framed callout: “There’s nothing I like more than a good mystery.”
+
+Use rich but restrained palette: parchment browns, sepia ink, white, gold, silver, azure, crimson, Tyrian purple, subtle iridescence. Include tiny marginalia: stars, sun symbols, elven glyphs, compass roses, ink splatters, faded archival notes. All visible facts and labels must be about Selanar Durothil only.
+
+Negative constraints: do not include any unrelated names or facts from the layout sample; no “Evoker,” no “Mage of Evocation,” no “Mark of Lumen,” no Luminous Grimoire, no Sunspire Staff, no robes of dawn, no different birthplace, no copied sample backstory or quotes. Do not make him a robed staff wizard. No mage robe, no visible armor, no bulky muscular warrior build, no medieval European longsword, no generic adventuring gear list, no blue eyes, no pale human skin, no dark hair. Avoid modern typography, clean digital infographic styling, photorealism, plastic sheen, anime style, or sci-fi UI.

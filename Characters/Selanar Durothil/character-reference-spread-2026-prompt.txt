@@ -1,0 +1,62 @@
+Create a single high-resolution image of an open two-page illuminated-manuscript character-dossier spread, viewed flat from above at a slight angle. Both facing parchment pages are fully visible, with the book’s center gutter/spine running vertically down the exact middle. Show faint glimpses of adjacent page edges peeking at the far left and right borders as if photographed mid-book. Aged tan parchment, frayed edges, foxing, stains, ruled text panels, hand-inked sepia borders, corner flourishes, marginal runes, a compass-rose motif, delicate elven filigree, ink-and-watercolor washes, gold-leaf accents, archival hand-painted high-fantasy grimoire style, not a modern UI. Palette: parchment browns, sepia ink, white, gold, silver, azure, crimson, Tyrian purple, subtle iridescence.
+
+All dossier text must be sharp, correctly spelled, aligned inside ruled panels, and genuinely readable. Do not use decorative gibberish for any panel text; only marginal runes may be ornamental.
+
+LEFT PAGE layout:
+At the top, a short calligraphy line reading: “Ar'Tel'Quessir Kerymaer Selu'taar”
+Below it, large ornate calligraphy title exactly: “Selanar Durothil”
+Below the title, a large framed three-quarter portrait in a gold-leaf elven filigree border. Portrait: Selanar Durothil, a young adult sun elf / gold elf noble, bronze sun-kissed skin, refined angular elven face, classic pointed ears, long wavy golden-blonde hair worn loose with partial braids, metallic silver eyes, faint knowing smile, confident charming noble bearing, lean graceful dancer-like build. He wears expensive high-fashion noble attire: fine white silk shirt, fitted waistcoat or tailored overcoat in white, gold, silver and azure, Tyrian purple/deep red accents, iridescent trim, tall polished boots suggested if visible. He openly wears the Selu'Kiira: a delicate platinum circlet/diadem of curling elven filigree with gold and silver leaf motifs and one large faceted blistering-red tourmaline at the brow. At his hip is a single-edged lightly curved elven duelist sabre/longsword with guarded basket hilt. No robes, no armor, no staff, no wand.
+
+Below portrait, a ruled “Basic Profile” panel with readable text:
+“Race: Ar'Tel'Quessir — Sun Elf / Gold Elf
+House: Durothil of Cormanthyr / Myth Drannor
+Path: Wizard → Bladesinger
+Age: 120–130; appears human 30s
+Alignment: Neutral Good
+Affiliations: the Silver Twilight; formerly Akh'Faer
+Title: Seeker of Mysteries
+Languages: Elvish, Common, Draconic, Celestial
+Motto: Blood, lust, and pixie dust.”
+
+Below that, a ruled “Backstory” panel with readable compact paragraphs:
+“Born in 1375 DR, second son of Arandur Durothil, in Myth Drannor. Traces of an ancient Akh'Faer rank-tattoo appeared when he first wove magic, a mark last worn by Josidiah Starym seven centuries ago.
+
+He studied history, cosmology, and the Art at the Lady's College, joined the Order of the Silver Twilight, and earned the title Seeker of Mysteries for research into Aryvandaar.
+
+In 1487 DR he fought in the last defense of Myth Drannor. The Weave changed, his magic went silent, and eight years of exile in Semberholme followed. Now in 1495 DR, the Weave hums again.”
+
+Under Backstory, an italic framed quote callout:
+“There's nothing I like more than a good mystery.” — Selanar Durothil
+
+RIGHT PAGE layout:
+Top half: a ruled “Magical Tattoos” panel with an annotated ink-and-watercolor close-up diagram of Selanar’s RIGHT hand and forearm. The back of the right hand bears a black/silver lightning sigil that is re-darkening. The forearm shows only faint, barely visible shadow-tracery of azure lines interwoven with yellow/gold finework, wrapping the whole forearm but not vivid yet. Include ghostly dormant interlocking circles and concentric silver lozenges as faint outlines only. Leader-line callouts with exact readable labels:
+“black/silver lightning sigil — re-darkening”
+“faint azure-and-gold shadow tracery”
+“up to four interlocking circles — dormant”
+“concentric silver lozenges — dormant”
+“Level 0 / 1495 DR: reawakening mark”
+
+Middle right: ruled “Goals” panel with bullets:
+“• Relearn arcane magic from scratch under the restored Weave.
+• Recover Quess'Ar'Teranthvar, the scattered Nether Scrolls.
+• Recover Ary'Faern'Kerym, the lost Artblade.
+• Restore Arselu'Tel'Quess, Elven High Magic.
+• Protect House Durothil and Cormanthyr-in-Semberholme.”
+
+Middle left or lower right: ruled “Personality” panel with bullets:
+“• Confident, charming bon viveur.
+• Always follows the latest fashions.
+• Helpful to common folk: we all have the same blood.
+• Curious, easily distracted by mysteries.
+• Compassionate protector, duty before glory.
+• Ideal: beauty points beyond itself toward truth.”
+
+Lower right: ruled “Regalia” panel with 4 small labelled ink-and-wash item sketches and one-line captions:
+1. “Selu'Kiira” — delicate platinum, gold, and silver circlet with red tourmaline. Caption: “House Durothil's High Lore Gem.”
+2. “Duelist Blade” — single-edged lightly curved sabre with guarded elven basket hilt. Caption: “Spellcasting focus of War and Song.”
+3. “Ary'Faern'Kerym” — black void longsword with glowing crimson edge and crimson elven rune. Caption: “Dormant and lost, birthright of the Spell-Major.”
+4. “Ar'N'Ehalaer” — twisted tarnished scrap metal beside a small silver dragon-form note. Caption: “Scrap metal, until awakened in a wizard's grip.”
+
+Add a small House Durothil crest medallion or wax seal in a corner: a gold dragon’s head on a yellow and white field, labelled “House Durothil.” Add restrained gold leaf glints, silver ink, azure and crimson accents, Tyrian purple panel flourishes.
+
+Strict negative constraints: do not depict Selanar in a mage robe, armor, chainmail, bulky warrior physique, dark hair, pale skin, blue eyes, wand, ordinary staff, component pouch, modern infographic UI, printed sans-serif typography, misspelled labels, fake filler text, unrelated affiliation, invented deity, invented order, or invented item names.
