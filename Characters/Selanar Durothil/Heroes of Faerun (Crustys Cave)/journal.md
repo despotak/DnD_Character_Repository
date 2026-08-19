@@ -288,3 +288,185 @@ I shall reach again tomorrow.
 
 *(I wrote the other one out first. All of it, every line, down to the last. Then I sat with it some minutes by the lamp, and then I scored it through so thoroughly that the page now has a hole in it. Fourteen years, and I have learned nothing at all.)*
 
+
+---
+
+## Entry III — Three Words in a Circle
+
+*The Silver Shield, Highmoon in Deepingdale, the 10th of Eleint, 1501 DR. Written in a cold room, at an hour when honest copyists are asleep.*
+
+---
+
+I have been paid four silver for my handwriting.
+
+I put it at the top because it is the most humiliating thing that has happened to me in fourteen years, and I have learned that if I do not put the humiliation first I shall spend six pages arriving at it sideways. A Durothil. My House has stood among the First Houses of every elven civilisation for fifteen thousand years and has never once, in all that time, permitted anyone to remain unaware of it — I am upholding the tradition at this moment, alone, at midnight, in a book nobody is permitted to read. Somebody must keep the standards up.
+
+Four silver. For ruling columns. The clerk who paid me examined a page over which the masters of the Lady's College once wept with professional envy, and pronounced it *very neat*.
+
+I thanked him. I want that recorded also: that I said thank you, pleasantly, to a man with ink to the elbow who had just described the penmanship of the Lady's College as *neat*. Fourteen years ago I should have had something to say; tonight I find his four silver in my purse and his ledgers full of my improvements, and he believes he got the better of the exchange. I have discovered in myself a capacity for being condescended to that I did not know was there. I am choosing to call this wisdom, because the other available word is *practice*.
+
+And the confession, since the book is no use to me if I lie to it: I do not know the merchant's script. Nobody ever taught it to me. There is an entire apparatus of tally and abbreviation that every clerk in Faerûn absorbs at fourteen, and I have been improvising it for three days out of a good eye and an excellent memory for shapes. Nobody has noticed. I decline to say what this establishes about the profession.
+
+My House is written up in every account of the Gold elven dynasties as having produced more high magi than any other, and I have spent this tenday passing myself off as competent at *sums*.
+
+---
+
+The house is Silverhand House — a coster of this town, founded by an elven adventurer who had the sense to retire. Timber, resin, amber, furs. They send it west to Arabel and east to Ordulin, and it was the word *Ordulin* on a bill of lading that made me offer my services in the first place, three minutes after I heard it.
+
+I have been very pleased with myself about that. A man needs a way east that nobody has to arrange for him; I found one, and got paid, and did not have to ask a single question that a clerk would not ask.
+
+I record the cleverness here so that it may sit alongside the following.
+
+---
+
+There are two inns in this town worth the name.
+
+The Rising Moon is cheap, warm and celebrated. Travellers write home about it. Its keeper is a retired adventurer and by every account the place feels like being made welcome in somebody's house, feet on the furniture, nobody minding.
+
+The Silver Shield is the expensive one. It is run by an elven family called Starnar, it has a mirror-bright shield hanging outside that can be seen from the road, and it is, I am now in a position to report, *pretentious*. The service is haughty. The service is also slow, which is a combination I had not previously believed possible to sustain. The furnishings scream money and the rooms are cold — this one is cold now, at the hour I am writing, in Eleint — and the entire establishment is very clean, entirely adequate, and pretending with its whole heart to be a great deal more than it is.
+
+I am at the Silver Shield. I walked past the good one because it was loud, and because this one had elves in it who would speak to me in my own tongue, and I was halfway up the stairs before I understood what I had done.
+
+Fourteen years of grief and scholarship. An assumed name. My brother's confidence. The whole apparatus of a man travelling secretly — undone in an evening by the fact that I do not care to sleep near noise.
+
+I have paid eight days in advance, so I cannot even correct it without being memorable about it. I shall be a copyist with one extravagance, in a cold room, in an inn that is pretending to be finer than it is.
+
+I decline to write down the obvious remark. Aeliana would have made it before the door shut.
+
+---
+
+Highmoon. A walled town on the East Way, the Ordulin–Arabel road; four thousand souls counting the dale around it; considerable, by the local reckoning.
+
+I had prepared to be looked at. I am a conspicuous article — a hundred and twenty-six years old, robed as precisely what I am, with a face that has never once been mistaken for a Dalesman's — and I had prepared a manner, a stoop, and, Corellon forgive me, a *walk*.
+
+Nobody looked. Half this dale is elven or half-elven; there is no place in Faerûn where men and elves keep house together so easily, and the entire yield of three days' incognito is one small human child who wished to know whether my ears came off. I told her they did not. She took the news badly and left.
+
+---
+
+Now the joke, which I have had nobody to tell.
+
+The Leaves of Learning stands eleven minutes' walk from this room. Temple of Oghma. One of the finest libraries in all Faerûn — I have wanted to see it since I was ninety — and it is everything they say it is.
+
+It excludes magic. On principle. Not a grimoire, not a treatise, not one page upon the Art anywhere within its walls, by the settled policy of its founders.
+
+I have told an entire household that I have gone into a library for some months. I am, in fact, within a bowshot of the best one on the continent, and upon the single subject I would trade a hand to read about, it holds nothing whatever — and holds it *proudly*.
+
+I laughed out loud in the nave. A novice came to ask whether I was well.
+
+---
+
+There is a second joke underneath the first and I like it a great deal less.
+
+I went back the following morning meaning to be sensible. Not the Art — I have given up on the Art in temples. Roads. Tolls. The dry gazetteers that tell a traveller what he is walking into. I wanted to know what manner of place my brother has sent me to, since he gave me a name and a rival house and then rather conspicuously stopped talking.
+
+I stood in front of the shelf some while and took nothing down.
+
+One does not simply *read* in a house of Oghma. One asks. There are novices whose whole function is to be helpful, they are helpful with enormous enthusiasm, and they remember. And the question I wanted answered was: *tell me everything you hold concerning Moontassel.*
+
+A copyist out of Highmoon has no reason on Toril to want that. A copyist with no house and no prospects does not arrive in a border town, take the expensive room, and begin asking the clergy after one particular settlement away in the Sembian interior. He would be remembered for it inside a day, and I have already been careless once this tenday about being remembered.
+
+So I read about the *weather*. Forty minutes on the prevailing winds of the Vast. Then I put the book back and walked out into the street knowing precisely what I had known on the barge, which is: a name, a rival house, and a hole they are digging beside it.
+
+There is a worse version of this, and I may as well set it down while I am being honest. There is a second subject I may not ask about, in that library or any other, and I have not been able to ask about it for fourteen years. The last person to hold what I held for a quarter of an hour was a girl out of these very Dales, and what happened to her the moment it became known is the whole reason the list of those I have told is one name long. Faerûn believes the gods permit one wielder at a time. Faerûn is wrong, by every account I have been able to reach — but a mob does not require the belief to be true, only to be held.
+
+So I sat in the finest library on the continent and read about *wind*.
+
+---
+
+So: three days of ruled columns and two separate acts of scholarly cowardice, and I had begun to suspect this errand would prove the least eventful adventure ever undertaken by a man of my quality.
+
+Then the bard walked in.
+
+---
+
+He came into the common room last evening with two soldiers behind him and the particular radiance of a man entering a room he intends to be the subject of. Human. Well made. Younger than his coat is working to suggest. He was three steps in before he had finished arriving.
+
+He came to my table. He asked for help. And then, before saying what the help was, he said:
+
+*"My name's Gregorio Romanario. Have you ever heard of me?"*
+
+Whoever eventually prises this book out of wherever it finishes — understand the size of what was set in front of me, and the restraint with which I let it go by.
+
+I said: *"I cannot say that I have, sir."*
+
+I said it in the voice of a provincial clerk who does not follow the doings of great men. I called him *my lord*. I apologised for my ignorance.
+
+He explained, kindly, that his name had not been much spoken of *so far*.
+
+I said I was sure it would be, as time passes.
+
+I have not enjoyed myself so much since before the siege, and I am aware of what that sentence says about the siege, and about me, and I am leaving it in.
+
+---
+
+Then he put the drawing on the table, and the evening stopped being amusing.
+
+A copy — he had made it himself and kept the original, which I noted at the time and have been turning over since. A circle. One continuous stroke, doubling and crossing itself, runes grown into one another so that no letter may be lifted out without bringing two neighbours with it.
+
+He took it for Elven. He was not wrong, and that is the difficulty.
+
+The *letters* are Espruar. Mine. The same characters I was made to copy out at eleven, on a slate, badly. Espruar is a phonetic hand — it does not draw meanings, it draws **sounds** — and any tongue at all may be written in it by anyone willing to listen closely enough to the way it is said.
+
+The fey write Sylvan in our letters. They have always done so. We taught them the alphabet, or they took it, depending which of us is telling it.
+
+So I sat with a page on which I could read every single character and not one of the words, which is a sensation I recommend to nobody. It is my own hand, saying something in a language that was old when my language was young. It is not a text. It is a *noise*, recorded — and Sylvan is a wispy, lilting, near-impossible thing to say, and somebody has sat down and drawn the sound of it in a ring.
+
+And it was not a sentence. That was the first thing wrong with it. Whoever set it down did not trouble with grammar, or had no room, or had no time.
+
+Three nouns.
+
+**Moontassel. Relic. Danger.**
+
+---
+
+I have had a day and a night with it and I am no calmer.
+
+Take them backwards, smallest trouble first.
+
+*Danger*, in Sylvan, is not our word. It is not *take care*. It is nearer to the term one uses for a thing that is already in the room.
+
+*Relic* is worse, and not only for its sense — there is an edge of the consecrated on it, a thing set apart and kept and, I dislike this part, *owed to somebody*. It is worse because of what stands in front of it.
+
+Before the second word there stands a small mark that has no name in the trade tongue. We call it the *cren*. It belongs to the old script and to poetry, and it is set before a word to mark the thing named as important — the treatises, with perfectly straight faces, give the classes of thing it may dignify as *an artifact, a divine revelation, or true love*.
+
+I have elected to hope for the first.
+
+But the cren carries a second convention, and it is the one that matters: it is used above all for a thing *already described earlier in the writing*. Earlier. In. The. Writing. This circle is not a message; it is a *fragment* — a line referring back to pages that say what the thing actually is, pages that exist, somewhere, in a correspondence I have not been permitted to read. The bard has carried a footnote two hundred miles and believed it a curiosity.
+
+And **Moontassel** — which was the word that made me set my cup down. Not because I know the place; I have established at length that I do not. Because of the form. The circle does not give the name as the Dalesfolk say it, nor as Sembia writes it on a bill of lading. It gives it in Sylvan, on the moon-root, in a shape that was already old when the merchants arrived to make that region profitable.
+
+Whatever drew this is not using the current name. It is using the one underneath, and using it easily — as one uses the name of a street one has always walked down.
+
+---
+
+I questioned him, and I am not proud of the method: I moved my chair, dropped my voice into the register men keep for conspiracies, and took him apart in four minutes. Found in his room at an inn — a locked room — one loose sheet, laid where he would find it. Not dropped. *Delivered.* Somebody chose him. I watched him arrive at this and go quiet, and he went quiet in the correct place, which tells me he is not a fool; he merely wishes, with his whole being, to be mistaken for something marvellous. On present evidence he and this inn deserve one another, and I intend to introduce them.
+
+And then, may the Seldarine note it was in a good cause: I told him the marked word might be read as *relic*, and that perhaps whoever left the page meant him to go and look — and when he answered, sensibly, that the circle plainly said *danger*, I heard myself say: *"Well — danger also comes with some good stories, doesn't it?"*
+
+To a bard. I baited the hook with the one thing his kind cannot refuse, watched it go down whole, and then offered him a seat on tomorrow's caravan as though the kindness were mine. He believes he has recruited me into his adventure. He thanked me for it. I said nothing of a brother, a House, a name, or a mark in a dead register, and I record the omissions here in full because I wrote in the last of these books that the easiest lie is the one you would have to make an effort not to tell — and I have stopped making the effort, and it is the ninth day, and I am becoming rather good at him.
+
+His soldiers are out of Arabel and carry themselves like Purple Dragons wearing no purple. Men do not take the colours off unless the colours have become a question. I conclude nothing. I merely refuse myself the luxury, later, of claiming I did not see it.
+
+---
+
+The caravan is Silverhand's — rare woods, amber, marten pelts, Ordulin or near it — and it goes out east with the morning. I have my seat. The bard has his. The two unexplained soldiers have theirs. A more suspicious man would observe that this wagon-train is accumulating passengers the way the bottom of a purse accumulates strange coins.
+
+Last thing, and then the lamp.
+
+Taenis told me of Moontassel alone, in an emptied hall, with the doors shut — a secret too delicate for his own household. Eight days later a travelling musician who has never heard of my family put the same name on a taproom table in front of me: written in my letters, in somebody else's tongue, marked with a scholar's flourish out of the old script, and delivered by an unseen hand into a locked room.
+
+My brother believes he is keeping a secret. He is keeping a *subscription*. He is one correspondent among several on the subject of that town, and as far as I can establish he is the only one of them who thinks the conversation is private.
+
+I reached for the fire tonight, at the window, before writing this. Nearer than it was on the river. I notice I no longer want to take that sentence back, and that not wanting to has been wrong twice.
+
+---
+
+*Signed, as I must be —*
+
+**Aldreth**
+
+*Copyist. Of Highmoon. Neat hand, indifferent prospects, four silver the richer, and staying beyond his means.*
+
+*(I have resolved, in light of the evening's principal lesson, to put less of myself on paper henceforth. I am aware that this resolution appears at the foot of eleven pages. A man may hold a policy and a nature at the same time; I am told this is called being civilised.*
+
+*I did not write the other name out tonight. Not restraint — I reached for it from habit and found I had not thought of it in two days. I have decided to call this discipline. I am aware of the other thing it might be. It has gone on the pile.)*
