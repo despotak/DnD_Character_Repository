@@ -14,10 +14,11 @@ Selanar is a Sun Elf Mage from Myth Drannor. During his childhood, when he start
 **Race/Ethnic Group:** Ar'Tel'Quessir (Sun/Gold Elf)  
 **Class/Occupation:** Faer (Wizard) / Kerymaer (Bladesiner) / Selu'Taar (Elven High mage)  
 **Gender:** Male  
-**Age:** ~120 years old  
+**Age:** 126 years old (born Eleasias 3, 1375 DR)  
 **Skin:** Bronze  
 **Hair:** Long wavy golden blonde  
 **Eyes:** Metalic silver  
+**Height/Weight:** 5'9" (1.75 m) / 132 lb. (60 kg)  
 **Distinguishing Marks:** Tattoo on his right hand/forearm: silver lightning sigil on hand-back, an elaborate and large tattoo of fine azure lines with yellow finework among them wraps an entire forearm; (while in all individual azure and yellow lines, only under close inspection can one actually see that the tattoo is not a solid green color from wrist to elbow). A series of up to four interlocking circles can be added lengthwise along this tattoo. Concentric lozenges either intersecting the centers of the four rank circles or surrounding all the circles on the outside, all in silver.
 
 **Alignment:** Neutral Good  
@@ -76,9 +77,17 @@ Selanar is a Sun Elf Mage from Myth Drannor. During his childhood, when he start
 * The Silver Twilight: A fraternity inside the College whose objective is the advancement of magical knowledge through both ongoing research and archaeological investigation of lost arcane disciplines.
 * Harpers: A scattered network of spellcasters and spies who advocate equality and covertly oppose the abuse of power. The organization is benevolent, knowledgeable, and secretive.
 
+## Appearance
+
+Tall even by elven measure and built like drawn wire — all length, no bulk. Bronze skin, hair the color of poured gold falling in waves past his shoulders, and eyes of polished metallic silver that catch lamplight like struck coin. He dresses with deliberate care: cool blues and greens, cut immaculately, the gold- and mithral-thread embroidery worked so fine you do not see it until you are close enough to be judged by it. The jewelry is sparse and flawless. Somewhere on him there is always a scrap of Durothil yellow and white.
+
+His right forearm is wrapped wrist to elbow in what appears, at arm's length, to be a solid band of green ink. It is not. Closer, it resolves — thousands of hair-fine azure lines threaded with yellow, four interlocking silver circles set lengthwise along the limb, concentric lozenges ringing them, and a silver lightning sigil across the back of the hand. When he weaves, it wakes.
+
+*At a glance:* a young gold elf in very good clothes, sitting straighter than the furniture deserves, with something silver moving under the skin of his right arm.
+
 ## Summary
 
-- Born the dawn after the [Quess'Ar'Teranthvar](#quessarteranthvar) (Nether Scrolls) was melted in 1375 DR ([3.5e] FR3 Anauroch: Empire of Shade)
+- Born at dawn on Eleasias 3, 1375 DR, the day after the [Quess'Ar'Teranthvar](#quessarteranthvar) (Nether Scrolls) was melted ([3.5e] FR3 Anauroch: Empire of Shade) — the Time of the Weaving, anniversary of the laying of Myth Drannor's mythal in 261 DR, on which the wizards of the city honour Corellon and Mystra together ([2e] Cormanthyr: Empire of Elves, p.59)
 - Part of Tyvollus' Aluviirsan lineage ([2e] Cormanthyr - Empire of Elves)
 - Traces of the Spell-Captain's tattoo on his right forearm since birth, faintly visible when casting or under magical examination (black lightning sigil on hand-back, an elaborate and large tattoo of fine azure lines wraps the entire forearm, four interlocking circles, concentric lozenges surrounding all the circles on the outside) ([2e] Cormanthyr - Empire of Elves)
 - Fought in 1487 DR in the battle of Myth Drannor against the forces of Netheril (Thultanthar) as a fresh recruit. (The Herald)
