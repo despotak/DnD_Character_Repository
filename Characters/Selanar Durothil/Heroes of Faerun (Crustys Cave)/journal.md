@@ -166,7 +166,7 @@ Seeker of Mysteries
 
 ## Entry II — An Errand for My Brother
 
-*Aboard a trade barge on the Semberflow, the 2nd of Eleint, 1501 DR. Written by a very small lamp, in a hold that smells of onions.*
+*Aboard a trade barge on the Semberflow, the 29th of Flamerule, 1501 DR. Written by a very small lamp, in a hold that smells of onions.*
 
 ---
 
@@ -293,7 +293,7 @@ I shall reach again tomorrow.
 
 ## Entry III — Three Words in a Circle
 
-*The Silver Shield, Highmoon in Deepingdale, the 10th of Eleint, 1501 DR. Written in a cold room, at an hour when honest copyists are asleep.*
+*The Silver Shield, Highmoon in Deepingdale, the 4th of Eleasis, 1501 DR. Written in a cold room, at an hour when honest copyists are asleep.*
 
 ---
 
@@ -323,7 +323,7 @@ There are two inns in this town worth the name.
 
 The Rising Moon is cheap, warm and celebrated. Travellers write home about it. Its keeper is a retired adventurer and by every account the place feels like being made welcome in somebody's house, feet on the furniture, nobody minding.
 
-The Silver Shield is the expensive one. It is run by an elven family called Starnar, it has a mirror-bright shield hanging outside that can be seen from the road, and it is, I am now in a position to report, *pretentious*. The service is haughty. The service is also slow, which is a combination I had not previously believed possible to sustain. The furnishings scream money and the rooms are cold — this one is cold now, at the hour I am writing, in Eleint — and the entire establishment is very clean, entirely adequate, and pretending with its whole heart to be a great deal more than it is.
+The Silver Shield is the expensive one. It is run by an elven family called Starnar, it has a mirror-bright shield hanging outside that can be seen from the road, and it is, I am now in a position to report, *pretentious*. The service is haughty. The service is also slow, which is a combination I had not previously believed possible to sustain. The furnishings scream money and the rooms are cold — this one is cold now, at the hour I am writing, in Eleasis — and the entire establishment is very clean, entirely adequate, and pretending with its whole heart to be a great deal more than it is.
 
 I am at the Silver Shield. I walked past the good one because it was loud, and because this one had elves in it who would speak to me in my own tongue, and I was halfway up the stairs before I understood what I had done.
 
@@ -337,7 +337,7 @@ I decline to write down the obvious remark. Aeliana would have made it before th
 
 Highmoon. A walled town on the East Way, the Ordulin–Arabel road; four thousand souls counting the dale around it; considerable, by the local reckoning.
 
-I had prepared to be looked at. I am a conspicuous article — a hundred and twenty-six years old, robed as precisely what I am, with a face that has never once been mistaken for a Dalesman's — and I had prepared a manner, a stoop, and, Corellon forgive me, a *walk*.
+I had prepared to be looked at. I am a conspicuous article — a hundred and twenty-six years old, dressed a great deal better than anyone on this road and with no notion of how to dress otherwise, with a face that has never once been mistaken for a Dalesman's — and I had prepared a manner, a stoop, and, Corellon forgive me, a *walk*.
 
 Nobody looked. Half this dale is elven or half-elven; there is no place in Faerûn where men and elves keep house together so easily, and the entire yield of three days' incognito is one small human child who wished to know whether my ears came off. I told her they did not. She took the news badly and left.
 
@@ -470,3 +470,259 @@ I reached for the fire tonight, at the window, before writing this. Nearer than 
 *(I have resolved, in light of the evening's principal lesson, to put less of myself on paper henceforth. I am aware that this resolution appears at the foot of eleven pages. A man may hold a policy and a nature at the same time; I am told this is called being civilised.*
 
 *I did not write the other name out tonight. Not restraint — I reached for it from habit and found I had not thought of it in two days. I have decided to call this discipline. I am aware of the other thing it might be. It has gone on the pile.)*
+
+## Entry IV — Two, and Two Tomorrow
+
+*Moontassel, in Sembia. The 9th of Eleasis, 1501 DR — written after midnight, in a crypt, by the light of a thing I do not understand.*
+
+---
+
+There was an open grave four feet to my left tonight, and I did not get into it.
+
+I was offered total cover — a clean six feet of Sembian earth between myself and every bow on that hill — and I considered it, and I crouched behind a headstone instead. A headstone is not cover. A headstone is a *suggestion* of cover; it stops precisely as much of an arrow as the arrow consents to allow. Gregorio went in. Vesper went in after him and announced from the bottom that he had no dignity, cheerfully, the way a man states a professional qualification. I stayed up in the open behind eleven inches of weathered granite, and I should like it recorded that I was weighing the tactical merits.
+
+I was not weighing the tactical merits. A Durothil does not climb into a hole. That is the entire content of the decision, and the homespun is ruined anyway.
+
+---
+
+Now.
+
+I have opened every one of these books with the smallest available humiliation and then spent four pages walking sideways towards the thing I actually needed to say. I did it with a coat. I did it, five nights ago, with four silver and a clerk who called my hand *neat*. I am aware of the habit; I have written the habit down; I have congratulated myself, in ink, on being the sort of man who can see it.
+
+Tonight I am going to stop at three paragraphs, because if I bury this any deeper in the page I shall have proved something about myself that I would rather not have proved.
+
+**It worked.**
+
+---
+
+I must be exact, because the exactness is the whole of the injury. I am not a man who never could. I was *good* at this.
+
+I learned the Art in the years after Cyric's knife, when the Weave was a torn and improvised thing and every practitioner alive was making do — and it answered me. Not gracefully and not reliably, but it answered, and I built a life upon the fact that it did: the examinations, the treatises, the commission in the *Akh'Faer*, a small reputation in three cities for a young man who understood the shape of a working.
+
+Then she came back.
+
+I should like that recorded as the private catastrophe it was, since nobody says it aloud and there is nobody I could say it to. The Lady returned, the Weave was made whole, and every single thing I knew became *wrong*. Not forgotten. **Obsolete.** The grammar changed underneath a hundred years of fluency, and I have met precisely no one who counts it as a loss, because what was restored was so obviously greater than what it replaced.
+
+I stood in the line at Myth Drannor holding a sword like a man holding someone else's baby, and the reason was not that I had never learned magic. The reason was that I had learned it *extremely well*, in a configuration of the world that had ceased to exist some years earlier, and on the day my city needed me I could not do the one thing I am for.
+
+Fourteen years since. I have written *fourteen years of grief and scholarship* in this book more than once and let the phrase sit there sounding elegant. This is what it means. It means beginning again at a hundred and twelve, at the first circle, alone in rooms, out of treatises rewritten by people younger than my boots — raising the same small ward several thousand times, watching nothing whatever happen, adjusting the vowels, and trying it again.
+
+Tonight there were arrows in the air and I did it without deciding to, and the air went hard around me like a held breath.
+
+---
+
+And it *shows*, which I had not expected, having never once got far enough to wonder.
+
+Not a glow; nothing so vulgar. A film standing perhaps half an inch off the cloth — invisible looking straight at it, and then, the instant I moved, running the whole spectrum in slow bands from the shoulder down, the way oil sits on standing water and declines to be one colour. It is not light being *made*. It is light being *bent*, in the proper order, red through to violet, exactly as it comes in a raindrop; because the working produces nothing at all. It merely disagrees with the world about where light may go.
+
+I put my hand out afterwards, in the middle of a battle, and touched it. It was there.
+
+I am not going to attempt to record what that was. I will set down only the fact, which is this: that a Durothil of the First Houses, a hundred and twenty-six years old, holding rank in an army of the Art that has had no use for him since the world changed shape, crouched behind a stranger's headstone in a Sembian graveyard tonight and performed first-circle magic correctly.
+
+I should like to say I felt it as triumph. I did not. I felt it the way one feels a stair that is not where the foot expected it.
+
+---
+
+There were two. Then there were none, and the *manner* of there being none is the second thing I learned tonight.
+
+A copyist would know the feeling, and I have been one for a fortnight, so let it go in his terms first: the ink goes. One is writing — and then one is dragging a dry nib across good vellum and pretending the letter is still forming.
+
+Except that it is nothing like ink.
+
+Ink fails *gradually*. It thins, one presses harder, and there is a stretch in the middle of it where a determined man can still get words out of a spent pen. There was no stretch. There was a working, and then a second working, and then a third reaching that met nothing whatever — not resistance, not refusal, not the Lady declining me. An absence with an edge on it, and the edge precisely where it had stood the instant before.
+
+I have wanted, for fourteen years, one clean demonstration that the door had been opened again. It did not once occur to me that the demonstration would be **the number**.
+
+The old Weave was generous and unreliable, which is to say that it was neither. This one is not generous in the least. It is *exact*: it permits what it permits, and where it stops it stops absolutely, and there is nothing there to argue with because there is nothing there at all.
+
+Two. It is two, and it will be two again tomorrow, and I find that I have not been so reassured by a limitation in my life.
+
+---
+
+And then there is the fire, which needed none of that.
+
+It did not change when the world did. Everything I owned stopped behaving when the Weave was remade — my entire education rendered a historical curiosity inside a few years — and the fire arrived in that same span, unasked, and has never since altered by so much as a shade. Not the colour. Not the weight of it in the arm. Not the price. Whatever it is, it was not built on her Weave and it did not consult her about coming.
+
+It comes out of *me*. Down the arm and out of the open hand, exactly as it came the first time on a burning street fourteen years ago: silver-blue at the root, and at the edges every colour that light can hold, turning over as it goes. And silent — entirely silent, always. That is the detail witnesses find hardest, and I have watched more than one of them go looking for the sound afterwards, the way one gropes for a step that was not there.
+
+Which brings me to the thing I have contrived not to think about for a year and a half.
+
+A priest's radiance *descends*. That is the whole grammar of it — granted, arriving from somewhere above and outside, and every man and woman who has stood in a temple knows the shape of that in the body without ever having been taught.
+
+Mine goes the wrong way.
+
+I have built a prayer that says the light is Corellon's. I have said that prayer in front of people. And the light leaves my hand while I am saying it, downward and outward, from the wrong direction entirely, in front of anyone who has ever watched clergy work — and I have been congratulating myself on the *wording*.
+
+---
+
+Very well. The evening in order, like a person.
+
+Five days on the Silverhand caravan out of Highmoon, and I record with a straight face that I learned nothing whatever about the place I was going to. I asked in the manner of a clerk with a dull mind and an appetite for gossip, and got in return an education in matters nobody was concealing: gnolls out of the Thunder Peaks, more each season; Purple Dragons commissioned to burn out the encampments and ambushed for their trouble; goblins in Arch Wood, told as a story rather than a warning. Every mercenary in that train sends coin home to Arabel and speaks of the Thunder Gap the way sailors speak of a particular reef.
+
+Of *Moontassel* — nothing. Not a rumour, not a joke, not the mild contempt road-people keep for places too small to trade with. They pass the turnoff twice a month and it does not exist to them.
+
+My brother gave me a name the caravanners of the East Way have never had occasion to say aloud. I had thought his secrecy was caution. I begin to suspect it was accuracy.
+
+I had also prepared, at some length, to be conspicuous: hood up, a borrowed stoop, the whole apparatus of an *Ar'Tel'Quessir* trying not to be looked at in a human dale. I am travelling with a **tiefling**. Nobody has looked at me since Highmoon. Every eye on that road went past me and fastened on Gregorio, who has never in his life minded being looked at and consequently has no notion he is doing me a service. I mentioned it aloud in the end — *don't look at me, look at the tiefling* — and he took it as a compliment. He takes most things as a compliment. It is, I am obliged to admit, restful.
+
+---
+
+Moontassel is a hundred and fifty souls at the outside; thatch and mud and a well in the middle, fifteen minutes north of the road. The sun was going down as we came in.
+
+There are *Cha'Tel'Quessir* families at the edge of it — a human father bringing in firewood, the children unmistakable about the ears and no more troubled by it than by the wood. I record my reaction because a Durothil is supposed to have one: I had none. My House has spent fifteen thousand years being certain about lineage and I have watched that certainty burn a city down. Taenis would have had a view. I have discovered that I do not, and I am not yet sure whether that is growth or exhaustion in better clothes.
+
+We met Vesper at the well.
+
+A man who reads as human, with a priest's bearing, a face full of half-healed scratches and eyes that are not a human's eyes — cat-slit, and he made no effort to hide them. He came to me because I am *Tel'Quessir* and had decided on that basis alone that I would do. *Vesper. Of Waterdeep.* He needed someone with a little magical talent, he said, and hated to assume.
+
+And I gave him the name — and I want this set down exactly, because I heard myself do it and could not stop it — **I hesitated.** A half-beat, no more, of a man reaching for something not where he left it. *Aldreth.* He noticed. He is not a subtle creature and he noticed anyway, and he said nothing.
+
+Five nights ago I wrote that I had stopped making the effort to tell the truth and was becoming rather good at the man I am pretending to be. Tonight the lie caught in my throat like a stone.
+
+An old man on a stoop sent us to the largest building past the well: no inn — there is no inn — but a man named Algar makes ale, and because he makes ale people stop, and so half his house is given over to a common room where travellers sleep on the floor and bring their own cups. He greeted us with *"Well, aren't we a popular town today?"*, which I did not understand at the time and have understood since. There were a good many bedrolls already on that floor.
+
+---
+
+Then Vesper put the box on the table, and I have not been the same since.
+
+Six glyphs, interlocked — evocation, divination, enchantment, abjuration — chained so that dispelling the first fires the second and the second the third, all the way round. No seam to work at. I took the full ten minutes to raise *detect magic* properly rather than snatch at it, and I am glad I did, because what I found was this:
+
+The ink alone would have cost eight or nine hundred gold.
+
+Read that slowly. Not the relic — the *ink*. Somebody with a scribe's hand better than mine and a caster's power well beyond it spent the price of a good house on the **lock**. One does not do that for treasure. One does that for a thing one is afraid of, or a thing one has sworn to.
+
+And through the walls of it: a crescent, six inches across, small stars hanging from it on chains. Divination, and old. It is a holy symbol of Selûne and it is not an ornament.
+
+I told him — carefully, because he is a man who would open it — that whoever gave it to him may well have died to hand it over, and that if he lifted that latch without the key he would take himself, me, and a fair portion of Algar's establishment with him. His eyes went briefly very wide and then very flat. *Someone talks to you like you're holding a stick of dynamite,* he said, and put his fingertips back on it, which tells you everything about him that I have since had confirmed.
+
+He asked what brought me to this village. I said I was touring the rural parts of Sembia. He knew instantly, did not trouble to conceal that he knew, and asked me to come anyway. I said it is always good to be on the Lady's good side. He smiled — his teeth are wrong, far too sharp for that mouth, and he knows I saw that too.
+
+We are two men who have each declined to ask the obvious question, and we went up the hill on that basis.
+
+---
+
+The graves at the top had been dug open before we arrived.
+
+I set that down first because everything since has arranged itself around it and I still have no explanation. The clergy said they had come to consecrate the ground; there was incense laid out in a ring, a great deal of it, and I have done the arithmetic and there was *nowhere near enough* — a hallowing wants a thousand gold of it and the better part of a day. Whatever was set up on that hill was wearing a consecration the way a man wears another man's coat.
+
+There was a High Priestess of Ordulin at the door of the crypt, and beside her a noble with two mercenaries and heavy crossbows already in their hands, and a golden lion's head sewn into his robes.
+
+She asked Vesper for the package. Marcella — the priestess who has brought him this far, and who has been frightened every hour I have known her — touched his shoulder and told him this was the woman to give it to.
+
+He said: *I was tasked to protect it.*
+
+---
+
+It began with the leaves.
+
+I have read a great many accounts of ambushes and not one thinks to mention that. The arrows do not announce themselves. The *tree* does — a whole crown of oak moving at once, in a still evening, with no wind to explain it — and by the time I had turned my head to look at a thing that made no sense, the noble was down and the High Priestess was down and neither had finished the sentence they were in.
+
+I warded myself and got behind my stone. Then one of them came over the fence at me, and I stopped being a spectator.
+
+The fire first, because there was no room for anything longer: *Solicallor aren Cor*, and nothing after it.
+
+Then the sword. There is a drill for it — one of the old *Akh'Faer* forms, a step and a turn of the wrist, ten thousand repetitions laid into me in the practice yards at the Glade some ninety years before I had the least idea what it was for. It looks like fencing. It *is* the working, and it asks nothing whatever of the voice.
+
+What it does to the eye is this. A fringe of colour comes up along the edge of the blade, thin as a hair, the full spectrum in order, the way the world fringes at the corner of a well-cut prism. And then everything past that edge *doubles* — slightly, the way a far thing doubles through poor glass — and in the doubling one sees not where a man is standing but where he is about to be.
+
+He was about to be half a pace to my left with his weight on the wrong foot.
+
+So I went there, and waited the necessary quarter-second, and the sword took him under the arm and stopped against something. He made a sound I had not previously heard a person make. He was not a large man and he did not fall so much as fold, and drawing the blade back out required a great deal more of me than putting it in had.
+
+Then an arrow came for my face, and I put up the second ward, and *that* one is not subtle in the slightest.
+
+There is nothing to see until the instant of the strike. Then the whole of it announces itself at once — a ring of colour breaking outward from the point of impact, racing to the edges the way the ring races across oil when a drop falls into it, so that for one heartbeat you are shown the exact shape and extent of the thing that has been standing between you and the world. The arrow went away sideways, a hand's breadth from my ear.
+
+And then the ward let go. Not a shattering; there is nothing brittle about it. It came apart into a great quantity of small bright motes, prismatic, entirely unhurried, drifting down and going out one after another — as though the thing had been made of a very large number of tiny agreeing lights, and the arrow had merely ended the agreement.
+
+I watched them fall. In the middle of an ambush, with two dead within twenty feet of me and archers still in the trees, I stood behind my rock and watched them go all the way down to the grass.
+
+It was beautiful. I have now written that sentence about my own magic twice in this book, fourteen years apart, and I decline to strike out either instance.
+
+And that was everything, gone inside a minute — which is where the fire proved to be the whole of my worth. I called it twice more across the rest of it, and *those* times there was room to breathe first, and so I said the whole of it, every clause, in the voice one uses in a temple, with the pauses in the right places. Two of them, one after the other. The second folded where he stood.
+
+They broke after that. They had come expecting to shoot a priestess and a nobleman on an open hill and had instead acquired a bard, a dragonborn, a man with a bow who does not miss, and whatever it is that I am; and when the arithmetic turned they went, fast and well, the way people go who have done this before.
+
+---
+
+The one I killed with the blade was *Teu'Tel'Quessir*.
+
+I had him at arm's length. Close enough that when I drew the sword back out I could see him properly: pale, that silver cast to the skin our people call moonlight and mean as a compliment. He is the first full-blooded *Tel'Quessir* I have laid eyes on since Highmoon, and I had been thinking, in the abstract, that it would be a comfort.
+
+Six of them lie in that brush now. A seventh broke and ran when the arithmetic turned, got clear, and is somewhere tonight between here and whoever paid him. No insignia. No letters, no seals, not one coin between the lot of them, and blades that all came off the same anvil. Somebody scrubbed them before sending them, which is a thing one does when one expects the bodies to be examined by people who could read them.
+
+My brother told me House Starym is doing something in this town. He told me in an emptied hall with the doors shut. And tonight *Tel'Quessir* put arrows into a priestess of the Moonmaiden on consecrated ground, in front of witnesses, and left nothing on themselves that could be traced to anybody.
+
+I have no proof it was the House. I have only the observation that they are the only other elves within a hundred miles, and that somebody paid for their silence in advance.
+
+---
+
+Then the bodies began to be interesting.
+
+The High Priestess of Ordulin — the most ornamented woman in the largest temple in that city — was carrying **no holy symbol**. None. The acolytes offered, gently, that she might have forgotten it, and one of them believed it while he said it.
+
+The noble was cold. Not cooling. *Cold*, within minutes, in Eleasis, on a warm hill.
+
+And the two who came up through the woods have been hunting that noble across half of Sembia. Cad came out of the treeline first — human to look at, and better with a bow than a man ought to be who does not care to explain where he learned it. Akir came only when Cad went and fetched him: a dragonborn, who had not shown himself for the entire engagement, accompanied by an enormous starry cat that came out of nowhere mid-battle, took a man down, and has not been explained to me either.
+
+A man with the dead noble's face put a bullet through Akir's chest, some weeks ago and some hundreds of miles from here. He looked at the body and found a scar down the left cheek that the man who shot him did not have. They followed that carriage out of Ordulin themselves; there was no time on that road to change one man for another, and they would have passed the substitution going the other way.
+
+So: a priestess who is not a priestess, and a noble who is not that noble and does not have the decency to be warm. I should very much like to be told these are two separate frauds. I do not expect to be.
+
+---
+
+The crypt is older than the village standing on top of it.
+
+There is a plaque at the foot of the statue inside, in Espruar, in my own letters and this time in my own tongue: *here lies the burial of the Moonshadows, the first prophets of Selûne in this land.* Vesper knew the name when I did not — one of that line was **Chosen of Selûne**, the better part of a thousand years ago. The statue is not of the goddess. It is of the woman.
+
+And in the centre of her stone chest is a shallow crescent indent, six inches across, whose shape I had already seen once tonight through the wall of a locked box.
+
+It is not a relic. It is a **key**. It has been a key the entire time, and somebody spent nine hundred gold in ink to be certain that only the right hand would ever turn it.
+
+Vesper asked whether it was safe to open. I said I did not know whether the ritual was complete, which was the honest answer and no use to anyone. The acolytes went back to the walls. He closed his eyes, said something to his Lady about destiny, and put his hand to the latch.
+
+Every glyph on that box began to turn. And then every pillar in the room — six glyphs each, ringed around, which not one of us had noticed walking in — began to turn with them. I did what I could to shore up what was already laid out there. It may have helped; I am not certain it did.
+
+The latch came up an eighth of an inch, and the light that came out of it was the colour of the moon.
+
+The crescent slotted into the statue's chest as though it had been cut for it, which of course it had. The stone at the back of the building split, and opened, and there is a stair going down into the hill.
+
+We are still standing at the top of it, arguing pleasantly about whether to sleep first. Gregorio is for going now, on the grounds that it is more of a story. Vesper has not said. I have not said either, and I notice that I have not said, and that I am writing instead.
+
+---
+
+Three last things, and then the lamp.
+
+Vesper handed me the box. Emptied, worthless, and he put it into my hands in front of everyone and thanked me, and Cad asked out loud whether he really meant to trust *them* with it. He did mean to. I have given that man a false name, a false errand and a false reason for standing on his hill, and he has decided to trust me on the evidence of one honest warning about a lock. I find I dislike this a great deal more than I expected to.
+
+The second. Before we go down, I have asked that we put the six *Teu'Tel'Quessir* in the ground.
+
+There are open graves not ten feet from where they fell — somebody did the digging for us, which is either grim convenience or the least funny joke I have been party to. There are already occupants; they can share. The dead are not fastidious, whatever their houses were.
+
+I would not put myself into one of those holes to save my own life. I intend to spend an hour of the morning putting six strangers into them properly. I am entirely aware of how that reads and I am leaving it in. I could not tell you their names, nor who paid them, though I have a guess I am not writing down. I know only that they came a long way to shoot a woman in the back for money, and that they are *Tel'Quessir*, and that if this is what we have come to after Myth Drannor then somebody ought at least to put them under the earth instead of leaving them in a Sembian ditch for the crows.
+
+---
+
+And the third, which is why the signature below is what it is.
+
+One of them ran. He is riding somewhere tonight, and when he arrives he will say what he saw, and what he saw included a gold elf on a hilltop in Sembia calling down silver fire.
+
+There is exactly one house of the *Ar'Tel'Quessir* with an interest in Moontassel, and by the time that report is read they will not need to be told my name. They will only need to be told the colour of the light.
+
+So the copyist is finished. He lasted a fortnight, cost four silver, and was undone not by carelessness but by arithmetic — I was always going to be seen the first time I was of any use. What I bought with him was a head start, and I did not squander it: I reached this town ahead of them, whatever they are digging for they have not got it, and I was standing in the room when it opened.
+
+That should be something. I have decided that it is.
+
+*Signed, for the first time in this book —*
+
+**Selanar Durothil**
+
+*Of House Durothil. Of Myth Drannor. Two spells to his name, two men to his account, and unmuddied at considerable expense.*
+
+*(The arithmetic, since I have spent four pages declining to do it.*
+
+*The Art answered me twice tonight, after fourteen years of asking, and I have written most of a book about it.*
+
+*The fire answered three times. It has never once been late, never wanted a Lady, a circle or a syllable, and did not stop when everything else stopped.*
+
+*I have spent those same fourteen years calling the first of them my vocation and the second my affliction. I am not going to take that further tonight.)*
