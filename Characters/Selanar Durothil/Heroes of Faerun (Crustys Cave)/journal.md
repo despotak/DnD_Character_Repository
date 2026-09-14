@@ -726,3 +726,250 @@ That should be something. I have decided that it is.
 *The fire answered three times. It has never once been late, never wanted a Lady, a circle or a syllable, and did not stop when everything else stopped.*
 
 *I have spent those same fourteen years calling the first of them my vocation and the second my affliction. I am not going to take that further tonight.)*
+
+## Entry V — With My Eyes Closed
+
+*Moontassel, in Sembia. The 9th of Eleasis, 1501 DR — written underground, at the edge of black water, by the light of a candelabra that nobody else wanted.*
+
+---
+
+I am writing this because I do not know what else to do with my hands.
+
+I put that at the top in place of the humiliation, because tonight there is no humiliation available and I have looked for one. There is no ruined coat here. There is no clerk to call my hand *neat*. There is a rope, and it goes into black water, and there is nothing whatever on the other end of it.
+
+Three of them are down there. Gregorio has the line and it has gone slack, and I have already told him the only three things I know: that one went down like a stone, that one passed me swimming, and that there is no tension anywhere on that rope. A moment ago some bubbles came up. That is not a good sign.
+
+I am putting words on paper so that if this ends badly there is at least an account of it, and so that if it does not, I shall have something to be embarrassed about later.
+
+Let me set the day down properly, from the beginning, while it is still whole in my head.
+
+---
+
+We stood over the dead in the grey light, and Cad found that the noble's skin had begun to change.
+
+Bark. Growing out of the very wounds that killed him — slow, and patient, and entirely indifferent to the fact that its host had finished. He tore a piece free. It crumbled in his hand, and began again.
+
+Cad has the same affliction. He put out his arm and showed us, and on him it does not crumble at all; it closes over as fast as he can pull it away. He told us he left home partly because of it. He told us it was not contagious, and then said *not that I know of*, which is an entirely different sentence, and he is not a careless enough man for the difference to have been an accident.
+
+I had been treating this as a curse laid upon one man. A second afflicted body takes that away from me.
+
+Whatever this is, it is not personal. That is worse, not better. A curse has an author, and an author may be found and reasoned with and, if it comes to it, killed. A condition merely spreads.
+
+---
+
+The noble was Marcel, of the Millerwrights. His guard gave us the name, along with everything else he knew, which was rather less than he believed and a good deal more than he intended.
+
+He had worked for the family some years. Short journeys, all of them. He does not care to go far from Ordulin — his people are there — and he took this one because Marcel told him it would be quick and that he would not require much protecting.
+
+I have been turning that over since. A man who knows he is going up a hill to meet a High Priestess and stand over a nine-hundred-gold lock does not bring one guard and tell him it will be brief. A man who does not know tells him precisely that.
+
+Then the scar, which was the thing.
+
+Akir was certain and has remained certain: everything about that body matched the man who put a bullet through his chest ten days ago — the hair, the eyes, the cast of the skin, all of it — excepting a curved cut running from beneath the left eye down to the chin.
+
+The guard has an account of it and the account is three months old. A gnoll took it in the Thunder Gap, on the road back from Arabel. They camped in the pass against good advice, cooked a meal, and half a dozen came out of the dark at them. They drove them off. Gnolls scatter the instant the odds turn; they are fickle creatures, more animal than soldier, and every mercenary on the East Way will tell you so for nothing and then tell you again.
+
+Except that these did not scatter. They came organised, and in force, and all at once — which is not the pack-work of a thing that lives by picking off the lone and the tired. The same was true of the raid on the Purple Dragon camp, which I heard told five days ago as a piece of road gossip and have not been able to put down since.
+
+Something out there is teaching them to be patient. I record that I find this considerably more alarming than anything I have met underground, and that nobody else at that graveside appeared to find it alarming at all.
+
+---
+
+And Marcel had been meeting with the High Priestess. Repeatedly, these last weeks, though he was never a regular at ceremony — a man who does not attend, calling upon the largest temple in Ordulin over and over, and then bringing her out to a village of a hundred and fifty souls at the end of a road nobody uses.
+
+They came to consecrate the ground. So the acolytes say; so the incense laid out in its ring says. I did the arithmetic of that incense last night and set it down in this book: a hallowing wants a thousand gold of the stuff and the better part of a day, and what lay scattered on that hill would not have filled a censer.
+
+They were not consecrating anything. They were dressing a hilltop to *look* consecrated, for the benefit of somebody who would not check.
+
+And they spoke — this is the part I cannot get comfortable with — of protecting the town from a dead that has never once risen. Not a plague of them. Not an incident. Not one. She claimed, in communion, that it was *going to happen soon*.
+
+She wore no amulet. I wrote that last night and I write it again tonight, because a priestess leading a rite without a focus has not forgotten something.
+
+I asked whether there were prayers for keeping a body from rising, and named *gentle repose*, and the guard did not know the name of it — which tells me nothing about the rite and everything about the guard, who is exactly what he appears to be and is the only person on that hill of whom I can say it.
+
+Then we put the elves into the open graves ourselves.
+
+I wrote the better part of a page last night about decency. About six strangers who had come a long way to shoot a woman in the back for money, and about how somebody ought at least to put them under the earth rather than leave them in a Sembian ditch for the crows.
+
+I should like the record to show what I actually said this morning, with the light coming up and the work in front of me.
+
+I said it was for the crows. And the wolves.
+
+Both things were true. I observe which of the two I put in the book, and which of the two I said out loud to men who were standing there with shovels.
+
+Then I asked for a little time before we went down. I was given it, and I took it, and I shall not write here what I said in it.
+
+---
+
+Thirty feet of stair, and dropping fast — no landing, no turn, a pitch that tells you the people who cut it were not thinking about visitors. Cobweb at the bottom as thick as curtain. Beyond it a small tower of a room with three doors and a ceiling so low that a tall man walks bent the whole width of it.
+
+In the exact centre of that floor lay a man who had been dead a very long time. Rusted sword still in the hand. Leather rotted away to nothing, the studs corroded past recognition.
+
+**People do not die where they stand.** Not from natural causes; not in the middle of a floor; not facing nothing at all with a blade already drawn. A man who sickens goes to a wall, because everyone goes to a wall. A man who is overcome falls where the fight put him, and a fight is never in the centre of anything.
+
+So I went round the room by the wall — slowly, watching my footing, reading the stone — because I had been warned there might be fire in this place, and fire that misses leaves a mark. I know precisely what a missed working looks like on masonry. I have spent fourteen years putting scorch on the walls of rooms I was permitted to ruin.
+
+There were no marks. Not one. The walls were clean.
+
+Which means that whatever burned that man burned *only* that man. Exactly him, and nothing else in a room he was standing in the middle of — no spill, no overreach, not a hand's breadth of char on stone that has kept every other mark it was ever given.
+
+I have not stopped thinking about it, and I am going to finish the thought on the page rather than leave it politely unfinished, because this book is no use to me if I lie to it.
+
+I know a fire that behaves in that manner. It is silent. It is exact. It goes where it is sent and it does not go anywhere else, and in fourteen years it has never once left a mark on anything I did not aim it at.
+
+I do not say they are the same. I say only that I walked a slow circuit of a dead man's room this morning looking for evidence of carelessness, found instead the signature of something extraordinarily careful, and recognised the hand.
+
+---
+
+The pillars turn, and the doors answer them.
+
+One opens as another shuts. Always, without exception, in every arrangement we were able to contrive — and we contrived a number of them, at length, stooping, in a room built for people shorter than my patience. There is no configuration that opens two.
+
+That is not a defence against thieves. A thief arrives alone and does not care in the least which door he is given. This is a building that will not permit a party to remain together: it obliges you to divide, or to abandon somebody on the wrong side of the stone, and it has obliged that of everyone who has ever come down here — including, I note, whoever it was that came down here before us.
+
+It is a defence against **groups**. Somebody built this expecting to be visited by people who arrive in numbers, and built it in the settled confidence that numbers could be made into a liability.
+
+Vesper turned the first pillar, and the skeletons came, and they *cast*.
+
+I should like that recorded plainly, since I appear to have been the only person in the room who found it worth remarking upon. A skeleton is a frame with an instruction in it. It does not retain the Art — the Art is a discipline of a living mind, and every authority I have read on the subject holds that the animate dead keep the body's habits and nothing whatever of the man's. One of them put a bolt of fire down a corridor at us with a soldier's aim. Not flung. Not scattered. *Placed.*
+
+We killed the one that reached us and sealed the rest of them behind stone, and I am entirely aware of how thin that sounds written down.
+
+---
+
+I burned the webbing out of the eastern side, which was the one task all day to which I was unambiguously well suited.
+
+Akir killed what was left of the spider with a great deal more lightning than the occasion strictly required. I asked afterwards whether anything might be harvested from it — glands, silk, the usual apparatus — and there was nothing remaining but ash and a single leg, which crumbled when I lifted it. I record without embarrassment that I wanted it chiefly for the flavour of the thing rather than for any use I could have named aloud.
+
+Then two crypts. **Aldere.** **Erglas.** Simple wooden coffins, plain to the point of austerity, nothing upon them that a Sembian would cross a road for — and at the base of each, in Elven, in my own letters, the name **Moonshadow**.
+
+An ancient order, and their own dead, under a hill in a country that did not exist when they were laid down here. I had that name last night off a plaque and took it for local piety. It is not local and it is not piety. It is a *house*, and I have spent my entire life in one, and I ought to have known the shape of it on sight.
+
+And then a room that had never once been dusty.
+
+I should like that considered properly. We have come thirty feet down into a hill through nothing but dust — dust on the stair, dust in the webbing, dust lying undisturbed across a dead man's rusted sword for what must be centuries — and there is one chamber in it, with two doors, and a clean floor.
+
+On the wall, two lines:
+
+> *To find the mirror of blackness, one must step through a world of light.*
+> *To find the mirror of reflection, one must step through a world of darkness.*
+
+We put out every flame we had and went into the dark.
+
+---
+
+The next chamber was foul, and it was the wrongness of it rather than the stink of it that mattered.
+
+The alcoves were empty. The bones were on the floor, thrown down without the least regard — and Gregorio saw at once what I had walked past. They had *moved*. Dust does not lie like that where a body has lain undisturbed; there is an outline, always, and there was none, and there were eight of them out of position.
+
+I told the others what I could see, and I warned them twice, in the voice one reserves for children and bards, to bring no light of any kind. Not a torch. Not a spell. Nothing.
+
+I should like somebody, one day, to appreciate the position I was standing in. I am a man with exactly one reliable gift, and that gift is *light* — silver-blue, silent, and the most conspicuous thing in any room it has ever occupied — and I was in the dark instructing four people that light was forbidden, in a passage which had already told us in writing which of the two mirrors darkness is the road to.
+
+So I sent a hand ahead of me instead. Mine is a rude thing; it arrives and immediately makes a gesture of dismissal, as though I had interrupted it at something. I had it take up a rotted bow and pitch it into the webbing, to see what would move.
+
+Nothing moved. But it tore away enough to show a body at the far end of a long dark smear on the floor.
+
+Dragged there. Skin black and purple, and *not decayed*, in a chamber where the cobwebs had had years to grow around it.
+
+An altar. A silver goblet. An ornamental stand with nothing at all upon it. And a dagger with a very fine emerald in the pommel, driven to the hilt through the throat and up through the jaw in one perfectly straight line.
+
+That is not a killing. A killing is done at whatever angle the struggle permits, and it shows. That is a *placement* — done to a man who was already still, by somebody who took the trouble to line it up first.
+
+When the hand drew it out, the corpse got up.
+
+It had Gregorio on the floor before we put it down. I got to him and put my weight on the wound and kept the blood inside him until Cad could pour the last of our healing between his teeth. He will live. It cost us everything we had of that kind, and I would spend it again without the pause.
+
+Afterwards Cad picked up the dagger and felt it go into his own throat. A memory that was not his, forced into him through the hand that held it. He did not shout — he is not a man who shouts. He came back to us and *mimed* it, and I find I would have very much preferred the shouting.
+
+---
+
+There is a painting of Shar down here. Floor to ceiling, the blade held up before her face, in what every soul in that village insists is a temple of Selûne.
+
+Vesper could not make it fit. He asked me why both. Why the one would not condemn the other.
+
+So I told him what I have believed since I was ninety years old and reading a good deal I had not been given permission to read: that **Shar and Selûne are sisters**, that a great many serious people hold them to be two faces of one thing, and that there is no moon without a night to hang it in.
+
+I said it knowing exactly how it lands. I named it heresy where he was raised before he could name it himself — which is a coward's way of saying a true thing, and I am aware of that too — and then I called him my friend while I said it, because he is.
+
+He worries what my own church at home would make of me. He is right to worry. I have built a prayer that calls the light Corellon's, and I have said that prayer aloud in front of witnesses, and the light comes out of my hand in the wrong direction entirely while I am saying it.
+
+Behind the painting: a way through. A stone guardian in heavy armour with its mace held point-down, and forty candles. Beyond that a further door, and statues cut in the shape of gnolls — in an elven crypt of the first prophets of Selûne, which nobody but myself appears to have thought worth a remark — and a chest with an elven sickle in it.
+
+Vesper has the sickle. I took the candelabra: buried under a century of wax, unremarkable, and nobody's first choice nor second. I have found, in a hundred and twenty-six years, that the object nobody wants is generally the one that turns out to matter. I am writing by it at this moment, which is either a vindication or a coincidence, and I know perfectly well which of the two I intend to tell it as.
+
+There was a child's coffin. Fairy tales set down beside it — fey stories, the sort one reads aloud to somebody small who is not going to sleep otherwise. I said a prayer and left the room precisely as I found it. Whoever lies there did not live long.
+
+And one sarcophagus stands open, and empty.
+
+That is the sentence I keep returning to. **This is not a place where the dead rest.** Something has been in here before us, and whatever its errand was, it did not come to mourn.
+
+The scrolls settled the rest of it. Not liturgy. Histories. Logs. Inventories. The daily record of a household, kept by people who had the time to keep one and the expectation of being read.
+
+This was never only a mausoleum. **They lived down here.**
+
+---
+
+The last door was not on the pillars at all.
+
+Akir put his shoulder to it. I handed him the crowbar and stepped back around my corner — I was shot at last night and have since developed opinions — and he opened it far enough for a body to pass through rib to spine.
+
+Beyond it: black water. Perfectly still, and holding a perfect reflection of everything above it, which in a chamber with no wind and no current is exactly what water is supposed to do and was nonetheless the most frightening thing I have seen underground.
+
+Akir dropped a coin into it. It did not sink. It did not ripple. It simply stopped being there.
+
+Then he looked into it, and it took him.
+
+Vesper reached for him and slipped. Heavy armour and dark water; he went down like something thrown, and he did not come up.
+
+And I stood at the edge of it with a rope in my hands and understood, with complete and entirely useless clarity, what the inscription had been telling us since the clean room.
+
+*To step through a world of darkness, one must step into night.*
+
+So I shut my eyes.
+
+I would not look at that water. I will not look at my own reflection in a thing that beckons — I have read enough to know better, and I have spent fourteen years being the only one of something, and a mirror that keeps what looks into it is precisely the shape of trouble that comes for men like me.
+
+I tied on, and I went in blind, and I went down as far as the rope would let me.
+
+Something large came past me in the dark, moving fast, and I caught it.
+
+It was Vesper. He weighed a very great deal more than I could hold, and he was still going down, and I let him go.
+
+I want that written plainly, in this hand, tonight, because I know exactly what I am and I will have phrased it more kindly by morning. **I had him, and I let go.**
+
+I found nothing else. I reached the end of the line, and Gregorio pulled me up.
+
+---
+
+So that is where we are.
+
+Cad went in after them with his eyes open. Three of them below, and no tension on the rope, and a few bubbles on a black surface that is showing me my own face while I write on it.
+
+There is a riddle here that I have not solved. To reach the light, one must pass through the darkness. I closed my eyes and went into the dark and came back up with nothing in my hands at all. Cad opened his, and went further than I did.
+
+I do not yet know whether what I did was faith or cowardice. I have examined it from both directions for the length of this entry, and I am obliged to report that from the surface they are identical. That may well be the entire point of the room.
+
+If they come up, I shall ask Selûne why she keeps her sister's portrait on the wall.
+
+If they do not, I am going back down.
+
+With my eyes open.
+
+---
+
+*Signed, underground, in a hurry, and without the least idea how this ends —*
+
+**Selanar Durothil**
+
+*Of House Durothil. Of Myth Drannor. Two spells to his name, a bard's blood dried to the elbow, and a rope in his hands that is not pulling.*
+
+*(I have filled nine pages by the light of a candelabra that nobody else wanted, with the line slack across my knee, and I observe that not one of those pages has required me to be in the water.*
+
+*Last night I wrote that I had not yet said whether we ought to go down, and that I noticed I had not said, and that I was writing instead. I set it down as a rather fine observation about a man in the act of deciding.*
+
+*I have had a second look at it tonight, in the time it has taken me to say all this.*
+
+*It is not an observation about deciding.*
+
+*It is what I do instead.)*
