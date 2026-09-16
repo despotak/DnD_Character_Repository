@@ -973,3 +973,248 @@ With my eyes open.
 *It is not an observation about deciding.*
 
 *It is what I do instead.)*
+
+## Entry VI — The Dagger First
+
+*Moontassel, in Sembia. The 9th of Eleasis, 1501 DR — written on the steps of the shrine, in open air, with the hill still settling underneath it.*
+
+---
+
+I have opened four of these five books with the smallest available humiliation.
+
+A ruined coat. A garment the colour of wet mice. Four silver and a clerk who called my hand *neat*. An open grave I declined to get into. Four times I have done it, I have written down that I do it, I have congratulated myself in ink on being the sort of man who can see himself doing it, and I have gone on doing it anyway because it buys me two pages before I have to arrive at the thing.
+
+The fifth time I reached and found nothing, and put the reaching at the top instead, and was quietly pleased with the manoeuvre.
+
+I reached again just now. There is nothing there. I turned out my pockets for some small indignity to lead with and found that the day has not left me one.
+
+Gregorio is under forty feet of hill.
+
+---
+
+I am going to set this down in order, because the order is the whole of the argument, and because I have already caught myself once tonight arranging it more kindly.
+
+Start with the well.
+
+I came up out of that water with nothing in my hands, and Gregorio pulled me out, and then the two of us stood at the top of a hole with three of our party somewhere underneath it and no way down that did not involve the water again. So I did what I do. I went and read the room.
+
+The fourth pillar had come down *recently*. The dust around it had been pushed aside and had not settled — hours, not centuries — and the ceiling above where it had stood had gone loose. Somebody had broken the thing that held this room up, not long before we arrived, and I have no idea who, and I have not stopped turning it over.
+
+The third was wrapped in a thorned bramble, which is not a thing that grows in a sealed crypt under a Sembian hill. I put the tip of my sword into it at arm's length. It writhed — slowly by the measure of a living creature, indecently fast by the measure of a vine — and the thorns drew *tighter* on the pillar as I did it. It was not growing there. It was **holding** it.
+
+Underneath it, when we had killed it, there was a man. Bones and studs and a buckle, everything else gone to time, and an amulet of Shar on his ribs.
+
+So: a Selûnite crypt, with the first prophets of the Moonmaiden in its coffins, and a Sharran dead under a vine that came in from outside and was throttling the mechanism. I said a prayer over him because nobody else was going to, and I record that I said it for a man who would not have said one for me.
+
+---
+
+Then the thing I have to write down properly.
+
+Three pillars stood and one was broken, and the broken one was the only lead we had. There is a gear at the floor and a second in the ceiling and they must be turned *together*, so I took the low one and put Gregorio up on the rubble to reach the high one, balanced on a heap of the very stone that had just come down.
+
+My hands were steady. His slipped.
+
+It jammed. Not stiff — **jammed**, finally, completely, the gear locked against itself and no longer a mechanism at all, and the last road out of that room closed with it.
+
+Now. I have written that down accurately, in the order it happened, and I am going to sit with it for exactly as long as it takes to say the following.
+
+**It was my plan.** It was my reading of the room, my arithmetic about the gears, my hand that pointed at the rubble and my voice that said *get up there* to a man who is not a climber and was standing on loose stone with a ceiling above him that I had already noted, in this book, as unsafe. He did what I asked. He did it badly, for one second, in a way that any person alive does something badly once.
+
+He is not here to have it written about him and I am not going to be the first man to do it. **Put it in my column.**
+
+And I want to be exact about what that column cost, because it did not cost nothing: after that there was the water or there was nothing. So we went into the water. And he came out of it burned.
+
+---
+
+We both looked in. We both lost.
+
+I had spent the whole of the previous entry congratulating myself on shutting my eyes, and I wrote at the bottom of it that if they did not come up I would go back down with my eyes open. I kept the letter of that and I want no credit for it: I stepped to the edge intending to look, and whatever is in that water did not wait to be permitted. It took us both in the same breath.
+
+---
+
+I was in Semberholme.
+
+The great hall, the one where the houses conduct their business in the open because doing it in the open is the whole point of it. Light through the high windows. Perhaps forty people at the tables, some of whom I have known for a century.
+
+My brother was sitting. Four of House Starym were standing around him in their regalia, and there was an **elven short sword already in his back**, the point of it in far enough to hold, and not one of them had troubled to conceal it.
+
+I walked over with my head up. I want that in the record, and I want the next sentence in the record directly under it: I caught the light on the blade at about ten paces and I *froze*, and when I started walking again my shoulders had come down, and I said **I'm here, brother** in the voice of a man reporting for an appointment.
+
+Taenis said: *I'm sure you are aware I need your signature as well.*
+
+I looked at the four of them and asked what it comes to. Their faces would not hold — they slid and reassembled the way faces do in a dream, and only my brother stayed himself throughout, which I have decided is the cruellest single detail in it. One of them said, pleasantly, that they were *just taking what is rightfully ours at the end of the day.*
+
+The terms, since I read them while signing: exile from the woods. Never to show our faces on any coast of the Sea of Fallen Stars. Our lives, kept. Our lineage permitted to exist somewhere far enough away to be no longer a lineage at all. *You'll hide in the sewers like the rats you were meant to become,* one of them said, *and we will sit in the light.*
+
+And the schedule of what was being signed across: the gems. The stones. The relics. The scrolls. Items **of the Netherese**.
+
+**A map to a mythallar.**
+
+I asked what would happen to Taenis. I said — and this is the part I would very much like to have back — *Do you think that any of this actually matters?*, and then I took the quill and told him it was all right, that we had been together a great many years and would fight together again, and I asked for one thing only, which was that they let our parents rest where they lie.
+
+Then I signed.
+
+---
+
+Two things about the signing and I will not dress either of them up.
+
+The first: **nobody looked.** A hall of forty, my own house among them, people I have eaten with. A man was being held on a blade at a table in the middle of the room, and the room went on with its business, and not one head turned. I have read a great deal about the fall of things and I have never seen it put so economically.
+
+The second: the quill dragged, and the line came up **blue**. Not ink. That light. An arcane binding, a signature written into the Weave herself rather than onto a page — and **the mark on my hand lit with it.** The same colour. It sparked, and fizzled, and went on burning while I finished the stroke, as though the thing in me and the thing on the parchment were the same instrument being played from two ends.
+
+Taenis said: *We really did not have a choice.*
+
+And the blade went the rest of the way through him as my signature finished. I watched the point come out of the front of his good silk, and then the hall went, and I came through a ceiling into a room full of my friends.
+
+---
+
+Now. Was it real?
+
+I do not know, and I am not going to soothe myself on the page. What I know is this: **Gregorio came out of that water with burns on his arm.** Vesper bandaged them. They were not visions of burns. Something in there reaches into a man and takes its payment in flesh, and if it can do that with fire then I have no reason to believe it was lying to me about my brother.
+
+He would not say what he saw. I asked. He said there had been *a bit of a fight* and that it was taken care of, and smiled, and I let him have it, because I had just declined to say what I saw and it would have been obscene to press.
+
+That was the last time I let him keep something from me, and I am glad it was that and not something smaller.
+
+---
+
+The room below is a tomb for a woman called Elyril, and the plaque is the most frightened piece of writing I have ever read. *The informal burial of Elyril. May her true resting place never be found, and may she never once reincarnate under the guidance of Corellon.*
+
+A cenotaph. An empty box with a name on it, sealed in silver, built to be a lie that holds.
+
+Akir knew the name and I did not need to be told it twice. She was the secret Sharran behind the rift at Ordulin — the tear through to the plane of shadow that emptied itself into the city for years, that they closed in the end only by dropping a floating city onto it, and that ended with Ordulin very nearly not existing. It happened the year before I was born. Every Sharran shrine in that city was pulled down afterwards, which is presumably why the one that matters is under a village of a hundred and fifty souls fifteen minutes off a road nobody uses.
+
+They asked whether we should open it. I said no. I said **we have disturbed the dead enough here**, and I meant it, and it was the correct answer, and I would like the record to show that I gave it before I gave all the others.
+
+---
+
+We took an hour. It is the only hour of that day I would keep.
+
+Then I went and read the date off the cenotaph, because a false grave still has to carry a real one somewhere, and it does: **1374, the day of Midsummer.**
+
+And the ceiling of that room is a star map. A great dial of the constellations with the months around its edge and a hole punched through the centre of it where the black pool hangs — and the pillars we had been turning at random upstairs, for the better part of an hour, thinking we were accomplishing nothing, had been turning *that*. One pillar moves the calendar. One moves the stars.
+
+So we did the one genuinely good thing we did all day. We put people in corridors and we **shouted**. Room to room, door to door, down a crypt designed from its foundations to make a party unable to speak to itself — and we beat it with our voices, because the doors it uses to divide us were all standing open by then.
+
+We set the month between us, shouting it room to room. Three constellations sit over Midsummer: **the Ice Snake**, **Jassa's Dagger**, and **the Arrows of the Gods**.
+
+Three. We had no way to distinguish them and we had to guess.
+
+---
+
+I chose the dagger.
+
+My reasoning, in full, and it is not much: there had been a dagger in this place. An emerald in the pommel, driven up through a man's jaw, and Cad still carrying it and still occasionally feeling it go into his own throat. It seemed like a thread. I said *let's try the dagger first, and leave the arrows for last.*
+
+Gregorio turned it. It locked. And every skeleton in the northern corridor stood up with a dagger in its hand.
+
+We killed them. It was even, for a while, a good fight — and here is the thing I am going to have to carry: **Gregorio killed them with me.** He has a trick of saying something so exactly, so precisely calculated to land on the one nerve a thing has, that whatever he says it to cannot get its guard up afterwards. He did it twice for me in that corridor, and twice my sword went in ten above where it needed to go, and bones came apart against the wall in a light I am still not used to producing.
+
+I gave him a thumbs up across the corridor. I said: *you taunt them, I take them out.*
+
+That is the last thing of any consequence I said to him. I have checked it against my memory four times sitting here and it does not improve.
+
+Then we set it to the **Ice Snake**, and every light in the room below blew out at once, and a weight came down through the whole hill, and the sarcophagus slid open.
+
+*(Vesper had told us, hours before, that when the Tears of Selûne point at the serpent it is a time to be wary of deceit, and of liars, and of Sharrans specifically. I noticed. I did not say it. I have been in this business long enough to know that a thing which is true and also elegant is usually the last thing you should act on.)*
+
+---
+
+There was an elf in that box after all, with rubies where the eyes went, holding a scroll case against its chest.
+
+Vesper took it. I was two rooms away and I heard what answered — an elven voice going through the whole crypt at once, through stone, loud enough to shake grit out of the ceiling onto my shoulders:
+
+> **Those who disturb the burial of Elyril will find their place among the fallen.**
+
+And the statue beside me stood up. A red light under the helm, and an armoured thing the height of a room with its sword held point-down.
+
+Akir had warned us about that statue by name, an hour before, in as many words — *it might come alive, so be careful* — and had pointed out the dead man lying beside it with his breastplate driven inward in one straight line by something very large. I had heard him say it. I had then gone and stood next to the thing, twice, and written it down in my head as *decoration*.
+
+---
+
+I want to be accurate about my part in what followed, because there is a version of this I would prefer and it is not true.
+
+I was useless.
+
+I put my sword into that thing twice. Behind the knee, and then, on the second pass, every joint I could reach and one I invented. Both **bounced**. Not turned aside, not blunted — *bounced*, the way a blade bounces off a wall, and I have been swinging at armoured men for ninety years. Nobody in that crypt landed a single blow on it all night. Not one, by anybody.
+
+What I had left, I spent on myself. One ward had already gone, half an hour earlier in the corridor, on a dagger coming at my ribs out of a dead man's hand. The second turned a claymore the length of a man that would otherwise have ended me. And then nothing. **No more first-circle spells.** I stood in a collapsing room with the fire and a sword that would not bite, and I did the only useful thing available to a man in that position, which was to keep standing in the doorway so that the thing had something to hit that was not somebody else.
+
+Meanwhile the dead Sharran was charging something at the far end, two rooms from where I stood, where I could see none of it. It went off. Whatever it was aimed at — and I am since told it was Akir, and the case in his hand — it took the stone supports out on its way through, and the hill began to come down on us in stages.
+
+---
+
+Vesper came down that corridor on all fours.
+
+I had not known. Nobody had. His hair went long and his jaw came forward and there were black marks under his skin, and he crossed forty feet in the time it takes to look up, and the first thing he said was *are you all right, this place is falling down.*
+
+I said *for the time being*, which is the most honest thing I said all day.
+
+And Gregorio — who had no business being anywhere near the front — turned around and threw something at the guardian that made it stop mid-swing and walk backwards. He had never cast it before. He told me afterward he had simply remembered that there was a spell that did that, and tried it, in the panic, because everyone needed to get out.
+
+It bought the corridor. It is the reason four of us are sitting on these steps.
+
+---
+
+Then it was running, and I am going to set down what I did without decorating it.
+
+I threw ball bearings behind me into a five-foot square, because that was the sum of my contribution to the retreat of five people from a collapsing temple: a handful of metal on a floor.
+
+The skeletons came up along the corridor as we went through it. One of them swung wide at Gregorio, and it connected, and he went down.
+
+I turned around. I looked at it properly, the way I look at everything, and this is what I saw and what I said out loud while I was seeing it:
+
+*There is no room for me to pass. And even if I pass, the corridor beneath it has already gone. And the corridor behind it has already collapsed on top of Gregorio.*
+
+Then I said: **disengage and run.**
+
+I have written it in my own words because they are my own words and because the alternative is to write *there was nothing to be done*, which is also true, and which is the sentence a man reaches for when he wants the truth to do his work for him. The thing crawling on all fours filled the corridor. The rock was already down over his legs. The ceiling was moving twenty feet at a time. Every measurement I took was correct and I took them very fast and I have gone over them on these steps perhaps a hundred times and they do not come out differently.
+
+And I still turned around and left him there, and the rock closed over him while I was running, and no arithmetic in the world makes that a thing I did not do.
+
+Cad looked back at him. Cad, who had spent the day drowning and had three points of blood left in him, looked back at Gregorio being buried and then turned the pillar that sealed the corridor, and sealed the guardian in with him, and said *sorry, friend.*
+
+---
+
+Akir dropped at the mouth of the stair. Exactly to nothing — the blow was worth his whole remaining life, to the point.
+
+Cad got his hands on him and held him there by main force and medicine while Vesper and I took a shoulder each and dragged him up the steps into the air. I asked for the second shoulder rather than the pillar or the rear guard, and I want that noted, because it is the only decision I made in that entire hour that I do not have to argue with.
+
+He is breathing. He has not woken. The scroll case is still in his hand and his fingers will not open, and I am not going to be the one who tries.
+
+Vesper came out, put Akir down, tore a chunk out of a standing pillar with his bare hands, dropped his mace, slid down the wall on his back and has not moved since.
+
+The acolytes are gone. All of them.
+
+And the noble's body — Marcel, of the Millerwrights, whom we stood over this morning and who had been growing bark out of his own wounds when the sun came up — **something is happening to it.** I have looked once. I will look again when I can hold a thought in a straight line.
+
+---
+
+So.
+
+A shrine in a village of a hundred and fifty. A crypt of the first prophets of Selûne with a Sharran painting floor to ceiling. A false grave for the woman who opened the sky over Ordulin, dug in under the people who would have hated her most, sealed with a prayer that she never be found and never be born again. Somebody has been down there before us and did not come to mourn. Somebody put a vine through the wall to hold the mechanism shut. And at the end of it, one scroll case, in the hand of a man who cannot tell us what it cost him.
+
+Four of us came up.
+
+I am going to write the last part plainly and then stop.
+
+I brought him here. Not the crypt — the whole of it. A bard walked into an inn in Highmoon and put a circle of Espruar on my table, and he was frightened and he was pretending not to be, and I wanted to see what was in that ring and I knew exactly what he could not refuse. *Danger also comes with some good stories, doesn't it?* I baited him with it and I watched it go down and I wrote in this book that evening that I had done it, and that I was becoming rather good at the man I was pretending to be.
+
+Then I sent him up onto loose stone, under a ceiling I had already written down as unsafe, and the one mechanism that might have been another road jammed under our four hands, and we went into the water, and it burned him.
+
+Then I guessed the dagger, and the corridor stood up.
+
+I am aware that each of those is defensible. I am aware that the gear went under his hand and not mine, that three constellations give a man one chance in three, and that the wild swing which took him could have come from anywhere and from any of us.
+
+I am also aware that I have never once in my life been unable to construct that sort of paragraph, and that its only function is to be read by me.
+
+He held my rope this morning. There was nothing on the end of it, and he pulled me up anyway.
+
+---
+
+*Signed on the steps, in the open, where I can see the sky —*
+
+**Selanar Durothil**
+
+*Of House Durothil. Of Myth Drannor. Two spells spent on his own skin, two strokes that bounced, a handful of ball bearings, and a friend under the hill.*
+
