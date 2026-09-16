@@ -1,0 +1,108 @@
+title: Stoichos
+author: Christos Despotakis
+version: 0.3.0
+quarto-required: ">=1.4.0"
+
+# Stoichos — typography-first Quarto extension.
+# A "row of set letters" (στοῖχος) — what an ancient compositor called the line he was setting.
+# Activates modern CSS typography primitives by default + ships a small directive vocabulary
+# for longform writing. Part of the NyxType typography aesthetic; classes are namespaced `nyx-`.
+
+contributes:
+  formats:
+    html:
+      # Skip Bootstrap-derived parents — stoichos.scss is self-contained
+      # typography, and pulling in `default` (Bootstrap) brought back its
+      # data-bs-theme=dark cascade that was blanking the VS Code preview.
+      theme:
+        - stoichos.scss
+      filters:
+        - filters/aside.lua
+        - filters/diff.lua
+        - filters/shell.lua
+        - filters/output.lua
+        - filters/dropcap.lua
+      shortcodes:
+        - stoichos.lua
+      # Load fonts via <link> tags rather than CSS @import — non-blocking,
+      # the Quarto-canonical pattern, and avoids the @import-outside-scss-marker
+      # cascade ambiguity that was wiping the VS Code preview pane in v0.1.
+      #
+      # Quarto auto-injects KaTeX when html-math-method is configured at the
+      # document level, so we don't pre-load it here. Earlier versions did
+      # pre-load KaTeX from CDN; the deferred CDN script errored inside the
+      # preview's iframe sandbox and cascade-blanked the document.
+      #
+      # Theming: stoichos.scss declares its own palette via CSS custom
+      # properties and ships both light and dark variants under
+      # `:root` / `[data-bs-theme="dark"]` / `@media (prefers-color-scheme: dark)`.
+      # The format extension contributes no Bootstrap parent (`theme: [stoichos.scss]`),
+      # so toggling `data-bs-theme=dark` cannot break the cascade — that was
+      # the v0.2 fear that motivated a MutationObserver lock. The lock is
+      # gone in v0.3; dark mode is now a first-class palette.
+      #
+      # `color-scheme: light dark` opts the UA into both system color schemes
+      # for form chrome / scrollbar / canvas defaults. Without it, native UI
+      # bits would render in the wrong polarity inside dark documents.
+      include-in-header:
+        text: |
+          <meta name="color-scheme" content="light dark">
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" data-external="1">
+          <script>
+            // Stoichos theme toggle.
+            // Three states: 'light' / 'dark' / 'auto' (= follow prefers-color-scheme).
+            // Nothing stored means DEFAULT_MODE, so 'auto' is stored explicitly.
+            // The synchronous block applies the mode BEFORE first paint —
+            // without this the page flashes one mode then snaps to another,
+            // which is the worst kind of dark-mode bug. The toggle button is
+            // injected on DOMContentLoaded.
+            (function () {
+              var STORAGE_KEY = 'stoichos-theme';
+              var DEFAULT_MODE = 'light';
+              var NEXT = { light: 'dark', dark: 'auto', auto: 'light' };
+              var html = document.documentElement;
+              function getMode() {
+                var stored = null;
+                try { stored = localStorage.getItem(STORAGE_KEY); } catch (e) { /* storage blocked */ }
+                return NEXT.hasOwnProperty(stored) ? stored : DEFAULT_MODE;
+              }
+              function applyTheme(mode) {
+                if (mode === 'light' || mode === 'dark') {
+                  html.setAttribute('data-bs-theme', mode);
+                } else {
+                  html.removeAttribute('data-bs-theme');
+                }
+              }
+              // Pre-paint: apply the mode now.
+              applyTheme(getMode());
+              // Build the toggle button after body exists.
+              function buildToggle() {
+                var btn = document.createElement('button');
+                btn.className = 'stoichos-theme-toggle';
+                btn.type = 'button';
+                btn.setAttribute('aria-label', 'Toggle theme');
+                function updateState() {
+                  var mode = getMode();
+                  btn.setAttribute('data-state', mode);
+                  btn.title = 'Theme: ' + mode + ' (click for ' + NEXT[mode] + ')';
+                }
+                btn.addEventListener('click', function () {
+                  var next = NEXT[getMode()];
+                  try {
+                    localStorage.setItem(STORAGE_KEY, next);
+                  } catch (e) { /* private mode / quota — silently degrade */ }
+                  applyTheme(next);
+                  updateState();
+                });
+                updateState();
+                document.body.appendChild(btn);
+              }
+              if (document.readyState === 'loading') {
+                document.addEventListener('DOMContentLoaded', buildToggle);
+              } else {
+                buildToggle();
+              }
+            })();
+          </script>

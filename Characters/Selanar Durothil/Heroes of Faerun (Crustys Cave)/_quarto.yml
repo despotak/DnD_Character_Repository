@@ -1,0 +1,27 @@
+project:
+  type: default
+  render:
+    - journal.md
+
+lang: en-GB
+
+epigraph:
+  text: "If I do not set this down now, while it is still ugly, I shall begin to arrange it — and a month from now I shall possess a fine and creditable account of a battle I did not fight, in a hand steady enough to be believed."
+  attribution: "Selanar Durothil, the first entry"
+
+colophon: "Set in Source Serif 4 and Fraunces. Typeset with stoichos."
+
+format:
+  "despotak/stoichos-html":
+    toc: true
+    toc-depth: 2
+    toc-title: Contents
+    toc-location: body
+    anchor-sections: false
+    page-layout: full
+    embed-resources: true
+    css: _typeset/journal.css
+    include-after-body: _typeset/journal-nav.html
+
+filters:
+  - _typeset/journal.lua

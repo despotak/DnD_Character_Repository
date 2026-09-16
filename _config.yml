@@ -1,0 +1,5 @@
+# GitHub Pages. Selanar's journal is published as a typeset page built by Quarto
+# (journal.html); its Markdown source is excluded so Jekyll cannot write a plain
+# journal.html over it.
+exclude:
+  - "Characters/Selanar Durothil/Heroes of Faerun (Crustys Cave)/journal.md"

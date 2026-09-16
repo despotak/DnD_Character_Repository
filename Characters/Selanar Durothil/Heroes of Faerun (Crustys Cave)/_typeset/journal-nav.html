@@ -1,0 +1,114 @@
+<script>
+// Once the contents page scrolls away, the contents follow the reader: a rail
+// beside the text on wide screens, a running head on narrow ones. Both mark
+// the entry being read and how far into it the reader is.
+(() => {
+  const contents = document.getElementById("TOC");
+  const sections = [...document.querySelectorAll("#quarto-document-content section.level2")];
+  if (!contents || sections.length === 0) return;
+
+  const make = (tag, className, text) => {
+    const el = document.createElement(tag);
+    if (className) el.className = className;
+    if (text) el.textContent = text;
+    return el;
+  };
+
+  const entries = sections.map((section) => {
+    const heading = section.querySelector("h2");
+    return {
+      section,
+      numeral: heading.querySelector(".entry-numeral")?.textContent ?? "",
+      name: (heading.querySelector(".entry-name") ?? heading).textContent,
+    };
+  });
+
+  const rail = make("nav", "journal-rail");
+  rail.setAttribute("aria-label", "Entries");
+  rail.inert = true;
+
+  const current = make("button", "journal-rail__current");
+  current.type = "button";
+  current.setAttribute("aria-expanded", "false");
+  current.setAttribute("aria-controls", "journal-rail-panel");
+  const currentNumeral = make("span", "entry-numeral");
+  const currentName = make("span", "entry-name", "Contents");
+  current.append(currentNumeral, currentName);
+
+  const panel = make("div", "journal-rail__panel");
+  panel.id = "journal-rail-panel";
+  const home = make("a", "journal-rail__contents", "Contents");
+  home.href = "#TOC";
+  const list = make("ol");
+  const links = entries.map(({ section, numeral, name }) => {
+    const link = make("a");
+    link.href = "#" + section.id;
+    link.append(make("span", "entry-numeral", numeral), make("span", "entry-name", name));
+    const item = make("li");
+    item.append(link);
+    list.append(item);
+    return link;
+  });
+  panel.append(home, list);
+  rail.append(current, panel);
+  document.body.append(rail);
+
+  const setOpen = (open) => {
+    rail.toggleAttribute("data-open", open);
+    current.setAttribute("aria-expanded", String(open));
+  };
+  current.addEventListener("click", () => setOpen(!rail.hasAttribute("data-open")));
+  panel.addEventListener("click", (event) => {
+    if (event.target.closest("a")) setOpen(false);
+  });
+  document.addEventListener("click", (event) => {
+    if (!rail.contains(event.target)) setOpen(false);
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") setOpen(false);
+  });
+
+  let active = -2;
+  let queued = false;
+  const update = () => {
+    queued = false;
+    const shown = contents.getBoundingClientRect().bottom < 0;
+    rail.classList.toggle("is-visible", shown);
+    document.body.classList.toggle("journal-rail-shown", shown);
+    rail.inert = !shown;
+    if (!shown) setOpen(false);
+
+    const reading = window.innerHeight * 0.3;
+    let index = -1;
+    sections.forEach((section, i) => {
+      if (section.getBoundingClientRect().top <= reading) index = i;
+    });
+
+    if (index !== active) {
+      links.forEach((link, i) => {
+        if (i === index) link.setAttribute("aria-current", "location");
+        else link.removeAttribute("aria-current");
+      });
+      currentNumeral.textContent = index >= 0 ? entries[index].numeral : "";
+      currentName.textContent = index >= 0 ? entries[index].name : "Contents";
+      active = index;
+    }
+
+    let progress = 0;
+    if (index >= 0) {
+      const box = sections[index].getBoundingClientRect();
+      progress = Math.min(1, Math.max(0, (reading - box.top) / box.height));
+      links[index].style.setProperty("--progress", progress.toFixed(4));
+    }
+    current.style.setProperty("--progress", progress.toFixed(4));
+  };
+  const queue = () => {
+    if (queued) return;
+    queued = true;
+    requestAnimationFrame(update);
+  };
+  window.addEventListener("scroll", queue, { passive: true });
+  window.addEventListener("resize", queue);
+  update();
+})();
+</script>
