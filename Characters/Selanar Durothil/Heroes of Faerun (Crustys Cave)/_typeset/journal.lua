@@ -306,6 +306,7 @@ function Pandoc(doc)
   if first and first.t == "Header" and first.level == 1 and doc.meta.title == nil then
     local title, subtitle = split_at_dash(first.content)
     doc.meta.title = pandoc.MetaInlines(title or first.content)
+    doc.meta.pagetitle = pandoc.MetaString(stringify(title or first.content))
     if subtitle and #subtitle > 0 then doc.meta.subtitle = pandoc.MetaInlines(subtitle) end
     i = 2
   end
