@@ -94,7 +94,7 @@ Then she was beside me.
 
 A small elf, no taller than my shoulder. Sapphire hair moving as though she stood in a wind arranged for her alone, dark eyes lit from within, and in her hand a sword that was not entirely present and that my eye kept declining to hold. She swept it through the air and the air came apart, and the sellswords with it: flesh, bone, armour and steel cloven alike, as though the distinction between those four things had never been more than a polite fiction we had all agreed to observe.
 
-Someone said a name. I believe it was Fflar. *Srinshee.*
+Someone said a name. I believe it was Fflar. "Srinshee."
 
 I have searched since, as far as a man may search from a cot, and turned up fragments that decline to agree with one another. That she drew the Rulers' Blade in the year 666 and refused the throne it offered her. That she returned after seven centuries of absence and put that same blade into Ilsevele's hands. She is spoken of the way one speaks of weather, or of gods, or of both, and in the same breath as events four hundred years apart. I do not know what she is. I am not confident the word *who* survives contact with her.
 
@@ -208,7 +208,7 @@ Now. The errand.
 
 A squire came for me yesterday at an hour when I was not expecting to be found, concerning which I shall say nothing further except that the boy was very young and has my sympathy.
 
-*Your brother needs to speak with you. It is urgent.*
+"Your brother needs to speak with you. It is urgent."
 
 Two observations on that sentence. First, Taenis has not used the word *urgent* to me in fourteen years; he regards urgency as a failure of planning. Second, the boy delivered it in the tone of someone who had been made to learn it by heart.
 
@@ -232,7 +232,7 @@ We settled the cover between us in under a minute, which I found faintly insulti
 
 The story is that I have gone into the library. That I am not to be disturbed. That I am pursuing something in the older stacks and may be some months about it.
 
-Not one person has questioned this. Not one. The steward nodded. The archivist offered to have meals sent down. Aeliana — senior healer these nine years, and still pretending with great conviction that she does not enjoy my company — said, and I quote in full: *"Well. Of course you have."*
+Not one person has questioned this. Not one. The steward nodded. The archivist offered to have meals sent down. Aeliana — senior healer these nine years, and still pretending with great conviction that she does not enjoy my company — said, and I quote in full: "Well. Of course you have."
 
 I have been the sort of man who disappears into a library for a season for so long that I have accidentally built the perfect alibi out of my own personality. I am not entirely certain how to feel about that. I have elected to feel clever about it, because the other option is available and I would rather not.
 
@@ -252,7 +252,7 @@ The route, recorded here because if anyone ever reads this book it will be someb
 
 I travel as a copyist. Aldreth, out of Highmoon: no house, no titles, indifferent prospects, seeking work with any merchant company wanting its ledgers kept in a fair hand. It is a superb cover, for the single reason that it is very nearly true — and I have discovered that the easiest lie to maintain is the one you would have to make an effort *not* to tell.
 
-I wanted a better name. I proposed three. Taenis rejected all three on the grounds that they were, in his words, "names for a man who wants to be looked at." He has known me since we were boys and he fights extraordinarily dirty.
+I wanted a better name. I proposed three. Taenis rejected all three on the grounds that they were, in his words, "names for a man who wants to be looked at". He has known me since we were boys and he fights extraordinarily dirty.
 
 ---
 
@@ -301,9 +301,9 @@ I have been paid four silver for my handwriting.
 
 I put it at the top because it is the most humiliating thing that has happened to me in fourteen years, and I have learned that if I do not put the humiliation first I shall spend six pages arriving at it sideways. A Durothil. My House has stood among the First Houses of every elven civilisation for fifteen thousand years and has never once, in all that time, permitted anyone to remain unaware of it — I am upholding the tradition at this moment, alone, at midnight, in a book nobody is permitted to read. Somebody must keep the standards up.
 
-Four silver. For ruling columns. The clerk who paid me examined a page over which the masters of the Lady's College once wept with professional envy, and pronounced it *very neat*.
+Four silver. For ruling columns. The clerk who paid me examined a page over which the masters of the Lady's College once wept with professional envy, and pronounced it "very neat".
 
-I thanked him. I want that recorded also: that I said thank you, pleasantly, to a man with ink to the elbow who had just described the penmanship of the Lady's College as *neat*. Fourteen years ago I should have had something to say; tonight I find his four silver in my purse and his ledgers full of my improvements, and he believes he got the better of the exchange. I have discovered in myself a capacity for being condescended to that I did not know was there. I am choosing to call this wisdom, because the other available word is *practice*.
+I thanked him. I want that recorded also: that I said thank you, pleasantly, to a man with ink to the elbow who had just described the penmanship of the Lady's College as "neat". Fourteen years ago I should have had something to say; tonight I find his four silver in my purse and his ledgers full of my improvements, and he believes he got the better of the exchange. I have discovered in myself a capacity for being condescended to that I did not know was there. I am choosing to call this wisdom, because the other available word is *practice*.
 
 And the confession, since the book is no use to me if I lie to it: I do not know the merchant's script. Nobody ever taught it to me. There is an entire apparatus of tally and abbreviation that every clerk in Faerûn absorbs at fourteen, and I have been improvising it for three days out of a good eye and an excellent memory for shapes. Nobody has noticed. I decline to say what this establishes about the profession.
 
@@ -311,7 +311,7 @@ My House is written up in every account of the Gold elven dynasties as having pr
 
 ---
 
-The house is Silverhand House — a coster of this town, founded by an elven adventurer who had the sense to retire. Timber, resin, amber, furs. They send it west to Arabel and east to Ordulin, and it was the word *Ordulin* on a bill of lading that made me offer my services in the first place, three minutes after I heard it.
+The house is Silverhand House — a coster of this town, founded by an elven adventurer who had the sense to retire. Timber, resin, amber, furs. They send it west to Arabel and east to Ordulin, and it was the word `Ordulin` on a bill of lading that made me offer my services in the first place, three minutes after I heard it.
 
 I have been very pleased with myself about that. A man needs a way east that nobody has to arrange for him; I found one, and got paid, and did not have to ask a single question that a clerk would not ask.
 
@@ -383,15 +383,15 @@ He came into the common room last evening with two soldiers behind him and the p
 
 He came to my table. He asked for help. And then, before saying what the help was, he said:
 
-*"My name's Gregorio Romanario. Have you ever heard of me?"*
+"My name's Gregorio Romanario. Have you ever heard of me?"
 
 Whoever eventually prises this book out of wherever it finishes — understand the size of what was set in front of me, and the restraint with which I let it go by.
 
-I said: *"I cannot say that I have, sir."*
+I said: "I cannot say that I have, sir."
 
-I said it in the voice of a provincial clerk who does not follow the doings of great men. I called him *my lord*. I apologised for my ignorance.
+I said it in the voice of a provincial clerk who does not follow the doings of great men. I called him "my lord". I apologised for my ignorance.
 
-He explained, kindly, that his name had not been much spoken of *so far*.
+He explained, kindly, that his name had not been much spoken of "so far".
 
 I said I was sure it would be, as time passes.
 
@@ -415,7 +415,9 @@ And it was not a sentence. That was the first thing wrong with it. Whoever set i
 
 Three nouns.
 
-**Moontassel. Relic. Danger.**
+```
+Moontassel. Relic. Danger.
+```
 
 ---
 
@@ -423,17 +425,17 @@ I have had a day and a night with it and I am no calmer.
 
 Take them backwards, smallest trouble first.
 
-*Danger*, in Sylvan, is not our word. It is not *take care*. It is nearer to the term one uses for a thing that is already in the room.
+`Danger`, in Sylvan, is not our word. It is not *take care*. It is nearer to the term one uses for a thing that is already in the room.
 
-*Relic* is worse, and not only for its sense — there is an edge of the consecrated on it, a thing set apart and kept and, I dislike this part, *owed to somebody*. It is worse because of what stands in front of it.
+`Relic` is worse, and not only for its sense — there is an edge of the consecrated on it, a thing set apart and kept and, I dislike this part, *owed to somebody*. It is worse because of what stands in front of it.
 
-Before the second word there stands a small mark that has no name in the trade tongue. We call it the *cren*. It belongs to the old script and to poetry, and it is set before a word to mark the thing named as important — the treatises, with perfectly straight faces, give the classes of thing it may dignify as *an artifact, a divine revelation, or true love*.
+Before the second word there stands a small mark that has no name in the trade tongue. We call it the *cren*. It belongs to the old script and to poetry, and it is set before a word to mark the thing named as important — the treatises, with perfectly straight faces, give the classes of thing it may dignify as `an artifact, a divine revelation, or true love`.
 
 I have elected to hope for the first.
 
 But the cren carries a second convention, and it is the one that matters: it is used above all for a thing *already described earlier in the writing*. Earlier. In. The. Writing. This circle is not a message; it is a *fragment* — a line referring back to pages that say what the thing actually is, pages that exist, somewhere, in a correspondence I have not been permitted to read. The bard has carried a footnote two hundred miles and believed it a curiosity.
 
-And **Moontassel** — which was the word that made me set my cup down. Not because I know the place; I have established at length that I do not. Because of the form. The circle does not give the name as the Dalesfolk say it, nor as Sembia writes it on a bill of lading. It gives it in Sylvan, on the moon-root, in a shape that was already old when the merchants arrived to make that region profitable.
+And `Moontassel` — which was the word that made me set my cup down. Not because I know the place; I have established at length that I do not. Because of the form. The circle does not give the name as the Dalesfolk say it, nor as Sembia writes it on a bill of lading. It gives it in Sylvan, on the moon-root, in a shape that was already old when the merchants arrived to make that region profitable.
 
 Whatever drew this is not using the current name. It is using the one underneath, and using it easily — as one uses the name of a street one has always walked down.
 
@@ -441,7 +443,7 @@ Whatever drew this is not using the current name. It is using the one underneath
 
 I questioned him, and I am not proud of the method: I moved my chair, dropped my voice into the register men keep for conspiracies, and took him apart in four minutes. Found in his room at an inn — a locked room — one loose sheet, laid where he would find it. Not dropped. *Delivered.* Somebody chose him. I watched him arrive at this and go quiet, and he went quiet in the correct place, which tells me he is not a fool; he merely wishes, with his whole being, to be mistaken for something marvellous. On present evidence he and this inn deserve one another, and I intend to introduce them.
 
-And then, may the Seldarine note it was in a good cause: I told him the marked word might be read as *relic*, and that perhaps whoever left the page meant him to go and look — and when he answered, sensibly, that the circle plainly said *danger*, I heard myself say: *"Well — danger also comes with some good stories, doesn't it?"*
+And then, may the Seldarine note it was in a good cause: I told him the marked word might be read as `relic`, and that perhaps whoever left the page meant him to go and look — and when he answered, sensibly, that the circle plainly said `danger`, I heard myself say: "Well — danger also comes with some good stories, doesn't it?"
 
 To a bard. I baited the hook with the one thing his kind cannot refuse, watched it go down whole, and then offered him a seat on tomorrow's caravan as though the kindness were mine. He believes he has recruited me into his adventure. He thanked me for it. I said nothing of a brother, a House, a name, or a mark in a dead register, and I record the omissions here in full because I wrote in the last of these books that the easiest lie is the one you would have to make an effort not to tell — and I have stopped making the effort, and it is the ninth day, and I am becoming rather good at him.
 
@@ -487,7 +489,7 @@ I was not weighing the tactical merits. A Durothil does not climb into a hole. T
 
 Now.
 
-I have opened every one of these books with the smallest available humiliation and then spent four pages walking sideways towards the thing I actually needed to say. I did it with a coat. I did it, five nights ago, with four silver and a clerk who called my hand *neat*. I am aware of the habit; I have written the habit down; I have congratulated myself, in ink, on being the sort of man who can see it.
+I have opened every one of these books with the smallest available humiliation and then spent four pages walking sideways towards the thing I actually needed to say. I did it with a coat. I did it, five nights ago, with four silver and a clerk who called my hand "neat". I am aware of the habit; I have written the habit down; I have congratulated myself, in ink, on being the sort of man who can see it.
 
 Tonight I am going to stop at three paragraphs, because if I bury this any deeper in the page I shall have proved something about myself that I would rather not have proved.
 
@@ -505,7 +507,7 @@ I should like that recorded as the private catastrophe it was, since nobody says
 
 I stood in the line at Myth Drannor holding a sword like a man holding someone else's baby, and the reason was not that I had never learned magic. The reason was that I had learned it *extremely well*, in a configuration of the world that had ceased to exist some years earlier, and on the day my city needed me I could not do the one thing I am for.
 
-Fourteen years since. I have written *fourteen years of grief and scholarship* in this book more than once and let the phrase sit there sounding elegant. This is what it means. It means beginning again at a hundred and twelve, at the first circle, alone in rooms, out of treatises rewritten by people younger than my boots — raising the same small ward several thousand times, watching nothing whatever happen, adjusting the vowels, and trying it again.
+Fourteen years since. I have written `fourteen years of grief and scholarship` in this book more than once and let the phrase sit there sounding elegant. This is what it means. It means beginning again at a hundred and twelve, at the first circle, alone in rooms, out of treatises rewritten by people younger than my boots — raising the same small ward several thousand times, watching nothing whatever happen, adjusting the vowels, and trying it again.
 
 Tonight there were arrows in the air and I did it without deciding to, and the air went hard around me like a held breath.
 
@@ -563,7 +565,7 @@ Of *Moontassel* — nothing. Not a rumour, not a joke, not the mild contempt roa
 
 My brother gave me a name the caravanners of the East Way have never had occasion to say aloud. I had thought his secrecy was caution. I begin to suspect it was accuracy.
 
-I had also prepared, at some length, to be conspicuous: hood up, a borrowed stoop, the whole apparatus of an *Ar'Tel'Quessir* trying not to be looked at in a human dale. I am travelling with a **tiefling**. Nobody has looked at me since Highmoon. Every eye on that road went past me and fastened on Gregorio, who has never in his life minded being looked at and consequently has no notion he is doing me a service. I mentioned it aloud in the end — *don't look at me, look at the tiefling* — and he took it as a compliment. He takes most things as a compliment. It is, I am obliged to admit, restful.
+I had also prepared, at some length, to be conspicuous: hood up, a borrowed stoop, the whole apparatus of an *Ar'Tel'Quessir* trying not to be looked at in a human dale. I am travelling with a **tiefling**. Nobody has looked at me since Highmoon. Every eye on that road went past me and fastened on Gregorio, who has never in his life minded being looked at and consequently has no notion he is doing me a service. I mentioned it aloud in the end — "Don't look at me, look at the tiefling" — and he took it as a compliment. He takes most things as a compliment. It is, I am obliged to admit, restful.
 
 ---
 
@@ -573,13 +575,13 @@ There are *Cha'Tel'Quessir* families at the edge of it — a human father bringi
 
 We met Vesper at the well.
 
-A man who reads as human, with a priest's bearing, a face full of half-healed scratches and eyes that are not a human's eyes — cat-slit, and he made no effort to hide them. He came to me because I am *Tel'Quessir* and had decided on that basis alone that I would do. *Vesper. Of Waterdeep.* He needed someone with a little magical talent, he said, and hated to assume.
+A man who reads as human, with a priest's bearing, a face full of half-healed scratches and eyes that are not a human's eyes — cat-slit, and he made no effort to hide them. He came to me because I am *Tel'Quessir* and had decided on that basis alone that I would do. "Vesper. Of Waterdeep." He needed someone with a little magical talent, he said, and hated to assume.
 
-And I gave him the name — and I want this set down exactly, because I heard myself do it and could not stop it — **I hesitated.** A half-beat, no more, of a man reaching for something not where he left it. *Aldreth.* He noticed. He is not a subtle creature and he noticed anyway, and he said nothing.
+And I gave him the name — and I want this set down exactly, because I heard myself do it and could not stop it — **I hesitated.** A half-beat, no more, of a man reaching for something not where he left it. "Aldreth." He noticed. He is not a subtle creature and he noticed anyway, and he said nothing.
 
 Five nights ago I wrote that I had stopped making the effort to tell the truth and was becoming rather good at the man I am pretending to be. Tonight the lie caught in my throat like a stone.
 
-An old man on a stoop sent us to the largest building past the well: no inn — there is no inn — but a man named Algar makes ale, and because he makes ale people stop, and so half his house is given over to a common room where travellers sleep on the floor and bring their own cups. He greeted us with *"Well, aren't we a popular town today?"*, which I did not understand at the time and have understood since. There were a good many bedrolls already on that floor.
+An old man on a stoop sent us to the largest building past the well: no inn — there is no inn — but a man named Algar makes ale, and because he makes ale people stop, and so half his house is given over to a common room where travellers sleep on the floor and bring their own cups. He greeted us with "Well, aren't we a popular town today?" which I did not understand at the time and have understood since. There were a good many bedrolls already on that floor.
 
 ---
 
@@ -593,7 +595,7 @@ Read that slowly. Not the relic — the *ink*. Somebody with a scribe's hand bet
 
 And through the walls of it: a crescent, six inches across, small stars hanging from it on chains. Divination, and old. It is a holy symbol of Selûne and it is not an ornament.
 
-I told him — carefully, because he is a man who would open it — that whoever gave it to him may well have died to hand it over, and that if he lifted that latch without the key he would take himself, me, and a fair portion of Algar's establishment with him. His eyes went briefly very wide and then very flat. *Someone talks to you like you're holding a stick of dynamite,* he said, and put his fingertips back on it, which tells you everything about him that I have since had confirmed.
+I told him — carefully, because he is a man who would open it — that whoever gave it to him may well have died to hand it over, and that if he lifted that latch without the key he would take himself, me, and a fair portion of Algar's establishment with him. His eyes went briefly very wide and then very flat. "Someone talks to you like you're holding a stick of dynamite," he said, and put his fingertips back on it, which tells you everything about him that I have since had confirmed.
 
 He asked what brought me to this village. I said I was touring the rural parts of Sembia. He knew instantly, did not trouble to conceal that he knew, and asked me to come anyway. I said it is always good to be on the Lady's good side. He smiled — his teeth are wrong, far too sharp for that mouth, and he knows I saw that too.
 
@@ -609,7 +611,7 @@ There was a High Priestess of Ordulin at the door of the crypt, and beside her a
 
 She asked Vesper for the package. Marcella — the priestess who has brought him this far, and who has been frightened every hour I have known her — touched his shoulder and told him this was the woman to give it to.
 
-He said: *I was tasked to protect it.*
+He said: "I was tasked to protect it."
 
 ---
 
@@ -619,7 +621,7 @@ I have read a great many accounts of ambushes and not one thinks to mention that
 
 I warded myself and got behind my stone. Then one of them came over the fence at me, and I stopped being a spectator.
 
-The fire first, because there was no room for anything longer: *Solicallor aren Cor*, and nothing after it.
+The fire first, because there was no room for anything longer: "*Solicallor aren Cor*", and nothing after it.
 
 Then the sword. There is a drill for it — one of the old *Akh'Faer* forms, a step and a turn of the wrist, ten thousand repetitions laid into me in the practice yards at the Glade some ninety years before I had the least idea what it was for. It looks like fencing. It *is* the working, and it asks nothing whatever of the voice.
 
@@ -673,7 +675,13 @@ So: a priestess who is not a priestess, and a noble who is not that noble and do
 
 The crypt is older than the village standing on top of it.
 
-There is a plaque at the foot of the statue inside, in Espruar, in my own letters and this time in my own tongue: *here lies the burial of the Moonshadows, the first prophets of Selûne in this land.* Vesper knew the name when I did not — one of that line was **Chosen of Selûne**, the better part of a thousand years ago. The statue is not of the goddess. It is of the woman.
+There is a plaque at the foot of the statue inside, in Espruar, in my own letters and this time in my own tongue:
+
+```
+Here lies the burial of the Moonshadows, the first prophets of Selûne in this land.
+```
+
+Vesper knew the name when I did not — one of that line was **Chosen of Selûne**, the better part of a thousand years ago. The statue is not of the goddess. It is of the woman.
 
 And in the centre of her stone chest is a shallow crescent indent, six inches across, whose shape I had already seen once tonight through the wall of a locked box.
 
@@ -735,7 +743,7 @@ That should be something. I have decided that it is.
 
 I am writing this because I do not know what else to do with my hands.
 
-I put that at the top in place of the humiliation, because tonight there is no humiliation available and I have looked for one. There is no ruined coat here. There is no clerk to call my hand *neat*. There is a rope, and it goes into black water, and there is nothing whatever on the other end of it.
+I put that at the top in place of the humiliation, because tonight there is no humiliation available and I have looked for one. There is no ruined coat here. There is no clerk to call my hand "neat". There is a rope, and it goes into black water, and there is nothing whatever on the other end of it.
 
 Three of them are down there. Gregorio has the line and it has gone slack, and I have already told him the only three things I know: that one went down like a stone, that one passed me swimming, and that there is no tension anywhere on that rope. A moment ago some bubbles came up. That is not a good sign.
 
@@ -749,7 +757,7 @@ We stood over the dead in the grey light, and Cad found that the noble's skin ha
 
 Bark. Growing out of the very wounds that killed him — slow, and patient, and entirely indifferent to the fact that its host had finished. He tore a piece free. It crumbled in his hand, and began again.
 
-Cad has the same affliction. He put out his arm and showed us, and on him it does not crumble at all; it closes over as fast as he can pull it away. He told us he left home partly because of it. He told us it was not contagious, and then said *not that I know of*, which is an entirely different sentence, and he is not a careless enough man for the difference to have been an accident.
+Cad has the same affliction. He put out his arm and showed us, and on him it does not crumble at all; it closes over as fast as he can pull it away. He told us he left home partly because of it. He told us it was not contagious, and then said "not that I know of", which is an entirely different sentence, and he is not a careless enough man for the difference to have been an accident.
 
 I had been treating this as a curse laid upon one man. A second afflicted body takes that away from me.
 
@@ -781,7 +789,7 @@ They came to consecrate the ground. So the acolytes say; so the incense laid out
 
 They were not consecrating anything. They were dressing a hilltop to *look* consecrated, for the benefit of somebody who would not check.
 
-And they spoke — this is the part I cannot get comfortable with — of protecting the town from a dead that has never once risen. Not a plague of them. Not an incident. Not one. She claimed, in communion, that it was *going to happen soon*.
+And they spoke — this is the part I cannot get comfortable with — of protecting the town from a dead that has never once risen. Not a plague of them. Not an incident. Not one. She claimed, in communion, that it was "going to happen soon".
 
 She wore no amulet. I wrote that last night and I write it again tonight, because a priestess leading a rite without a focus has not forgotten something.
 
@@ -841,7 +849,7 @@ I burned the webbing out of the eastern side, which was the one task all day to 
 
 Akir killed what was left of the spider with a great deal more lightning than the occasion strictly required. I asked afterwards whether anything might be harvested from it — glands, silk, the usual apparatus — and there was nothing remaining but ash and a single leg, which crumbled when I lifted it. I record without embarrassment that I wanted it chiefly for the flavour of the thing rather than for any use I could have named aloud.
 
-Then two crypts. **Aldere.** **Erglas.** Simple wooden coffins, plain to the point of austerity, nothing upon them that a Sembian would cross a road for — and at the base of each, in Elven, in my own letters, the name **Moonshadow**.
+Then two crypts. `Aldere`. `Erglas`. Simple wooden coffins, plain to the point of austerity, nothing upon them that a Sembian would cross a road for — and at the base of each, in Elven, in my own letters, the name `Moonshadow`.
 
 An ancient order, and their own dead, under a hill in a country that did not exist when they were laid down here. I had that name last night off a plaque and took it for local piety. It is not local and it is not piety. It is a *house*, and I have spent my entire life in one, and I ought to have known the shape of it on sight.
 
@@ -851,8 +859,10 @@ I should like that considered properly. We have come thirty feet down into a hil
 
 On the wall, two lines:
 
-> *To find the mirror of blackness, one must step through a world of light.*
-> *To find the mirror of reflection, one must step through a world of darkness.*
+```
+To find the mirror of blackness, one must step through a world of light.
+To find the mirror of reflection, one must step through a world of darkness.
+```
 
 We put out every flame we had and went into the dark.
 
@@ -982,7 +992,7 @@ With my eyes open.
 
 I have opened four of these five books with the smallest available humiliation.
 
-A ruined coat. A garment the colour of wet mice. Four silver and a clerk who called my hand *neat*. An open grave I declined to get into. Four times I have done it, I have written down that I do it, I have congratulated myself in ink on being the sort of man who can see himself doing it, and I have gone on doing it anyway because it buys me two pages before I have to arrive at the thing.
+A ruined coat. A garment the colour of wet mice. Four silver and a clerk who called my hand "neat". An open grave I declined to get into. Four times I have done it, I have written down that I do it, I have congratulated myself in ink on being the sort of man who can see himself doing it, and I have gone on doing it anyway because it buys me two pages before I have to arrive at the thing.
 
 The fifth time I reached and found nothing, and put the reaching at the top instead, and was quietly pleased with the manoeuvre.
 
@@ -1018,7 +1028,7 @@ It jammed. Not stiff — **jammed**, finally, completely, the gear locked agains
 
 Now. I have written that down accurately, in the order it happened, and I am going to sit with it for exactly as long as it takes to say the following.
 
-**It was my plan.** It was my reading of the room, my arithmetic about the gears, my hand that pointed at the rubble and my voice that said *get up there* to a man who is not a climber and was standing on loose stone with a ceiling above him that I had already noted, in this book, as unsafe. He did what I asked. He did it badly, for one second, in a way that any person alive does something badly once.
+**It was my plan.** It was my reading of the room, my arithmetic about the gears, my hand that pointed at the rubble and my voice that said "get up there" to a man who is not a climber and was standing on loose stone with a ceiling above him that I had already noted, in this book, as unsafe. He did what I asked. He did it badly, for one second, in a way that any person alive does something badly once.
 
 He is not here to have it written about him and I am not going to be the first man to do it. **Put it in my column.**
 
@@ -1038,19 +1048,19 @@ The great hall, the one where the houses conduct their business in the open beca
 
 My brother was sitting. Four of House Starym were standing around him in their regalia, and there was an **elven short sword already in his back**, the point of it in far enough to hold, and not one of them had troubled to conceal it.
 
-I walked over with my head up. I want that in the record, and I want the next sentence in the record directly under it: I caught the light on the blade at about ten paces and I *froze*, and when I started walking again my shoulders had come down, and I said **I'm here, brother** in the voice of a man reporting for an appointment.
+I walked over with my head up. I want that in the record, and I want the next sentence in the record directly under it: I caught the light on the blade at about ten paces and I *froze*, and when I started walking again my shoulders had come down, and I said "**I'm here, brother**" in the voice of a man reporting for an appointment.
 
-Taenis said: *I'm sure you are aware I need your signature as well.*
+Taenis said: "I'm sure you are aware I need your signature as well."
 
-I looked at the four of them and asked what it comes to. Their faces would not hold — they slid and reassembled the way faces do in a dream, and only my brother stayed himself throughout, which I have decided is the cruellest single detail in it. One of them said, pleasantly, that they were *just taking what is rightfully ours at the end of the day.*
+I looked at the four of them and asked what it comes to. Their faces would not hold — they slid and reassembled the way faces do in a dream, and only my brother stayed himself throughout, which I have decided is the cruellest single detail in it. One of them said, pleasantly, that they were "just taking what is rightfully ours at the end of the day".
 
-The terms, since I read them while signing: exile from the woods. Never to show our faces on any coast of the Sea of Fallen Stars. Our lives, kept. Our lineage permitted to exist somewhere far enough away to be no longer a lineage at all. *You'll hide in the sewers like the rats you were meant to become,* one of them said, *and we will sit in the light.*
+The terms, since I read them while signing: exile from the woods. Never to show our faces on any coast of the Sea of Fallen Stars. Our lives, kept. Our lineage permitted to exist somewhere far enough away to be no longer a lineage at all. "You'll hide in the sewers like the rats you were meant to become," one of them said, "and we will sit in the light."
 
 And the schedule of what was being signed across: the gems. The stones. The relics. The scrolls. Items **of the Netherese**.
 
 **A map to a mythallar.**
 
-I asked what would happen to Taenis. I said — and this is the part I would very much like to have back — *Do you think that any of this actually matters?*, and then I took the quill and told him it was all right, that we had been together a great many years and would fight together again, and I asked for one thing only, which was that they let our parents rest where they lie.
+I asked what would happen to Taenis. I said — and this is the part I would very much like to have back — "Do you think that any of this actually matters?" and then I took the quill and told him it was all right, that we had been together a great many years and would fight together again, and I asked for one thing only, which was that they let our parents rest where they lie.
 
 Then I signed.
 
@@ -1062,7 +1072,7 @@ The first: **nobody looked.** A hall of forty, my own house among them, people I
 
 The second: the quill dragged, and the line came up **blue**. Not ink. That light. An arcane binding, a signature written into the Weave herself rather than onto a page — and **the mark on my hand lit with it.** The same colour. It sparked, and fizzled, and went on burning while I finished the stroke, as though the thing in me and the thing on the parchment were the same instrument being played from two ends.
 
-Taenis said: *We really did not have a choice.*
+Taenis said: "We really did not have a choice."
 
 And the blade went the rest of the way through him as my signature finished. I watched the point come out of the front of his good silk, and then the hall went, and I came through a ceiling into a room full of my friends.
 
@@ -1072,25 +1082,30 @@ Now. Was it real?
 
 I do not know, and I am not going to soothe myself on the page. What I know is this: **Gregorio came out of that water with burns on his arm.** Vesper bandaged them. They were not visions of burns. Something in there reaches into a man and takes its payment in flesh, and if it can do that with fire then I have no reason to believe it was lying to me about my brother.
 
-He would not say what he saw. I asked. He said there had been *a bit of a fight* and that it was taken care of, and smiled, and I let him have it, because I had just declined to say what I saw and it would have been obscene to press.
+He would not say what he saw. I asked. He said there had been "a bit of a fight" and that it was taken care of, and smiled, and I let him have it, because I had just declined to say what I saw and it would have been obscene to press.
 
 That was the last time I let him keep something from me, and I am glad it was that and not something smaller.
 
 ---
 
-The room below is a tomb for a woman called Elyril, and the plaque is the most frightened piece of writing I have ever read. *The informal burial of Elyril. May her true resting place never be found, and may she never once reincarnate under the guidance of Corellon.*
+The room below is a tomb for a woman called Elyril, and the plaque is the most frightened piece of writing I have ever read.
+
+```
+The informal burial of Elyril.
+May her true resting place never be found, and may she never once reincarnate under the guidance of Corellon.
+```
 
 A cenotaph. An empty box with a name on it, sealed in silver, built to be a lie that holds.
 
 Akir knew the name and I did not need to be told it twice. She was the secret Sharran behind the rift at Ordulin — the tear through to the plane of shadow that emptied itself into the city for years, that they closed in the end only by dropping a floating city onto it, and that ended with Ordulin very nearly not existing. It happened the year before I was born. Every Sharran shrine in that city was pulled down afterwards, which is presumably why the one that matters is under a village of a hundred and fifty souls fifteen minutes off a road nobody uses.
 
-They asked whether we should open it. I said no. I said **we have disturbed the dead enough here**, and I meant it, and it was the correct answer, and I would like the record to show that I gave it before I gave all the others.
+They asked whether we should open it. I said no. I said "**We have disturbed the dead enough here**," and I meant it, and it was the correct answer, and I would like the record to show that I gave it before I gave all the others.
 
 ---
 
 We took an hour. It is the only hour of that day I would keep.
 
-Then I went and read the date off the cenotaph, because a false grave still has to carry a real one somewhere, and it does: **1374, the day of Midsummer.**
+Then I went and read the date off the cenotaph, because a false grave still has to carry a real one somewhere, and it does: `1374, the day of Midsummer`.
 
 And the ceiling of that room is a star map. A great dial of the constellations with the months around its edge and a hole punched through the centre of it where the black pool hangs — and the pillars we had been turning at random upstairs, for the better part of an hour, thinking we were accomplishing nothing, had been turning *that*. One pillar moves the calendar. One moves the stars.
 
@@ -1104,13 +1119,13 @@ Three. We had no way to distinguish them and we had to guess.
 
 I chose the dagger.
 
-My reasoning, in full, and it is not much: there had been a dagger in this place. An emerald in the pommel, driven up through a man's jaw, and Cad still carrying it and still occasionally feeling it go into his own throat. It seemed like a thread. I said *let's try the dagger first, and leave the arrows for last.*
+My reasoning, in full, and it is not much: there had been a dagger in this place. An emerald in the pommel, driven up through a man's jaw, and Cad still carrying it and still occasionally feeling it go into his own throat. It seemed like a thread. I said "Let's try the dagger first, and leave the arrows for last."
 
 Gregorio turned it. It locked. And every skeleton in the northern corridor stood up with a dagger in its hand.
 
 We killed them. It was even, for a while, a good fight — and here is the thing I am going to have to carry: **Gregorio killed them with me.** He has a trick of saying something so exactly, so precisely calculated to land on the one nerve a thing has, that whatever he says it to cannot get its guard up afterwards. He did it twice for me in that corridor, and twice my sword went in ten above where it needed to go, and bones came apart against the wall in a light I am still not used to producing.
 
-I gave him a thumbs up across the corridor. I said: *you taunt them, I take them out.*
+I gave him a thumbs up across the corridor. I said: "You taunt them, I take them out."
 
 That is the last thing of any consequence I said to him. I have checked it against my memory four times sitting here and it does not improve.
 
@@ -1124,11 +1139,11 @@ There was an elf in that box after all, with rubies where the eyes went, holding
 
 Vesper took it. I was two rooms away and I heard what answered — an elven voice going through the whole crypt at once, through stone, loud enough to shake grit out of the ceiling onto my shoulders:
 
-> **Those who disturb the burial of Elyril will find their place among the fallen.**
+> "**Those who disturb the burial of Elyril will find their place among the fallen.**"
 
 And the statue beside me stood up. A red light under the helm, and an armoured thing the height of a room with its sword held point-down.
 
-Akir had warned us about that statue by name, an hour before, in as many words — *it might come alive, so be careful* — and had pointed out the dead man lying beside it with his breastplate driven inward in one straight line by something very large. I had heard him say it. I had then gone and stood next to the thing, twice, and written it down in my head as *decoration*.
+Akir had warned us about that statue by name, an hour before, in as many words — "It might come alive, so be careful" — and had pointed out the dead man lying beside it with his breastplate driven inward in one straight line by something very large. I had heard him say it. I had then gone and stood next to the thing, twice, and written it down in my head as *decoration*.
 
 ---
 
@@ -1146,9 +1161,9 @@ Meanwhile the dead Sharran was charging something at the far end, two rooms from
 
 Vesper came down that corridor on all fours.
 
-I had not known. Nobody had. His hair went long and his jaw came forward and there were black marks under his skin, and he crossed forty feet in the time it takes to look up, and the first thing he said was *are you all right, this place is falling down.*
+I had not known. Nobody had. His hair went long and his jaw came forward and there were black marks under his skin, and he crossed forty feet in the time it takes to look up, and the first thing he said was "Are you all right, this place is falling down."
 
-I said *for the time being*, which is the most honest thing I said all day.
+I said "For the time being," which is the most honest thing I said all day.
 
 And Gregorio — who had no business being anywhere near the front — turned around and threw something at the guardian that made it stop mid-swing and walk backwards. He had never cast it before. He told me afterward he had simply remembered that there was a spell that did that, and tried it, in the panic, because everyone needed to get out.
 
@@ -1164,15 +1179,15 @@ The skeletons came up along the corridor as we went through it. One of them swun
 
 I turned around. I looked at it properly, the way I look at everything, and this is what I saw and what I said out loud while I was seeing it:
 
-*There is no room for me to pass. And even if I pass, the corridor beneath it has already gone. And the corridor behind it has already collapsed on top of Gregorio.*
+"There is no room for me to pass. And even if I pass, the corridor beneath it has already gone. And the corridor behind it has already collapsed on top of Gregorio."
 
-Then I said: **disengage and run.**
+Then I said: "**Disengage and run.**"
 
 I have written it in my own words because they are my own words and because the alternative is to write *there was nothing to be done*, which is also true, and which is the sentence a man reaches for when he wants the truth to do his work for him. The thing crawling on all fours filled the corridor. The rock was already down over his legs. The ceiling was moving twenty feet at a time. Every measurement I took was correct and I took them very fast and I have gone over them on these steps perhaps a hundred times and they do not come out differently.
 
 And I still turned around and left him there, and the rock closed over him while I was running, and no arithmetic in the world makes that a thing I did not do.
 
-Cad looked back at him. Cad, who had spent the day drowning and had three points of blood left in him, looked back at Gregorio being buried and then turned the pillar that sealed the corridor, and sealed the guardian in with him, and said *sorry, friend.*
+Cad looked back at him. Cad, who had spent the day drowning and had three points of blood left in him, looked back at Gregorio being buried and then turned the pillar that sealed the corridor, and sealed the guardian in with him, and said "Sorry, friend."
 
 ---
 
@@ -1198,7 +1213,7 @@ Four of us came up.
 
 I am going to write the last part plainly and then stop.
 
-I brought him here. Not the crypt — the whole of it. A bard walked into an inn in Highmoon and put a circle of Espruar on my table, and he was frightened and he was pretending not to be, and I wanted to see what was in that ring and I knew exactly what he could not refuse. *Danger also comes with some good stories, doesn't it?* I baited him with it and I watched it go down and I wrote in this book that evening that I had done it, and that I was becoming rather good at the man I was pretending to be.
+I brought him here. Not the crypt — the whole of it. A bard walked into an inn in Highmoon and put a circle of Espruar on my table, and he was frightened and he was pretending not to be, and I wanted to see what was in that ring and I knew exactly what he could not refuse. "Danger also comes with some good stories, doesn't it?" I baited him with it and I watched it go down and I wrote in this book that evening that I had done it, and that I was becoming rather good at the man I was pretending to be.
 
 Then I sent him up onto loose stone, under a ceiling I had already written down as unsafe, and the one mechanism that might have been another road jammed under our four hands, and we went into the water, and it burned him.
 
