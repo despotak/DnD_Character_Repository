@@ -1233,3 +1233,253 @@ He held my rope this morning. There was nothing on the end of it, and he pulled 
 
 *Of House Durothil. Of Myth Drannor. Two spells spent on his own skin, two strokes that bounced, a handful of ball bearings, and a friend under the hill.*
 
+## Entry VII — Nobody's Fault
+
+*A camp off the Yhaunn road, fifteen miles short of the city. The night of the 11th of Eleasis, 1501 DR — written by a fire somebody else is keeping.*
+
+---
+
+It has come back.
+
+Two nights ago I turned out my pockets for some small indignity to open with and found the day had not left me one. Tonight I have one, and I am so relieved to see it that I am going to spend it slowly.
+
+A man came at the back of our tents with a knife, and I took a pinch of sand from my belt, laid it in my palm, raised a little breath of wind under it, and sent him the oldest and gentlest spell in the Art — the one that asks a body to lie down — and he simply declined. He stood there, wide awake, holding a dagger, looking at me with the air of a man who has been offered a chair he does not want.
+
+Ten yards away a moon elf I have known for fifty years did the same spell with flower petals, put his man face-first into a bush, and when the fellow woke and stood up, he did it *again*. Then he smiled. I saw him smile. I shall be hearing about the sand until one of us is dead.
+
+There. A humiliation, and a properly small one, and it took two days to arrive. I note the relief, because I am trying to be the kind of man who notes these things, and because it tells me something about the two days that I would rather it did not.
+
+---
+
+Back to the steps, then, since I left us there.
+
+I barred the doors. A couple of scraps of timber jammed through the handles of the shrine, which would not have held anyone who wanted in but would at least have announced them. Then I went to the broken windows and looked out at the night for a long time and saw nothing at all — insects, toads, a bird somewhere in the trees — and I could not tell you whether there was nothing there or whether I was simply in no condition to see it. My ears were still ringing with the hill.
+
+Vesper had been on the floor since he tore the stone out of that pillar. He was talking to it, under his breath. *Should have done more. We could have done more. What are we doing.* Then he stood up all at once, the way a man surfaces, and said: "The scroll."
+
+Akir had it. Of course Akir had it. He was propped against a pillar with his eyes shut and his fingers still locked round the case under his belt, and the leather of it carried the prints of the hands that had held it for a century. Vesper went to take it, and stopped with his hand out, and did not take it. He came to me instead.
+
+"I'm done carrying mysterious objects," he said, and pushed his amulet of the Moonmaiden down inside his armour where nobody would see it.
+
+Then: "Gregorio's gone. He'd still be here if it wasn't for me."
+
+And I said: "**It wasn't your fault. It was nobody's fault.**"
+
+I am setting that down exactly, and I am not going to discuss it yet. I have a page or two of other things first.
+
+---
+
+There was still the relic in the shrine — the masked talisman we had set into the statue, which he had sworn to the Silver Stars he would carry — and I told him to go and take it back. A relic of his clergy, I said, is better kept on a man who is uncertain of his god than left lying in a ruin for whoever is coming to look.
+
+He asked whether I was sure, even after everything, and admitted he no longer knew who Selûne was. I did not have anything to say to that. Then he said — and I record that he said it — "You're right. I made a promise to keep this thing safe. I'll take it." I made Akir a bed out of my blankets, because that at least was a problem with a solution.
+
+There was perhaps fifty gold of incense lying in heaps on that floor, and Vesper and I took ten apiece. I have a ritual I have been meaning to perform for some time. I have not performed it. I mention the incense only so that the next time I complain about the price of anything, I am reminded that I once helped myself to a goddess's incense off a dead shrine's floor.
+
+---
+
+Akir woke an hour later and said, "Oh, fucking hell," and then: "I'm still alive this time."
+
+He asked if we had the scroll. We said yes. He said good. Then Vesper told him about Gregorio, and Akir said — and I have thought about this sentence more than I have thought about anything else in two days — that he could see it affected us deeply, but he had not really known the man, and he was not going to care about everyone who dies, because it was too much trouble.
+
+Vesper looked at him as though he had grown a second head. I did not. I am not entirely sure what my face did, and I should like to know, because the honest response I can find in myself is not contempt. It is something nearer to envy, and I do not care for it at all.
+
+He told us, in return, that people are after him. Some sort of cult, for an artifact he brought here. He thinks they are tied to the rest of it — the gnolls, the doppelgangers. I have stopped believing in coincidences in this country and I do not intend to start again.
+
+---
+
+Then the noble.
+
+Marcel of the Millerwrights was growing bark out of his wounds when the sun came up on the 9th. By midnight there was no Marcel. There was a dome of bark, half sunk into the stone floor of the shrine like the root of a very old tree, with his clothing inside it and nothing else visible.
+
+I broke a piece off. It came away exactly as bark comes off a living trunk, and underneath it there was wood, and underneath that there was more wood. I had braced myself for a body. There was no body to brace for. And while I watched, the bark began — slowly, but not slowly enough — to close back over the place I had broken.
+
+Cad has that same bark on the tips of his fingers. I have known it for weeks and said nothing, on the principle that a man's hands are his own business. I am revising the principle. I have the piece in a handkerchief in my coat and I intend to show it to the first forester I meet who looks as though he can keep his mouth shut.
+
+---
+
+It is a fifteen-minute walk down from the shrine to Moontassel and the moon was nearly full, so we did it without a torch. The carriage that had been waiting at the foot of the hill all day was gone. The tracks went south, and fast.
+
+Akir had been offered a bed by a family in the village — a human farmer, his wife Marianne, two small children — and when he knocked, the farmer took one look at the four of us and said, "My goodness, you look like you've been through hell," which was accurate. He asked what had happened. I told him that not every building in these parts has the best structural stability, which was also accurate, and less use to him.
+
+He told us the carriage had gone past his porch at a gallop, and that he had heard the people inside it arguing with the driver. That was all he had.
+
+Marianne made a stew. They pushed their table to the wall and we slept on their floor in a row, with their children asleep through the wall from us, and I said that whatever was in the scroll case was not going to be opened in that house. Not under a roof belonging to people who had done nothing to deserve us. I said it rather sharply, I think. I meant it more sharply than I said it.
+
+I left eight silver on their table. I am told that this is more than a week of a farmhand's wages. In the morning the farmer stood looking at it for a long moment before he touched it, as though checking that I had not left it there by mistake, and I found I could not watch him do it and went outside. Where I was raised, money is the way one says nothing. Here it was the only thing I said all night that the man understood.
+
+---
+
+In the morning, I asked them all to keep the scroll quiet. There are people who are enemies of my house, I said, who might very much like to know what we found under that hill. I did not say who. I am aware that I have begun to say "enemies of my house" in the tone other men use for the weather.
+
+Then I opened it. Carefully.
+
+The case itself is nothing — old leather, a screw cap, a strap for the belt, a century of soot. I looked for any working in it and found none. But inside, when I cast for magic, it was not the parchment that answered. It was a scattering of tiny points of light across the parchment, flickering, like a handful of stars. Divination, every one of them.
+
+I did not put my hand into it. I have written in this book, more than once now, that the last thing in a box is the thing that bites, so I drew it out with a conjured hand at the length of the table, and nobody laughed at me, which says something about the last two days.
+
+It is a map of the sky. A long, narrow sheet, so old and so dry that a rough touch would end it, with bites out of its edges, and every inch of it covered in constellations — the Ice Snake, Jassa's Dagger and the Arrows of the Gods among them, left and top and right, and dozens of others, some drawn larger and some smaller than the sky has them. Across all of it run lines, crossing and recrossing, and along the lines are words in Espruar, and every one of the words is a *direction*. Dates. Hours. Arrows pointing at other arrows. And beneath the whole lattice, so faint that I took it at first for a stain, the shape of the land around us.
+
+I wanted it to be the rift. I wanted the thing we had paid for to be the key to Ordulin, and I sat over it trying to make it so, and I could not. To know where those stars stood on the night the sky opened, a hundred and twenty-five years ago, would take days of work with proper tables, and I had a farmhouse and a stew.
+
+Then I noticed that the stars were moving.
+
+Very slowly — over minutes, not moments — the little lights drift across the parchment. Vesper checked them against what he knows of the heavens and says they turn at the same pace as the real sky would turn overhead, if the map were held up flat against it. The thing is keeping time with the night.
+
+Akir got further than I did. Under the Snake, he says, the Espruar reads *south*, and then a number of miles. But the Snake does not stay where it is drawn, so neither does what it points at. Either it points at something that is itself in motion, or it only tells the truth at one hour of one night, and we do not know the hour.
+
+I said, out loud, that I hoped it did not point at a particular person. I did not say which person. I will say it here, because this book is for the things I do not say.
+
+The plaque on that silver box asked that Elyril's *true* resting place never be found. Somebody went to a great deal of trouble to build a false grave and to bury a map beside it. I do not know what this map leads to. It may lead to nothing of the kind. But I have the specific and disagreeable feeling of a man who has just been handed the one instrument somebody else spent their life making sure would never be used.
+
+---
+
+Akir knows someone who can read the stars. His sister — at an academy in Yhaunn, on the coast, beyond Ordulin. He needs to find her anyway, he says, assuming she is still alive and has not been taken. Taken by whom, I asked. By the other one, he said. The one who shot him.
+
+So that is where we are going.
+
+---
+
+The acolytes of the Moonmaiden had stayed the night in Moontassel; they had not fled like the Millerwrights' guard. They were taking their high priestess home to Ordulin, wrapped in linen on the back of a mule, and they asked Vesper to travel with them for safety.
+
+I was not there for what followed — I had gone for bread — and I have it from Vesper and will put it down as he gave it. He asked to pay his respects, and lifted the sheet from her face, and she was only a dead woman with a hole in her neck where the arrow had been. No bark. No second face. He spoke a prayer over her for the benefit of the people watching him, and he said afterwards that he had been so certain she was part of it, and that she was obviously not some sort of creature, and that he hoped he would not come to regret not burning her.
+
+Akir would not travel with Selûnites. He rode six hours ahead. I went where the scroll went.
+
+---
+
+Ordulin, then. The city I have been reading about since I could read, the one a floating city was dropped on to close a hole in the sky, laid out in a great circle as though it had been drawn round with a compass. I should like to have something more to say about my first night in it. I have very little. I spent it in a moderately respectable tavern, waiting for Vesper, tired in a way I do not have a word for.
+
+What I have, I have from Akir. He went ahead to watch the Millerwrights' estate on the edge of the city — acres of it, wrought iron and statuary and hedges cut into shapes — and found it lit end to end, with a dozen carriages at the door and more arriving, gold-painted crests and silver trim, drivers in livery. One of those carriages was the one that had fled Moontassel.
+
+I asked whether the guests were in black.
+
+They were not. Not a funeral. Ballgowns, through the windows, and fifty people in them, and nobody leaving all night.
+
+I record it without comment, because I cannot find a comment equal to it. A man of that house was turned to wood on a temple floor at sunrise. By dark, the house was dancing.
+
+Vesper, I am told, saw the priestess to her temple, accepted a healing potion from the woman who had first brought him to us, and asked her to write to someone in Waterdeep — a woman called Arabelle, at the House of the Moon — to say that Vesper was well.
+
+He did not say anything else in the letter. I asked.
+
+---
+
+In the morning, in the caravan yards on the east side of Ordulin, waiting while Akir hired four horses at a gold and eight apiece — Akir paid; I have decided not to examine my feelings about that — I looked across the line and saw a man I had not seen in years.
+
+Phelan Hawksong. Moon elf, a hundred and thirty-four — eight years my elder, and he has the effrontery to look younger than I do — silver hair worn so the ears show, pale skin with that faint blue under it some of the moon-born have, green eyes. The same dark cloak, flecked with silver like a night sky if you are feeling generous. The same braided staff with the blue glass on top. He was arguing amiably with a carter about the price of a seat to Yhaunn.
+
+He turned round and said, "*Selanar Durothil?* By the heavens — you're the last person I expected to meet in Sembia."
+
+I asked if I did not pass for a local. He did not dignify it.
+
+I have known Phelan, on and off, for the better part of fifty years. I told him I was on family business, which is true and which is all I said, and that we were bound for Yhaunn, and he said, "The observatory?" — and I said, "*There is an observatory?*" — and it seems there is, a new one, and the academy is attached to it, and that is presumably where Akir's sister is. And Phelan, it turns out, was trying to buy a seat on a caravan to the very same city, and swore by Corellon's blood that it was too strange to be a coincidence, and asked if he might ride with us and pay his share and stand his watch.
+
+I introduced him. I introduced Akir as Lord Akir of Westgate, which I believed to be correct, and Akir — a red dragonborn, in case some later reader is picturing someone less annoyed — said he would prefer not to share everything with everyone. Then he looked Phelan over and asked whether he had assassins following him. "You'd fit in if you did."
+
+I said that if Phelan intended to put a knife in my back after fifty years, I would take the chance. I meant it as a joke. I have since had occasion to think about the shape of it.
+
+---
+
+We rode fourteen hours. I will not dress it up; it was miserable. The horses were pushed as hard as horses can be pushed without being killed, through heat and dust, stopping only to water them, and by dusk they had nothing left and we were still fifteen or twenty miles short. So we pulled off the road into the trees to the north and made camp.
+
+By the fire, Phelan and I talked for the first time in years. I told him it was family business. Then, because it was Phelan, I told him it might involve the Starym, and I used a word about the Starym that I shall not repeat in a book my brother may read.
+
+I did not tell him about the hall. I did not tell him about the blade, or the signature, or the colour the ink came up.
+
+---
+
+I was woken by Vesper shouting.
+
+I said — and I am told I said it — "Five more minutes. What is going on, Vesper? Why are you waking us up?" I am not proud of it. I crawled out of the tent on my hands and knees into a fight that had already started.
+
+This is how it started. Vesper was on watch and heard a branch break in the dark to the south-west, and threw his voice into the trees — *reveal yourself* — and what walked out of the trees with a hooded lantern was a stranger. Grey-skinned, wrapped in leather, a cloth mask over the lower face, eyes like milk. He called out that he meant no harm and was only passing, and he said his name was Robbie. And Vesper saw, at the very edge of what his eyes can see in the dark, a white-robed shoulder behind a tree behind him.
+
+"Who are your friends?" Vesper asked.
+
+"My friends?" said Robbie, and turned round, and was shot.
+
+They wore silver masks. Smooth, featureless, covering the whole face. The first of them came out into the open with a hand crossbow and shouted, "**You have what is mine,**" and another, from the bushes, said, "**We know that you have found it.**"
+
+They knew. Whoever they were, they had found us in the dark on a road we had chosen that morning, and they knew.
+
+I put a ward of force over my own skin and found I was too far off to do anything else, which is becoming a theme. The rest of it I saw in pieces. Vesper's face going wrong in the firelight — the jaw coming forward, the eyes going to slits, a step towards whatever he became in that crypt and no further — and a bolt of light from his hand that took the first of them full in the chest and left him reeling. Phelan coming out of his tent, hesitating for half a breath, then touching a single point in the air so that it froze, and sending the frost from it into the masked man's chest. Cad's arrows going over all our heads into the dark. Robbie, with a bolt in him, throwing both his daggers into a man's shoulder and drawing a short sword, apparently as an afterthought.
+
+And Akir, backing away from the firelight, turning round — and finding a man crouched behind his tent with a knife, quietly slitting the canvas open from behind. Akir's tent. Where the scroll was.
+
+That was the man I put my sand on. You know how that went. Akir's sphinx raked him and Akir set him burning with sacred fire, and he was standing on nothing but spite when I came round the sphinx and put my sword into him. It went in. I record that it went in, because two nights ago nothing I swung went into anything, and I find I needed to know that it still could.
+
+The horses had seen the fire and were screaming and pulling at their ropes. I went to them afterwards and held their heads until they stopped. That is the part of the fight I did best.
+
+---
+
+One was left alive. Phelan had put him to sleep twice and he lay where he had fallen, face down at the foot of a tree. Cad took his weapons. I tied his hands behind his back — only his hands. I did consider the full trussing, and somebody said give the man some dignity, and I agreed.
+
+When he woke he did not struggle. He lifted his head, and I could see the firelight in the silver of the mask. I reached down and took it off.
+
+There was a light, as it came away. Faint. Pinkish. And the man underneath — tanned, soft-skinned, dark eyes, brown curls — looked up at me and said, "**What am I? What am I? Who are you?**"
+
+Not *where*. *What.*
+
+There is a line of glyphs worked into the inside of the mask, all the way round where it sits against the face. I could not read them; they are too intricate for an hour's study. But I can tell you what they are for. They are made to wake when they touch a man's skin.
+
+He told us he was a merchant from Elversult, which Akir says is ten days' road beyond Westgate. The last thing he remembers is walking beside his cart, on what he believes is the twentieth of Flamerule. Twenty-three days ago. Somebody came up behind him on the road so quietly that he did not hear them, put a hand on his shoulder, and set something shining over his eyes. Then black.
+
+He was frightened. One of us wondered aloud whether it was an act, and looked hard at him, and could not find one. I could not either. I have seen a great many men perform fear, mostly in council, and none of them do the breathing right.
+
+One of us brought over the nearest of the dead, a pale man with long fair hair, and took the mask off him, and asked if they had been taken together. The merchant had never seen him in his life. Then he looked down at himself, at the armour and the robe, and asked why he was wearing clothes that were not his.
+
+Vesper says the people who attacked him in the north, outside Zhentil Keep and Dagger Falls, wore the same masks — the same, exactly — with a single one among them in gold. But this man was in Elversult three weeks ago, and he could not have been in the north. So: more than one set of these. Or the masks travel and the faces underneath them do not matter.
+
+I said to the others, and I meant it, that the masks carry a charm, and that whatever else anyone did for the rest of their lives, they were not to put one on.
+
+---
+
+We gave the dead a burial there, off the road. Carrying four masked corpses into Yhaunn would have bought us more questions than we could answer, and I have had enough of leaving men under ground without a word said; I said one. We kept the four masks in a sack, and one full set of their armour, for the day when it is useful to look like them. Phelan threw the merchant a couple of silver, and Robbie, who had gone through the dead men's purses, suggested we give him theirs as well — about five gold a man — and we did. He will ride with us to Yhaunn and look for a ship home.
+
+Robbie I do not know what to make of.
+
+I observed to him that for a man who had walked into our fire by accident, he did not seem to be wandering aimlessly. He admitted that he was trying to find a place — a place with a telescope. An observatory. Somebody said that we were bound for something very like that, and then, being Akir's business, nobody knew how much more to say. So I said it. I told him we were telescope mechanics on our way to the annual repair. I said it with a straight face. It came out entire and without effort, and I am noting that, too.
+
+Then somebody asked him what *he* wanted with an observatory, and it turned out it was a person he was looking for. Or both, he said. He did not say who.
+
+All this while he had a crossbow bolt standing out of him. He looked down at it as though it were an errand he had forgotten, and allowed that he supposed he ought to have it seen to. Vesper healed him.
+
+And Vesper had been cut and stabbed half a dozen times in that fight, standing between the stranger and the knives with his face gone halfway to something else, and had not once given ground. I turned to him afterwards and asked whether that had not hurt like hell.
+
+He thought about it. "Yes," he said. "It should." And then: "Why doesn't it?"
+
+---
+
+Now. The thing I set down at the start and said I would not discuss yet.
+
+Two nights ago I wrote, in this book, as clearly as I have ever written anything: *put it in my column.* My plan, my reading of the room, my voice telling Gregorio to climb. I meant it then and I mean it now.
+
+And then, within the same hour, a man I fought beside said that it was his fault, and I looked at him and told him it was nobody's.
+
+I have been trying all day to decide which of those I believe, and I think the honest answer is that I said the second one because it was the only thing in that room that Vesper could pick up and carry. He has a god he is no longer sure of and a face he cannot always keep, and if I had agreed with him he would have walked into the dark with it. So I gave him the version that would hold weight. That was a kindness, and it was not a ruling.
+
+Then tonight I took the mask off a man who had done something terrible — had walked a day and a half behind us and come at our tents with a crossbow — and who had not been there for any of it. He was asleep inside his own face for twenty-three days. *That* is what nobody's fault looks like. I have seen it now, close enough to read the glyphs. A man who did the thing and was not present while he did it.
+
+It is not what happened under the hill. I was there. My eyes were open. I made the plan.
+
+So the column stands, and what I told Vesper stands beside it, and I find I can carry both. That is a thing I did not know about myself a month ago.
+
+---
+
+One last thing, and then I shall let the fire have the rest of the night.
+
+Vesper said he hoped the damn thing was worth it. Akir said it was good we got it, or else it was all for nothing. And there is a sentence that has been riding beside me since the hill, in the others' faces and in my own head at three in the morning: that this map had better lead to something, or Gregorio died for nothing.
+
+I understand why it is said. I am not going to say it.
+
+He did not die *for* a map. He died because the hill came down on him, at the end of a road I had walked him down. There is no sum this parchment can come to that changes what that cost or who paid it, and I will not let a sheet of moving stars be made into his price. When we find what it points at — and we shall, I have seen Akir's face when he is curious — it will not be worth Gregorio. It will only be the thing that was at the end of the road he was on with us.
+
+I do not mean to make it worth it. I mean to find out what it is.
+
+---
+
+*Signed by somebody else's fire, with four silver masks in a sack beside me and the stars on the scroll going round, very slowly, in the dark —*
+
+**Selanar Durothil**
+
+*Of House Durothil. Of Myth Drannor. One spell slept through, eight silver on a farmer's table, a sword that went in, and a lie about telescopes.*
+
