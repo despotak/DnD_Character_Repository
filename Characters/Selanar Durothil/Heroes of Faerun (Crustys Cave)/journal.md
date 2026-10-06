@@ -1483,3 +1483,297 @@ I do not mean to make it worth it. I mean to find out what it is.
 
 *Of House Durothil. Of Myth Drannor. One spell slept through, eight silver on a farmer's table, a sword that went in, and a lie about telescopes.*
 
+## Entry VIII — Everything Taken
+
+*Yhaunn, in Sembia. The 12th of Eleasis, 1501 DR — written in a hired room in the scholars' quarter, by an ordinary lamp, with a better candle standing unlit beside it.*
+
+---
+
+I was asked today, in the bedroom of a missing man and in front of a professor of the university, why I was collecting an old man's hair.
+
+I said "What do you mean?", which is what a man says when he has been caught doing precisely what he is accused of, and then, since there was no improving on it, "a couple of strands". Somebody announced that it was the strangest loot they had ever seen. Somebody else repeated the words "old man's hair" in the tone people keep for a dog that has brought home something dead.
+
+I wish to state for the record that it is not strange in the slightest. Every treatise on the finding of persons tells the diviner to bring something of the person with him — a likeness will serve, a garment is better, and a piece of the body itself is best of all, because the Weave has a great deal of difficulty pretending not to know whose it is. The university has already tried to scry for this man and found nothing; something stands in the way, and a lock of hair will not move it. But a diviner with a man's hair in his hand is a worse enemy to that man than one without, and I would rather it were in my satchel than on his pillow.
+
+It is in a twist of paper at the bottom of my bag. I have one or two people in mind who may know what to do with it.
+
+I have now spent a paragraph defending myself to a book. Two days running, then.
+
+---
+
+Now. The day in order, like a person.
+
+We put the night's dead into one ditch, a little wider and a little deeper than a ditch strictly needs to be, because they were not villains. They were men who had been walked into our fire inside somebody else's will, and a man who has been a puppet for three weeks is owed at least the extra spadework.
+
+While we dug, somebody began to count. Not the graves — the dead. How many we have killed since Moontassel, the way one counts anything to keep the hands busy. Six on the hill. These three.
+
+And then somebody asked whether Gregorio counts.
+
+Somebody else said they did not know. I said nothing at all. I have it in writing, in this book, in my own hand, on the steps of the shrine, that he counts — that he goes in my column — and I stood in a ditch on the Yhaunn road with a shovel and did not say so out loud. I record the silence. It is the only thing I did this morning that I would like back.
+
+The merchant from Elversult left us at the gate, bound for the docks and a ship home. He thanked us for saving him — he said he could have ended up like so many others — and told us that if we ever find ourselves in Elversult there will be a bed for us with his family. I believe he meant it. He is the only person in a week to leave our company better off than he joined it, and I find I am absurdly glad of it.
+
+---
+
+Yhaunn.
+
+I had read of it, of course. Reading of it is no preparation. The last hour of the road runs through orchards and vineyards and farms packed so close that the farmers must hear one another's arguments, and then the walls come up, and over the walls the city *leans* — five storeys, six, crammed shoulder to shoulder and climbing — because the whole of it is built inside a pit. Not a valley. A pit: a crater, quarried out of the earth for the stones in it, with the city poured into the hole afterwards. A river comes in at one side. A hundred thousand souls, I am told, in a space that would embarrass a town of ten.
+
+Outside the wall there is a second city that nobody built on purpose. Scrap and lean-to, filth, children. There is a toll at the gate, and it is not, I am given to understand, a revenue at all; it is a sieve, cut to the exact size of the poor. We paid it and walked through, and on the far side everything was new — polished, tall and new, fine silks and imported goods on every corner, not one stone in the place old enough to have weathered.
+
+I said: "I have to give it to the Sembians, though. Building such a city upon ruins, in less than a hundred years. It is a great feat of engineering."
+
+And one of my companions said that it made him feel he could not enjoy the inside, knowing what was out there. That all their luxury comes at so much suffering.
+
+Both things are true. I observe, as I observed over the open graves at Moontassel, which of the two I said out loud. In my defence, I come of a people who build for ten thousand years and lose it in three days; I have had the fall of my city twice in one lifetime, once in my father's voice and once with my own eyes, and I have very little standing to sneer at men who put one up in forty. That is my defence. I have read it back, and it does not cover the people outside the wall, and I am leaving it here uncovered.
+
+I looked, as we came in, for the golden lion of the Millerwrights, which was on every barn door outside Ordulin. Not one, in the farms or in the shops. I am told later that they have their hands in whatever comes and goes from this city by road — Ordulin is the only place it trades with by land — but here they do not put their name on it.
+
+---
+
+Cad saw the posters first. Cad sees everything first; I have stopped minding.
+
+Not on the main street. Not one, from the gate to the docks road — and then we turned off it towards the university, into the side streets, and they were on every lamp-post. Missing. Hand-drawn, some well and most badly. Men, women, the young, the old; no pattern that I could find, except that they are *here* and not *there*, where a visitor would walk.
+
+I said that for so many posters the city seemed remarkably calm about it, and that I would have expected the families of the missing to raise a ruckus. I was told, quite correctly, that I had been inside the walls for less than an hour, that I had no idea what ruckus had already been raised and gone quiet, and that I knew nothing whatever about this city yet. I conceded it. I record the concession because I make so few, and because it was a good one to lose.
+
+---
+
+The scholars' quarter climbs the northern cliff to a university built at the foot of a castle, and round the edges of it there are shrines: Oghma, Deneir, and gods of knowledge I could not put a name to, which is not a sentence I ever expected to write about a scholars' quarter. On the outskirts there is even one to Beshaba, which tells you something about students.
+
+The posters are pinned to the shrines as well. Tymora's is buried in them, and in small belongings left beneath — the sort of thing a family keeps back when there is nothing else left to keep.
+
+I watched for whoever was putting them up. I never saw that. I saw a woman come to Deneir's shrine instead — human, red hair gone mostly to grey, sixty or near it — and kneel, and set a small book down before it. A children's book.
+
+I went over. I am not entirely sure why. I told her I had seen people bring offerings to the likenesses of their lost before, but that the last time I saw it, it was for people lost in a war, and that this did not look like a war.
+
+She said that if you offer what you can, and pray to the gods who listen, the answers you look for are revealed to you through them.
+
+I said it was not without merit. I asked her what was happening here. I asked whether it was for a child, or a grandparent.
+
+"My granddaughter," she said. "She's been gone nearly a month." Darlan. That is the name. I told her I was sure she would find her, that the gods would show her the way, and I heard myself say it in the voice of the clergy, and she heard it too.
+
+She asked whether I had come to study at the university. "You are clearly an elf." I told her I had come to uncover some mysteries, and that study was part of it.
+
+She said that every week more of them go. That the Watch claims it is their focus. That nobody is ever found.
+
+And I said: "Everything taken is moved somewhere else, and can be retrieved."
+
+I want to come back to that sentence. Let me finish with her first.
+
+It happened overnight. She tucked the girl into her bed — in the common room; they have not the money for a second bedroom — and in the morning the bed was empty. No sound. The door still locked, the shutters still barred, and everything of the child's left behind. Her shoes, even. The other families tell the same story, she said: some taken on their way to work, some on business, some from their own homes; any hour at all; and always, always, "without a trace". I suspect those are everybody's words in this city by now.
+
+Then she looked at me — at the elf, at the man who is very plainly some manner of practitioner — and asked, as the one person in the street who might actually know: how is it possible to take someone without leaving a footprint? Without a sound? Through a door that is locked?
+
+I said I would not tell her there were no ways. I said the ways that do exist are not cheap, and that if somebody is using magic of that kind, he is spending a great deal of coin to do it.
+
+It was the truest thing I said all day, and I have rarely said a colder one.
+
+She said she hoped I found what I was looking for. Then she took a candle from a little messenger's bag and put it in my hands: white wax, plain, and carved into the base of it, looking up, an eye. "If you cannot find your way," she said, "you can ask Deneir for guidance under the light of his candle."
+
+I thanked her. I said: "May the scribe of Oghma protect all of us." I meant it. Then she went back to the shrine, and she did not leave the book after all. She sat down in front of it, opened it on her knee, and began, quietly, to read it aloud. To nobody.
+
+There was a child's coffin under the hill at Moontassel with fairy tales set down beside it — the sort one reads to somebody small who is not going to sleep otherwise. I left that room exactly as I found it and wrote that whoever lay there did not live long. Today I watched a woman read to the empty air in front of a god of writing, and I could not tell you which of those two rooms was the sadder, and I am not going to try.
+
+---
+
+The university.
+
+The front hall is everything a front hall ought to be — a library on one side, stairs spiralling upward, four wards going off in four directions, and a hundred and fifty scholars coming and going with ledgers under their arms — and it is guarded like a treasury. Two of the Watch at the door. One at the mouth of every corridor. I have spent the better part of a century in houses of learning and I have never once seen one that needed *that*.
+
+There is a halfling at the reception desk who takes the names of visitors, and when Akir gave his, the quill snapped in the halfling's hand. He looked up. He said to stay there, to stay right there, that he would fetch someone, that he would be back in less than a minute. Akir watched him go and judged him frightened, and I agree; and not of us. Of the name.
+
+He came back with Professor Ignatius — "Ignis," he introduced himself, and then, as an afterthought, "Ignatius, really" — who is perhaps eighty, and walks more slowly than the halfling would like, and wears a great deal of turquoise about his neck. He has a scar across his face that is new. Very new: closed by a priest's hand rather than by time, and lucky to have left him the eye. He did not explain it. Nobody asked. I did not ask either, and I have been wondering since why not.
+
+He looked at Akir and said, "It is for the best that you come with me right away, young man." And to the rest of us, with a glance out over the hall full of students: "You never know who is listening and who is watching."
+
+His study is warded. I knew it the instant the door shut — that particular deadness in the air when sound has been told to stop at a threshold. Had I bent to the keyhole I should have seen nothing through it but black, like velvet; I have seen the working before, in libraries that keep what ought not to be read. Inside, the shelves go up into the dark, and there are orreries everywhere, spheres within spheres with Toril at the heart of them, turning very slowly with the sky.
+
+---
+
+Lyra — Akir's sister — was here. For a few days, Ignis said, she was here.
+
+She arrived on the first of the month, eager and frightened in about equal measure, convinced that somebody was coming for her, and she spent every hour she could at the new telescope. A few days in, the students she shared a dormitory with began to complain that she talked in her sleep. She moved out, and into the lodging of the man she had been working under: Professor Barrymore, the lead astronomer.
+
+Four days ago they both vanished. The same day. And on that same day an alarm went off in the restricted archive, and a handful of texts that nobody is permitted to read were found to be gone.
+
+Four days ago is the eighth. The day before we went up the hill at Moontassel.
+
+Barrymore came to Yhaunn in his early twenties, shortly after the city fell, as one of the first scribes of the rebuild, and he has been here forty years. The observatory is his — he oversaw it from its first stone; he said this was the finest place on all the Sea of Fallen Stars from which to witness the heavens. A diviner by training. Obsessed, Ignis says, with contact with the upper planes. He held that a man could speak with the gods through the stars, and held it *truly*. Five years ago he stopped teaching altogether and withdrew into his own research, having grown, as Ignis put it with great delicacy, tired of novices.
+
+When Akir said that his sister had seen a vision in the stars — had known which ship not to take, and been right — Ignis's face fell in a way I did not like. He said the stars do not predict anything; that it is nonsense; that the stars are not the upper planes at all but the Astral Sea, the thing that lies between the gods and us. And then he went rummaging through his papers anyway and came up with a slim bound study, and I read the title upside down across the desk: `Communion with the Heavens`. Barrymore's. It was the whole of the man's belief, he said, that certain people with a connection to divinity and to the stars could read what was to come.
+
+He called it nonsense twice more while he looked for the page.
+
+I have a map in my coat on which the stars move in time with the sky. I did not mention it.
+
+They have tried to scry for the two of them, he said, and found nothing. "Some form of anti-divination." I observed that his own study was warded against exactly that kind of attention, and asked whether he really believed that people who did not wish to be found would be such fools as not to take precautions. I said it to an eighty-year-old professor in his own study, in the tone I reserve for the slower students. I record that I was right, and that I would like the tone back.
+
+Then he told us what was taken. An old Sharran text, on tearing through the material plane. The procedure — the actual working — of the rift at Ordulin, the Maelstrom; and with it all the rest of that literature, which is about one thing only, and that is bringing what lives in the Shadowfell out into this world.
+
+Vesper said: "I should have known." And then, half to himself, that it would be a Sharran cult, like the one under the temple; that there might be one in this building now.
+
+---
+
+Akir gave Ignis one of the masks.
+
+He had never seen anything like it. He turned it over, and the glyphs inside took the light, and he called it a very complicated piece of artifice and began at once to copy them onto a sheet of parchment — which is the reflex of a real scholar, and the first thing he did all morning that I liked without reservation.
+
+I offered my reading. I said it was the effect of a *suggestion*, or of a domination; perhaps even something that altered the memory.
+
+He corrected me. The glyphs do not touch the memory at all. They dominate, and not in the sense the enchanters' primers mean. They *replace*: whoever wears the mask has his own mind put aside, and the mind of whoever the mask is linked to set into the body in its place. A puppet. And once it comes off, the charge is spent — single use, to be recharged before it can serve again — and he would not care, he said, to be wearing one when somebody did.
+
+"Hold on to that one," he said. "Don't let the entire university know you have it."
+
+Last night I wrote in this book that the merchant from Elversult had been asleep inside his own face for twenty-three days, and that *that* was what nobody's fault looks like. I had the shape right and the substance wrong. He was not asleep in there. Somebody else was awake in it.
+
+The correction does not make it anybody's fault. It makes it a great deal worse.
+
+---
+
+Barrymore's lodging is a narrow house across the courtyard, stacked against its neighbours like books on a shelf. Ignis let us in.
+
+It has been wrecked. Chairs over, a window half boarded up. I said, "Well, it seems we are not the first ones to arrive here," and Ignis said that this was exactly how they had found it.
+
+Upstairs, the professor's room is a life. His clothes are all there. His awards on the walls, his gifts, paintings of himself teaching a class — I note that a man who stopped teaching five years ago kept those up — and shelves of plain history: Yhaunn, the Sea of Fallen Stars, the region round about. And in the dust on those shelves, four clean gaps the width of four books, where somebody took the ones that were not plain.
+
+I said that this is not how a man leaves his house when he is leaving on an expedition. A man going on a journey takes his clothes. His are all still here.
+
+Then Lyra's room.
+
+It is the only room in the house that has not been destroyed, and it is *pristine*. The bed made, the pillows plumped. No hollow in the mattress where a body has lain. No mark of a boot on the boards. Not one object — not a hairpin, not a scrap of paper — nothing but the furniture: a writing desk, a wardrobe, a bed. Akir went through all of it with his sphinx lifting the rugs and found nothing, and stood in the middle of it like a man who has been shown into the wrong house.
+
+I said there were no belongings of his sister's here at all. Nothing.
+
+That is the sentence I have been sitting with tonight — not the wreckage downstairs, but the absence upstairs. Everything that leaves leaves a hole. The books left four in the dust. The professor left a whole life with himself cut out of the middle of it. A girl in the scholars' quarter left her shoes. Lyra left nothing; and a room that has had nothing taken out of it is either a room nobody ever slept in, or a room somebody went over afterwards, with great care, until there was no hole left to read. I do not know which. I do not know which I would prefer.
+
+---
+
+Downstairs is where the struggle was, and Cad read it in a minute. The windows were boarded *before* the glass broke; somebody in this house was keeping something out. There are flecks of blood on the curtains. The stools are not thrown; they are *tripped over*. Nobody searched that room. Somebody fought in it, or was taken in it, and the mess is only what bodies do to furniture on the way past.
+
+And before the hearth, burned into the hardwood, a circle of black soot perhaps three feet across.
+
+Vesper came and found me — I was upstairs with the hair, if you must know — and asked me, in perfect innocence, whether I had ever seen a summoning circle before. I said: "Do you take me for a warlock?" He said that "magic is magic".
+
+I am going to let that stand in this book without comment, out of affection, and because I suspect that if I begin I shall not stop. I went down.
+
+Robbie had found the marks. Two hands' worth of them, scored into the boards at the foot of the fireplace and on into the stone of the hearth — and they do not drag *backwards*, the way the marks of somebody hauled away drag. They claw *forwards*. Into the room. As though someone had come out of that fireplace on their belly and pulled themselves across the floor by their fingernails.
+
+Human fingernails. Too broad for an elf's, too narrow for a dwarf's. A person's hands.
+
+The flue is open to the sky, and there is nothing in it.
+
+I said it did not look like any teleportation circle I know, but that a portal of some kind having been opened here was not out of the question. Vesper had the book we brought up from under the hill — the Moonshadow chronicle, the one that turned out at the end to have been written by a Sharran — and found the passage: that where the Shadowfell has been, what it leaves behind is soot and ash, in heaps. And that during the Maelstrom, Ordulin rained black soot.
+
+I said, because somebody had to: "There is a big circle of soot right here."
+
+We talked it round. I offered what the stories say — that the fey of the shadow have always stolen children and left changelings in their beds — and that I would not put it past them to begin on grown people. Somebody asked, fairly, why then nobody has come home: if they were replaced, where are the replacements? I had no answer. I said instead that the professor need not have opened anything; that if his work had been closing in on something somebody did not want found, he would have had to be taken out of the picture. Or he is a professor of the dark arts, and did it himself. A diviner and an astrologer — and a great many men turn to the stars when the gods stop answering them.
+
+Then one of us said: "What if he was following the same map we are?"
+
+And Robbie said: "What map?"
+
+---
+
+Robbie had not been told. That was my doing; last night, by the fire, I told him we were telescope mechanics on our way to the annual repair. Somebody explained it now — a scroll; a map of the stars that moves with the sky — and he asked where we had got it, and Vesper hesitated, and looked at me, and said nothing, and did not correct my lie. I am grateful, and I dislike being grateful for that.
+
+Then one of us turned it round on him: "Didn't you say you needed to go to an observatory?" He had. And so there we stood, within sight of the largest observatory ever raised in Faerûn, under the cover of being its mechanics, and not one of us able to say which end of the instrument to put an eye to.
+
+He told us a little, then. That Barrymore is the man he came here to find. That the professor's face is one of the only things he can remember at all. He had blinked, in Ignis's study, when the portrait came out — once, twice — and then his face went back to where it had been and he asked, very politely, for a copy. I saw it. I did not say so. Now he told us that he thought they had been looking for an artifact before, and that they had got it.
+
+What kind of artifact. He does not know.
+
+So Vesper took a long breath and brought out the crescent — the key that opened the hill, the one he swore to the Silver Stars to keep — and showed it to a man we met last night with a crossbow bolt standing out of him. "He's part of the team now," he said. It meant nothing to Robbie. Vesper put it away and said: "A lot of people died for that amulet."
+
+Three nights ago, on the floor of the shrine, he pushed that same amulet down inside his armour and told me he was done carrying mysterious objects. Today I watched him bring it out on his own judgement, for a stranger, and I do not yet know whether that was faith or carelessness. From the surface they are identical. I seem to keep writing that sentence.
+
+---
+
+We split, which every one of us knows better than to do and did anyway. Akir and Robbie went back to the halfling for the delivery logs. Cad, Vesper and I went with Ignis to Barrymore's office in the university.
+
+Dust. A desk cleared to the wood. That mildewed smell a room of books acquires when nobody has opened one in years. Ignis said, kindly, that they had already been through it, and that we were welcome to try.
+
+I told the others what I was doing, which I almost never do. I said: if something is missing, it leaves a hole. I am trying to reconstruct the shape of the hole.
+
+Vesper meant to bless the attempt and forgot. I did it unblessed and found more than I deserved.
+
+What was taken is easy; the dust tells you. What was *left* is harder, because what was left is fifteen years of a man building a thing, and nearly all of it is dull. The construction ledger of the observatory, every contractor named. The accounts for the telescope. Fifteen years of it — and the observatory has been open to the sky for only two weeks. The largest ever built in Faerûn. It is the whole reason Lyra came.
+
+It was Cad who found the letters, because Cad asked the better question: if a man meant to tear a hole in the world in this city, where would he do it? You cannot do it just anywhere. Ordulin's rift opened at the heart of Ordulin.
+
+Barrymore's papers are full of the answer. He never wanted his observatory where it stands. He petitioned first to raise it in the very centre of the city — the Nobles' Ward, where the richest men in Yhaunn live — and was refused. Then he petitioned to pull down the Gem Ward, by the docks, where the first stones were found when they dug the pit, and build on top of that. Refused again. He settled for the highest cliff in the north-east, and the best view of the sky in Sembia.
+
+Every student of the Art knows what stone does with power: it holds it. A gem is a vessel, and the ground where the first gems of an entire city were dug must hum with it still. And the heart of a city is the heart of a city; it is precisely where you would aim if you meant to do to Yhaunn what was done to Ordulin.
+
+A man's refused petitions are a map of where he wanted to stand. I have a second map now. I like it very much less than the first.
+
+---
+
+Akir and Robbie brought back the logs.
+
+Twenty days ago, a parcel left at the desk for Barrymore, the item not named and the name of whoever left it no use to anybody. Ten days ago, a delivery: a large order of animal tongues, several jars of them, from a supplier in the south of the city — `Malworth's Materials`. And in the visitors' book, the same name four days running, the four days before Lyra vanished, and against each visit, where the business that brought him ought to be written, only her name.
+
+`Yerwin`.
+
+Nobody in our company has ever heard of him. I write it down so that I shall know it when I hear it.
+
+As for the tongues: I do not know what anybody wants with a jar of tongues. I know one thing it is good for. In the old grammar — the one I learned before the world changed, and still dream in — the working called *suggestion* wants a serpent's tongue in the hand. It is the working that puts a sentence into another man's mind and lets him believe he thought of it himself.
+
+It is also the word I put to the mask in Ignis's study this morning, and was corrected. I am not going to be corrected twice in one day about the same word without at least writing it down.
+
+---
+
+I was not at the shop.
+
+They went south in the afternoon, three hours before sunset, into streets too narrow for a cart, and I did not go with them; I had nothing left in me by then that would have been of use in a narrow street. I have it from Vesper, in a dozen sentences at a corner, and I give it as he gave it.
+
+An oddments shop — herbs at the sill, dried bats and a stuffed fox behind the bars of the window — kept by an old man called Malworth, with a great hired bruiser in dented armour at the door. Malworth says he has not seen Barrymore in weeks. Shown the delivery record, with his own signature on it, he looked at his own hand and said he never signed it, and asked where they had got it, and Vesper could find no lie in him at all. Asked whether there was a day that had passed him by, he said: "It feels like most days pass me by, young man." He opened his drawers and found a great deal missing that he could not remember selling, and the bruiser told him not to stress about it — he never remembers selling anything.
+
+The bruiser cannot read. He says so. He checks nobody's records, because he cannot; he only makes sure people pay. And when Vesper laid the Moonshadow chronicle on the counter and asked whether it was worth anything — and then, on his own initiative, drew out his symbol of the Moonmaiden and told the old man there was no need to worry, he had *reclaimed* the book — the bruiser said that he needed to step outside for a moment.
+
+Nobody let him. There was a moment with a hand on a sword-hilt, and an old man standing up behind his counter saying "whoa, whoa", and the Watch invoked by both sides at once; and then everybody remembered that they were reasonable people, and our side left, and Vesper opened the door for us by thaumaturgy, which I gather he regarded as a courtesy.
+
+Put that beside the tongues. An old man who signs a paper and does not remember signing it; whose stock walks out of his drawers; who is told, by the only other person in the shop, not to trouble himself because he never remembers anything. I put the word *suggestion* to the mask and was wrong. I am putting it to Malworth now, in pencil, where only this book can see it.
+
+That is the second man in a week whose hands have done a thing he was not present for: the merchant in the mask, and now an old man's signature. Three, if I count a hall at Semberholme where I signed away my own house in blue light, at the bottom of a pool, and still do not know whether I was there. I am beginning to dislike signatures.
+
+Cad left something on the bruiser on his way past. I have not asked what. He tells me he can look through it, for a minute, from ten miles off. So tonight Cad and Robbie and Vesper are sitting in a street in the south of the city, watching a door, waiting for an old man to go home and a big one to go somewhere he should not. I have been told, with great kindness, that I am not built for sitting in doorways. I have elected to take it as a compliment to the coat.
+
+---
+
+So.
+
+The sentence I said I would come back to. I told a grandmother: "Everything taken is moved somewhere else, and can be retrieved."
+
+I said it because it is true, and that is the trouble with it. It is the first law of my whole profession. A girl who goes out of a locked room without a sound or a footprint has not been unmade; she has been *moved* — that is what the costly workings are, every one of them: ways of moving a thing through a door, through a wall, through the skin between this world and the next. Somewhere, she *is*. That is what I meant. It is physics, of a kind.
+
+She did not hear physics. She heard hope. I watched it land.
+
+And then, two hours later, I knelt by a hearth with three feet of Shadowfell soot burned into the boards in front of it, and ten human fingernails' worth of marks clawing *out* of it into the room, and I understood what *somewhere else* very likely means in this city.
+
+We have been asking all day where they are being taken. The fireplace asks a worse question. Something with a person's hands came back through.
+
+I should very much like to know who. I should like it not to be somebody on a poster.
+
+---
+
+The candle is on the table beside me as I write. I have not lit it.
+
+Deneir is the god of precisely this: of letters, and the keeping of them; of a man at a table setting down what happened so that it will not be lost. I have spent a month writing in his province, by every kind of light, and it has not once occurred to me to ask him for anything. That is not piety. I am perfectly aware it is the opposite.
+
+She said: if you cannot find your way. I have a map that moves, a second map I like a good deal less, a jar of tongues, an old man's hair, and a name in a visitors' book. I am not lost yet.
+
+I notice I have written *yet*. I am leaving it in.
+
+---
+
+*Signed in a hired room, with the others out in the dark watching a door —*
+
+**Selanar Durothil**
+
+*Of House Durothil. Of Myth Drannor. Three spells to his name and not one of them spent, a twist of paper with an old man's hair in it, and a candle he has not lit.*
+
+*(Three. I reached this morning before the road, out of habit, the way one feels in a pocket for a key one knows is there — and it was three. The edge is exactly as sharp as it ever was; it has simply moved one step further off. I have carried that about all day like a coin in a glove and told nobody. The first good news this book has had in a week, and I kept it.*
+
+*There are two new workings in the book besides, copied out by the fire last night and not yet tried. One drinks the sting out of fire or frost or lightning as it lands and hands it back on the next stroke of the blade. The other does a thing I have done to people by conversation my entire life: it tells a man who has just succeeded that he has not, makes him do it again, and gives the luck he lost to somebody else. It is very pleasant to have it formalised.)*
+
