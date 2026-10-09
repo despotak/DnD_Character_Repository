@@ -48,15 +48,17 @@ ranked: ask from the top, and ask the backup only if the spell it backs up fails
 
 ### What changed from the old plan
 
-- **Shield is situational, not daily.** It gives AC 4 against melee, and his elven chain is
-  already AC 5 before Dexterity, so it's worth one point at most there (whether Dex adds
-  to the shield is a DM call). Its value is missiles (AC 2 against thrown weapons, AC 3
-  against arrows) and blocking *magic missile*.
-- **Armor does nothing for him.** It fails on anyone already at AC 6 or better.
+- **Armor and shield hang on the elven chain** (Questions #10, still open). *Armor* gives
+  AC 6 and fails on anyone already at AC 6 or better. *Shield* gives AC 4 against attacks
+  from the front, AC 3 against arrows and AC 2 against thrown weapons, and blocks *magic
+  missile*.
+  - **With elven chain** (AC 5 before Dexterity), *armor* does nothing and *shield* is worth
+    a point at most against melee (whether Dex adds to it is a DM call). Keep *shield* for
+    archers and enemy wizards.
+  - **Without it**, he fights unarmoured. *Armor* becomes his first ask: AC 6 from the
+    morning until damage passes 8 points plus 1 per level. *Shield* becomes a daily.
 - **Haste costs him almost nothing.** It ages the target a year, and Panagiotis's elves live
   800–1000 years.
-- **The two scrolls are free sources.** *Comprehend languages* and *identify* can go into his
-  book with a learn roll each. The scroll is used up, and it costs no request.
 - **The +2 splits the book in two.** Spells cast before the fight can be slow. Spells cast
   during it should stay at 3 or less after the +2. Casting time 5 becomes 7 for him, so
   *hold monster*, *cone of cold* and *wall of force* open a fight; they don't rescue one.
@@ -75,9 +77,10 @@ ranked: ask from the top, and ask the backup only if the spell it backs up fails
 | 6 | *Shield* | A | For archers and enemy wizards | |
 | 7 | *Feather fall* | B | Casting time 1, the fall that would kill him | |
 | 8 | *Change self* | B | Not to be found | |
-| | *Comprehend languages*, *identify* | | From his scrolls, no request | |
+| 9 | *Identify* | B | What a found item does. It costs a 100 gp pearl and 8 points of Constitution | |
+| 10 | *Comprehend languages* | C | Conversation | |
 
-*Read magic* lets him read anyone else's book or scroll, which is how he learns spells he
+**Without elven chain**, *armor* goes in at #1 and *shield* moves up to #3. *Read magic* lets him read anyone else's book or scroll, which is how he learns spells he
 finds. Make sure it's in his starting book. **Dropped:** *mending* (D), *jump* (C), *spider
 climb* (C: he can't cast while climbing), *message* (C).
 

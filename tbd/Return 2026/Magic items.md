@@ -12,7 +12,7 @@ with that.
 
 ## The bladesinger
 
-Already has: **elven chain** and **Rathael**, the Moon Between Blades.
+Already has: **Rathael**, the Moon Between Blades. **Elven chain** is still open (Questions #10).
 
 ### Light
 
