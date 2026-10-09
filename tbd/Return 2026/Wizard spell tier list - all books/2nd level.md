@@ -7,9 +7,9 @@
 
 | Tier | Spell | Source | Setting | CT | Save | Why |
 |:--:|---|---|---|:--:|:--:|---|
-| **S** | *Invisibility* 📖 | **PHB**, WSC | — | 2 | None | Touch-range invisibility with no save lasts up to 24 hours and ends only when the target attacks. Solves scouting, infiltration and escapes at once. |
-| **S** | *Mirror Image* 📖 | **PHB**, WSC | — | 2 | None | Creates 2 to 8 duplicates for 3 rounds per level, each absorbing one hit, no save. The best personal defence at this level. |
-| **S** | *Web* 📖 | **PHB**, WSC | — | 2 | Neg. or ½ | Fills up to eight 10-foot cubes at 5 yards per level for 2 turns per level. Creatures under 13 Strength are stuck. It is an area effect that ignores resistance. |
+| **S** | *Invisibility* | **PHB**, WSC | — | 2 | None | Touch-range invisibility with no save lasts up to 24 hours and ends only when the target attacks. Solves scouting, infiltration and escapes at once. |
+| **S** | *Mirror Image* | **PHB**, WSC | — | 2 | None | Creates 2 to 8 duplicates for 3 rounds per level, each absorbing one hit, no save. The best personal defence at this level. |
+| **S** | *Web* | **PHB**, WSC | — | 2 | Neg. or ½ | Fills up to eight 10-foot cubes at 5 yards per level for 2 turns per level. Creatures under 13 Strength are stuck. It is an area effect that ignores resistance. |
 | **A** | *Animate Skeletons* | CotD, WSC | FR | 1 rd. | None | Animates skeletons at 1 round with no save and no duration limit. Costs 10 gp of salve per skeleton. A cheap lasting army, but needs bones. Necromancers only. |
 | **A** | *Corruption* | WSC | — | 1 | Neg. | One target at 30 yards loses all actions for 2 rounds unless it saves, with no Hit Dice cap and casting time 1. Necromancer only. |
 | **A** | *Darsson's Fiery Cube* | PftM, WSC | FR | 2 | — | Deals 1d4 per level up to 10d4 at 5 yards per level, save for half, casting time 2. The best straight damage at this level, though it burns items too. |
@@ -39,7 +39,7 @@
 | **B** | *Bendal's Swoop* | WSC | FR | 1 | Special | Casting time 1 turns a fall into a 30 foot horizontal swoop with feather fall landing. The dive attack deals 8d4 damage but a miss costs the caster 5d6. |
 | **B** | *Bigby's Dexterous Digits* | WSC | Greyhawk | 2 | None | Summons hands for 3 turns per level with the caster's own Dexterity, able to tinker, paint or work tools up to 90 feet away. They cannot fight or cast. |
 | **B** | *Bigby's Silencing Hand* | WSC | Greyhawk | 2 | None | A hand clamps a creature's mouth unless it saves, at casting time 2. Blocks verbal spells and command words for 2 rounds per level. Excellent against enemy casters only. |
-| **B** | *Blur* 📖 | **PHB**, WSC | — | 2 | None | Imposes -4 on the first attack and -2 on later ones against the caster, plus +1 to saves. Solid self-defense, but mirror image protects better. |
+| **B** | *Blur* | **PHB**, WSC | — | 2 | None | Imposes -4 on the first attack and -2 on later ones against the caster, plus +1 to saves. Solid self-defense, but mirror image protects better. |
 | **B** | *Breath of Bewilderment* | WSC | FR | 2 | Neg. | A 10 x 10 x 30 ft. cloud stuns everything in it for a round unless it saves vs. poison. Short, but casting time 2 makes it quick. |
 | **B** | *Breathsense* | WSC | Maztica | 1 rd. | None | Senses every breathing creature within 20 yards per level for 1 turn per level, with approximate size and no save. Great scouting, though fish and insects are missed. |
 | **B** | *Camouflage* | CBE | — | 2 | Neg. | Hides one person per level for 1 turn per level even from infravision, but only in wilderness and they can move just 10 feet per round. Elves only. |
@@ -54,7 +54,7 @@
 | **B** | *Dust Curtain* | AQ, WSC | Al-Qadim | 2 | None | A dust cloud up to a 20-foot cube per level gives enemies -4 to attacks, no save, and it moves 10 yards a round. Needs concentration, like fog cloud. |
 | **B** | *Echoes* | WSC | — | 3 | ½ | Victim gets -2 to attacks, saves and AC and cannot coordinate with others for 2 rounds per level. A save only softens it to -1. Casting time 3. |
 | **B** | *Enchanted Blade* | WSC | Kara-Tur | 1 turn | None | Gives a blade doing up to the caster's level in d6, maximum 10d6, save for half. But casting takes 1 turn and it needs an attack roll. Wu jen. |
-| **B** | *ESP* 📖 | **PHB**, WSC | — | 2 | None | Reads surface thoughts of one creature per round out to 90 yards for 1 round per level. Great for scouting and parley, but 2 feet of rock stops it. |
+| **B** | *ESP* | **PHB**, WSC | — | 2 | None | Reads surface thoughts of one creature per round out to 90 yards for 1 round per level. Great for scouting and parley, but 2 feet of rock stops it. |
 | **B** | *Falling Wall* | Dr211, WSC | — | 2 | None | A 20 by 20 foot armor wall falls into place at casting time 2, no save, for 2 rounds. Good door-plug, but it vanishes quickly and can't be dismissed. |
 | **B** | *Fascinate* | WSC | — | 2 | Neg. | Charms one creature at casting time 2, save negates, and it obeys requests unless a 3d6 roll exceeds Appearance. Works like charm person but less reliable. Illusionist. |
 | **B** | *Fire Shuriken* | WSC | Kara-Tur | 3 | None | Hurls fire shuriken at 60 yards for 2d8 fire damage on a hit, no save, plus a -2 smoke penalty. Casting time 3, one missile before 7th level. |
@@ -65,9 +65,9 @@
 | **B** | *Footsteps of the Quarry* | D&P | Dark Sun | 2 | None | Names a quarry who passed within the last 24 hours and shows their footprints for 1 hour per level, at casting time 2. Strong tracking utility. Dark Sun. |
 | **B** | *Ghoul Touch* | CWH, WSC | — | 2 | Special | Touch paralyzes humans, dwarves, gnomes, half-elves and halflings for 1d6+2 rounds unless saved, and nauseates those within 10 feet. Necromancers only, humanoid targets only. |
 | **B** | *Hornung's Baneful Deflector*\* | ToM, WSC | — | 2 | None | Shields one creature for 2 rounds per level, sending each single missile or magic missile at a random target within 15 feet. Does nothing against area effects. |
-| **B** | *Levitate* 📖 | **PHB**, WSC | — | 2 | Negate | Lifts the caster or one subject up to 100 pounds per level at only 2 per round, no horizontal movement. Situational but solves pits, cliffs and chasms. |
+| **B** | *Levitate* | **PHB**, WSC | — | 2 | Negate | Lifts the caster or one subject up to 100 pounds per level at only 2 per round, no horizontal movement. Situational but solves pits, cliffs and chasms. |
 | **B** | *Lightning Strike* | Dr203, WSC | — | 2 | ½ | Casting time 2 bolt of 1d6 per two levels, capped at 5d6, save for half, forking to 2 targets. Reliable damage but outclassed by lightning bolt. |
-| **B** | *Locate Object* 📖 | **PHB**, WSC | — | 2 | None | Finds a known object within 20 yards per level, blocked by lead. Works only with an accurate mental image, and cannot find creatures. Reverse hides objects. |
+| **B** | *Locate Object* | **PHB**, WSC | — | 2 | None | Finds a known object within 20 yards per level, blocked by lead. Works only with an accurate mental image, and cannot find creatures. Reverse hides objects. |
 | **B** | *Maximilian's Earthen Grasp* | ToM, WSC | — | 2 | Special | A target held in place suffers -2 to AC and attacks and moves 0, with a save each round. Arm has AC 5 and breaks if damaged. Needs open turf. |
 | **B** | *Melf's Acid Arrow* | **PHB**, WSC | — | 2 | Special | Fires at 180 yards for 2d4 acid damage, plus another 2d4 each extra round per 3 levels. No save, but low damage for a slot. |
 | **B** | *Mist Magic* | HHK, WSC | FR | 2 | None | Mobile mist at 20'/round with no save, in a radius of 20 ft. plus 10 ft. per level. Like fog cloud, but it can follow the caster. |
@@ -171,7 +171,7 @@
 | **C** | *Magic Mouth* | **PHB**, WSC | — | 2 | None | Speaks a message of 25 words or less when a visual or audible trigger occurs. Good for guards and tricks, but it does no harm. |
 | **C** | *Mimicry* | WSC | — | 2 | Special | Mimics any known animal call or voice for 2 rounds per level. Listeners who actively disbelieve save. Useful for ruses but not a combat spell. |
 | **C** | *Mind Mantle* | WSC | — | 2 | None | Touch shields one being against mind reading and influencing spells of 5th level or less for 1 turn per level, no save. Alhoon only. |
-| **C** | *Misdirection* 📖 | **PHB**, WSC | — | 2 | Negate | Fools one detection spell for 8 hours if its caster fails a save. Useful for secrets, but it does not stop ESP or other divination. |
+| **C** | *Misdirection* | **PHB**, WSC | — | 2 | Negate | Fools one detection spell for 8 hours if its caster fails a save. Useful for secrets, but it does not stop ESP or other divination. |
 | **C** | *Mordenkainen's Encompassing Vision* | WSC | Greyhawk | 1 rd. | None | Grants 360 degree vision for 1 hour per level, so the subject cannot be surprised from the rear. Also a -2 penalty against gaze attacks. |
 | **C** | *Nahal's Nonsensical Nullifier*\* | ToM, WSC | — | 2 | None | Touch spell that gives random results to know alignment, detect evil and detect lie for 1d6 rounds plus 1 round per level. Cheap intrigue cover, like misdirection. Wild mage. |
 | **C** | *Nature Call* | WSC | — | 2 | None | Summons 1d10 small animals or one wolf-sized animal to fight for 3 rounds plus 1 round per level. They refuse natural predators. Witch or song mage only. |
@@ -223,7 +223,7 @@
 | **C** | *Warp Sense* | PWH, WSC | Planescape | 3 | Special | Detects gates and portals along a 60-foot path with casting time 3. Each follow-up question needs its own save. Planar travelers only. |
 | **C** | *Waves of Weariness - Lvl 2* | WSC | FR | 2 | Special | Save negates, then a creature under 12 Intelligence and Wisdom collapses for a round, and a smarter one attacks last. Weaker than a real control spell. |
 | **C** | *Whip* | WSC | Greyhawk, Kara-Tur | 2 | Special | A force whip lasting 1 round per level that can disarm on a 13 or better on a 20-sided die, with a save. Wu jen only, and a poor weapon. |
-| **C** | *Whispering Wind* 📖 | **PHB**, WSC | — | 2 | None | Sends a message of up to 25 words up to one mile per level, delivered whether or not anyone is present. Handy but far from combat. |
+| **C** | *Whispering Wind* | **PHB**, WSC | — | 2 | None | Sends a message of up to 25 words up to one mile per level, delivered whether or not anyone is present. Handy but far from combat. |
 | **C** | *Wings* | WSC | FR | 2 | Neg. | Gives wings for 3 rounds at MV 21 only to winged beings, others must pass Dexterity checks or tumble. Too short and clumsy to be flight. |
 | **C** | *Wizard Lock* | **PHB**, WSC | — | 2 | None | A permanent lock covering 30 sq. ft. per level, opened only by the caster, knock, dispel magic or a wizard four or more levels higher. |
 | **C** | *Zala's Lifeforce Guardian* | WSC | — | 1 rd. | None | A willing target gets an unmodified save vs. death magic against energy drain, magic jar or finger of death. Rare protection, and the double costs hit points when destroyed. |

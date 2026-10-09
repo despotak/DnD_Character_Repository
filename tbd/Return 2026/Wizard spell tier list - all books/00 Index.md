@@ -18,7 +18,7 @@
 - **Not included**, because the wiki list leaves them out: the WSC's cantrips and its psionic enchantments. *Karsus's avatar* is listed on the wiki at 1st level but is a 12th-level Netherese spell, so it is left out too.
 - **The PHB spells keep the tiers in `Wizard spell tier list.md`**, which are checked against the book itself. That file remains the campaign-legal view, since Panagiotis's table is PHB only. The other spells were ranked against those PHB tiers as fixed anchors, so the two files agree.
 - **Setting** comes from the source book, or from the WSC's own rarity note ("Very rare spell from the Forgotten Realms setting", "Uncommon or rare spell (WoG)" and so on). Blank means core or no setting given. Setting-bound and kit-restricted spells are ranked as if the caster qualifies, and the note says what the restriction is.
-- **U** means the text is too thin or garbled to judge. \* after a name marks a wild-magic spell. **PHB** in bold marks a *Player's Handbook* spell. 📖 marks one in the bladesinger's book.
+- **U** means the text is too thin or garbled to judge. \* after a name marks a wild-magic spell. **PHB** in bold marks a *Player's Handbook* spell.
 - **Every digit in a note appears in that spell's text**, checked by script for all 2,509 notes.
 
 | Tier | Meaning |

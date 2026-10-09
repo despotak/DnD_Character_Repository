@@ -8,12 +8,12 @@
 | Tier | Spell | Source | Setting | CT | Save | Why |
 |:--:|---|---|---|:--:|:--:|---|
 | **S** | *Cloudkill* | **PHB**, WSC | — | 5 | Special | Slays anything under 4+1 Hit Dice with no save. Weaker foes die outright, and it wipes out nests. Casting time 5. |
-| **S** | *Hold Monster* 📖 | **PHB**, WSC | — | 5 | Negate | Immobilizes one to four creatures of any type, with a –3 save penalty on a single target. It ends a fight outright. |
-| **S** | *Teleport* 📖 | **PHB**, WSC | — | 2 | None | Casting time 2, no save and unlimited distance. Carries 250 pounds plus 150 per level over 10th. Risk is real if the place is not well known. |
+| **S** | *Hold Monster* | **PHB**, WSC | — | 5 | Negate | Immobilizes one to four creatures of any type, with a –3 save penalty on a single target. It ends a fight outright. |
+| **S** | *Teleport* | **PHB**, WSC | — | 2 | None | Casting time 2, no save and unlimited distance. Carries 250 pounds plus 150 per level over 10th. Risk is real if the place is not well known. |
 | **S** | *Wall of Force* | **PHB**, WSC | — | 5 | None | Invisible barrier for 1 turn + 1 rd./level that nothing but disintegrate can break. It stops spells and breath weapons. The 5,000 gp diamond hurts. |
 | **A** | *Caddelyn's Catastrophe* | PftM, WSC | FR | 5 | Special | A fumble for 1d4 creatures at 10 yards/level. A successful save still leaves them slowed, and a failure drops weapons and ruins spellcasting. Save penalty up to -3. |
 | **A** | *Chaos* | **PHB**, WSC | — | 5 | Special | Confusion on 1d4 creatures plus one per level. No saves for most monsters and a 2 point penalty for those who do get one. |
-| **A** | *Cone of Cold* 📖 | **PHB**, WSC | — | 5 | ½ | Reliable damage of 1d4+1 per level with a half save and no damage cap. Casting time 5 means it can be interrupted. |
+| **A** | *Cone of Cold* | **PHB**, WSC | — | 5 | ½ | Reliable damage of 1d4+1 per level with a half save and no damage cap. Casting time 5 means it can be interrupted. |
 | **A** | *Death Smoke* | AQ, WSC | Al-Qadim | 5 | ½ | A 20-ft. radius cloud doing 6d4 per round, half on a save, that wind cannot move and that blinds foes. Duration 1d4+1 rds. |
 | **A** | *Domination* | **PHB**, WSC | — | 5 | Neg. | Takes over one person for as long as the link lasts, with only a –2 penalty to the save. Elves resist it and self-destructive orders fail. |
 | **A** | *Ethereal Banishment* | WSC | FR | 1 | Neg. | Casting time 1 sends one creature to the Ethereal Plane for 1 turn/level, save negates, with no Hit Dice limit. It removes a single big threat for the fight. |
@@ -72,8 +72,8 @@
 | **B** | *Ragestorm* | D&P | Dark Sun | 1 round | ½ | Storm of 4d8 damage in a 10-foot radius per level for 5 rounds, save for half. Casting time 1 round. Dark Sun spell. |
 | **B** | *Razorfangs* | CotD, WSC | FR | 5 | Special | Dragon only. Bite damage rises by +2 per age category, and a roll of 19 or 20 severs a limb. A failed save vs. death takes the head. |
 | **B** | *Rusting Grasp* | S&M, WSC | — | 5 | Special | Touch destroys metal weapons and armor on a failed item save, and cuts armor AC by 2d4. Brutal against knights and rust-dependent foes, useless against the unarmored. |
-| **B** | *Seeming* 📖 | **PHB**, WSC | — | 5 | None | Disguises one person per two levels for 12 hours with no save for willing targets. Strong for infiltration, but it cannot copy a specific individual. |
-| **B** | *Sending* 📖 | **PHB**, WSC | — | 1 turn | None | Contacts one known creature at unlimited range for a 25 word message and reply. Casting takes 1 turn but gets through on the same plane. |
+| **B** | *Seeming* | **PHB**, WSC | — | 5 | None | Disguises one person per two levels for 12 hours with no save for willing targets. Strong for infiltration, but it cannot copy a specific individual. |
+| **B** | *Sending* | **PHB**, WSC | — | 1 turn | None | Contacts one known creature at unlimited range for a 25 word message and reply. Casting takes 1 turn but gets through on the same plane. |
 | **B** | *Shadow Dragon* | CotD, WSC | FR | 1 rd. | None | Dragon only. Becomes shadow for 1 turn/level, immune to normal weapons and most spells, but light spells deal 1d6 per spell level each round. Casting takes 1 rd. |
 | **B** | *Shadow Magic* | **PHB**, WSC | — | 5 | Special | Casts a quasi-real 3rd-level evocation such as fireball. A creature that saves against the illusion takes only 20% of the damage, so it is unreliable. |
 | **B** | *Shandaril's Tracer* | PftM, WSC | FR | 1 round | None | Permanent rune on an item up to 1 cubic foot gives direction and distance, even across planes, and a focus for teleport. Casting time 1 round. |
@@ -101,7 +101,7 @@
 | **C** | *Articus's Devolutionary Warrior* | WSC | Chronomancer | 5 | Neg. | Gives a fighter 1d6 in Strength, Dexterity and Constitution but costs 3d6 mental stats, with system shock at the end. Casting time 5. Chronomancer only. |
 | **C** | *Bestow Enchantment* | WSC | — | As spell bestowed +1 | None | Touch lets another creature use a personal spell such as alter self as if they had cast it. Casting time is the bestowed spell +1. Enchanter only. |
 | **C** | *Bigby's Fantastic Fencers* | WSC | Greyhawk | 5 | None | One sword hand per three levels, each fighting as a fighter of half the caster's level, AC 2, 15 points of damage. A 1,000 gp amulet is consumed. |
-| **C** | *Bigby's Interposing Hand* 📖 | **PHB**, WSC | — | 5 | None | Gives cover against one chosen foe and slows anything under 2,000 pounds trying to pass. Casting time 5 and it does not damage the enemy. |
+| **C** | *Bigby's Interposing Hand* | **PHB**, WSC | — | 5 | None | Gives cover against one chosen foe and slows anything under 2,000 pounds trying to pass. Casting time 5 and it does not damage the enemy. |
 | **C** | *Bigby's Superior Force Sculpture* | WSC | Greyhawk | 1 rd. | None | Shapes 8 cubic feet of rigid force per level for 3 turns +1 turn/level. Casting time 1 rd. Handy for bridges and tools, but it has no combat use. |
 | **C** | *Blastcloak* | WSC | — | 5 | None | Returns fire spells and even meteor swarm at the source for 1 turn +1 turn/level. Casting time 5 and it blocks nothing but fire. Phaerimm only. |
 | **C** | *Bone Blight* | CBN | — | 5 | Neg. | A save-negates curse that kills in days, with 60% of hit points lost mid-term. Too slow for combat, and dispel magic or remove curse ends it. |
@@ -114,7 +114,7 @@
 | **C** | *Chromatic Blade - Lvl 5* | PftM, WSC | FR | — | — | A +1 sword with no damage bonus that does 2d4 and can sever limbs. It shatters against +3 armor, and the damage is a poor offer at this level. |
 | **C** | *Conduit* | CBE, WSC | — | 5 | None | Stores up to 5 spells of 4th level or less in missiles, for an hour at most. Casting time 5 plus each stored spell makes it slow. Elves. |
 | **C** | *Conjure Nightmare* | WSC | — | 5 | None | Summons a nightmare for 1 hr. +4d6 turns, but it only serves evil tasks willingly and must be bribed with 200 gp of platinum. Conjure elemental is stronger. |
-| **C** | *Contact Other Plane* 📖 | **PHB**, WSC | — | 1 turn | None | Answers one question per two levels with only yes or no replies. Risk of insanity starts at 20% even for the safest plane. |
+| **C** | *Contact Other Plane* | **PHB**, WSC | — | 1 turn | None | Answers one question per two levels with only yes or no replies. Risk of insanity starts at 20% even for the safest plane. |
 | **C** | *Create Talisman of Hishna* | WSC | Maztica | 3 - 18 months | None | Months of work, 3-18 months, to build one hishna item such as fire peppers. It is item crafting for Maztica, weak next to ordinary adventuring spells. |
 | **C** | *Create Talisman of Pluma* | WSC | Maztica | 1 year +3d6 months | None | Takes 1 year +3d6 months to make one pluma item, such as bands of might that raise Strength. Item crafting for Maztica, restricted to its practitioners. |
 | **C** | *Creeping Darkness* | WSC | Kara-Tur | 5 | None | A small shaped cloud of blackness that blocks sight and sound for 3 rds./level. Concentration is needed to move it and wind shrinks it. Wu jen. |
@@ -244,7 +244,7 @@
 | **D** | *Enhance Maneuverability* | WSC | — | 5 | None or Neg. | Raises a spelljamming ship's maneuverability class by one for 1d4 rounds + 1 rd./level. Useful only in Spelljammer, and the reverse is the same trick. |
 | **D** | *Erdlu Egg* | Dr197, WSC | Dark Sun | 2 turns | None | Turns one old sand-filled erdlu egg into a fresh edible egg for 1 day. Casting time 2 turns makes it a Dark Sun food trick. |
 | **D** | *Facet* | WSC | Birthright | 1 turn | Special | Doubles a gem's value, but the gem must pass a crushing blow save and pieces over 25,000 gp are immune. Pure cash, with a risk of ruin. |
-| **D** | *False Vision* 📖 | **PHB**, WSC | — | 5 | None | Blocks scrying inside 30 ft. only if the caster knows of the attempt. Material component is an emerald dust worth 500 gp. |
+| **D** | *False Vision* | **PHB**, WSC | — | 5 | None | Blocks scrying inside 30 ft. only if the caster knows of the attempt. Material component is an emerald dust worth 500 gp. |
 | **D** | *Familiar Enhancer IV* | Dr181, WSC | — | 72 hrs. | None | A research process needing 72 hrs. per step and DM approval, with no stated mechanical powers. It improves a familiar's personality more than it helps the caster. |
 | **D** | *Far Reaching III* | ToM, WSC | — | 5 | None | Raises the range of 1st through 3rd-level spells by 150% and 4th or 5th-level spells by 50%. A slot spent only to stretch other spells. |
 | **D** | *Feign Undead* | WSC | Ravenloft | 5 | None | The target looks like a zombie and gains immunity to paralysis and poison for 1 turn +1 rd./level. Mostly a disguise, and it needs a Ravenloft powers check there. |

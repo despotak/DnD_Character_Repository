@@ -7,27 +7,27 @@
 
 | Tier | Spell | Source | Setting | CT | Save | Why |
 |:--:|---|---|---|:--:|:--:|---|
-| **S** | *Magic Missile* 📖 | **PHB**, WSC | — | 1 | None | Unerring 1d4+1 damage per missile, no save, casting time 1, gaining a missile every two levels up to five at 9th. It also works into melee. |
-| **S** | *Sleep* 📖 | **PHB**, WSC | — | 1 | None | No save, casting time 1, affects 2d4 Hit Dice of creatures within 30 feet and ignores those with 4+3 Hit Dice or more. Ends encounters at low level. |
+| **S** | *Magic Missile* | **PHB**, WSC | — | 1 | None | Unerring 1d4+1 damage per missile, no save, casting time 1, gaining a missile every two levels up to five at 9th. It also works into melee. |
+| **S** | *Sleep* | **PHB**, WSC | — | 1 | None | No save, casting time 1, affects 2d4 Hit Dice of creatures within 30 feet and ignores those with 4+3 Hit Dice or more. Ends encounters at low level. |
 | **A** | *Armor* | **PHB**, WSC | — | 1 rd. | None | AC 6 for an unarmored mage, lasting until dispelled or until cumulative damage passes 8 points plus 1 per level. Cast it in the morning and it covers most of the day. |
 | **A** | *Charm Person* | **PHB**, WSC | — | 1 | Neg. | Casting time 1 at 120 yds. One man-size person saves or treats you as a trusted friend, rechecking by Intelligence. Wins fights and negotiations, though ogres are immune. |
 | **A** | *Circle* | Spellbound, WSC | FR | Special | None | Red Wizard circle adds apprentices' levels to the caster's spell slots, up to 30th level. Apprentices lose their spells and casting takes rounds, but the slot gain is huge. |
 | **A** | *Color Spray* | **PHB**, WSC | — | 1 | Special | Affects 1d6 creatures at casting time 1 and knocks out those at or below the caster's level for 2d4 rounds. Strong early, but 6 Hit Dice foes save. |
-| **A** | *Detect Magic* 📖 | **PHB**, WSC | — | 1 | None | Scans a 10 by 60 ft. path for 2 rounds per level, no save. It sorts loot and flags magical traps and wards before anyone touches them. |
+| **A** | *Detect Magic* | **PHB**, WSC | — | 1 | None | Scans a 10 by 60 ft. path for 2 rounds per level, no save. It sorts loot and flags magical traps and wards before anyone touches them. |
 | **A** | *Empathic Seizure* | WSC | — | 1 | Neg. | Casting time 1 holds one creature of 6 Hit Dice or less on a failed save until the caster is hurt or stops concentrating. Hits charm-immune elves too. |
 | **A** | *Grease* | **PHB**, WSC | — | 1 | Special | A 10 by 10 ft. slippery patch, save or fall, rechecked each round for 3 rounds plus 1 per level. It hits the area and can grease weapons. |
 | **A** | *Minor Quest* | WSC | — | 1 | Neg. | Sends 12 levels or Hit Dice of humanoids on an errand in a 50-ft. sphere for up to 6 hrs. Ends fights, but witch only and risky errands auto-save. |
 | **A** | *Nystul's Flash* | WSC | Greyhawk | 1 | Special | Casting time 1, 10-ft. radius flash. Those failing the save are blinded for 1d4 rounds, and the rest suffer -2 to hit and are hit at +2. Strong crowd control. |
 | **A** | *Phantasmal Force* | **PHB**, WSC | — | 1 | Special | Visual illusion of any object in 400 sq. ft. plus 100 per level at casting time 1. Powerful but relies on DM adjudication, and ends when struck. |
 | **A** | *Protection from Evil* | **PHB**, WSC | — | 1 | None | Casting time 1. Evil attackers take -2 to hit and the target saves at +2, and summoned or conjured creatures cannot touch the target at all. Lasts 2 rounds per level. |
-| **A** | *Read Magic* 📖 | **PHB**, WSC | — | 1 rd. | None | Casting time 1 round, 2 rounds per level, and reading a writing once lets you reread it freely. Without it, a mage cannot use found scrolls or spellbooks. |
-| **A** | *Shield* 📖 | **PHB**, WSC | — | 1 | None | Negates magic missile, grants AC 2 to 4 against attacks from the front for 5 rounds per level at casting time 1. Strong defence that matters in every fight. |
+| **A** | *Read Magic* | **PHB**, WSC | — | 1 rd. | None | Casting time 1 round, 2 rounds per level, and reading a writing once lets you reread it freely. Without it, a mage cannot use found scrolls or spellbooks. |
+| **A** | *Shield* | **PHB**, WSC | — | 1 | None | Negates magic missile, grants AC 2 to 4 against attacks from the front for 5 rounds per level at casting time 1. Strong defence that matters in every fight. |
 | **A** | *Undead Servant* | Dr167, CotD, WSC | FR | 1 turn | None | Animates a skeleton or zombie for 1 hour plus 1 turn per level, no save, obeying simple commands. A cheap bodyguard for necromancers, who need a corpse. |
 | **B** | *Alarm* | **PHB**, WSC | — | 1 rd. | None | Wards a 20-ft. cube for 4 hrs. plus half an hour per level, so the party can sleep safely. It rings for anything bigger than a rat. |
 | **B** | *Arrowflight* | WSC | Maztica | 1-6 rd. | None | Doubles range for up to 3 archers per level and adds +1 damage per arrow hit for 3 turns per level. Casting takes 1-6 rounds, and it needs pluma magic. |
 | **B** | *Burning Hands* | **PHB**, WSC | — | 1 | ½ | Deals 1d3 plus 2 per level in a 5-foot fan, save for half. The range is too short for a fragile mage, so magic missile is safer. |
 | **B** | *Chameleon* | WSC | Kara-Tur | 1 round | None | Touched creature blends in for 2 rounds per level. Beyond 30 feet it cannot be spotted and missile attackers take -4. Casting time is 1 round. |
-| **B** | *Change Self* 📖 | **PHB**, WSC | — | 1 | None | Changes appearance for 2d6 rounds plus 2 per level, but touch reveals the ruse and it gives no abilities. Useful for infiltration, weaker than longer disguises later. |
+| **B** | *Change Self* | **PHB**, WSC | — | 1 | None | Changes appearance for 2d6 rounds plus 2 per level, but touch reveals the ruse and it gives no abilities. Useful for infiltration, weaker than longer disguises later. |
 | **B** | *Chill* | Dr229 | — | 1 | Negates | One target within 30 feet moves at half speed with -2 on attack and damage rolls for 2-5 rounds, save negates. Casting time 1 makes this a cheap debuff. |
 | **B** | *Chromatic Orb* | CWH, WSC | — | 1 | Negate | Orb needs a hit roll and a save negates, but damage grows from 1-4 to 1-12. At 7th level it paralyzes, at 9th it kills. Needs a 50 gp gem. |
 | **B** | *Command Undead* | CotD, WSC | FR | 1 | None | Controls undead like an evil priest of the same level for 1 hr. plus 1 turn per level, 2d6 on success. One try per encounter and necromancers only. |
@@ -39,12 +39,12 @@
 | **B** | *Disguise - Hishna* | WSC | Maztica | 1 turn | Special | Self-only disguise of general appearance lasting 1 day, no save for strangers. Far longer than change self, but takes 1 turn and acquaintances save. |
 | **B** | *Drowsy Insects* | WSC | Kara-Tur | 1 round | Neg. | Creatures in a 5-ft. cube per level sleep 2d6 rounds on a failed save vs. poison, with no Hit Dice cap. Casting takes 1 round, so ambush only. |
 | **B** | *Expeditious Retreat* | S&M, WSC | — | 1 | None | Triples movement for 3 rounds plus 1 per level and allows a 15-foot leap. Excellent escape, but the caster can do nothing but run while it lasts. |
-| **B** | *Feather Fall* 📖 | **PHB**, WSC | — | 1 | None | Casting time 1 and verbal only, so it saves a plummeting party from falls. Weight limit is 200 pounds plus 200 per level and it lasts 1 round per level. |
+| **B** | *Feather Fall* | **PHB**, WSC | — | 1 | None | Casting time 1 and verbal only, so it saves a plummeting party from falls. Weight limit is 200 pounds plus 200 per level and it lasts 1 round per level. |
 | **B** | *Find Familiar* | **PHB**, WSC | — | 2d12 hours | Special | Casting takes 2d12 hours and 1,000 gp of incense. If the familiar dies, the wizard rolls system shock or dies, and loses 1 Constitution either way. |
 | **B** | *Frost Fingers* | PftM, WSC | FR | 1 | ½ | Cold twin of burning hands: 1d3 plus 2 per level, cap 20, in a short arc, save for half. Range of 3 feet keeps a mage in danger. |
 | **B** | *Gemidan's Icicle* | CoS, WSC | FR | 1 | None | Magic-missile-style bolt at 20 yards per level for 1d4, 2d4 against fire foes. Can blind or spoil casting for one round. Restricted to Khelben's circle. |
 | **B** | *Hail of Stone* | WSC | Kara-Tur | 1 round | None | Rain of stones over 5 square feet per level, 1d3 per level up to 10d3, no save, range 120 yards. Needs attack rolls at the mage's poor THAC0. |
-| **B** | *Identify* 📖 | **PHB**, WSC | — | Special | None | Takes eight hours of preparation, a 100 gp pearl, and costs 8 Constitution. Chance is 10% per level, so it is slow and costly until higher level. |
+| **B** | *Identify* | **PHB**, WSC | — | Special | None | Takes eight hours of preparation, a 100 gp pearl, and costs 8 Constitution. Chance is 10% per level, so it is slow and costly until higher level. |
 | **B** | *Ladder* | WSC | FR | 1 | None | Force ladder up to 60 feet long, anchored, for 1 turn. It crosses pits and chasms at casting time 1, and no check is needed to climb it. |
 | **B** | *Laeral's Dancing Whip* | WSC | FR | 1 | Special | Free attacker that strikes twice a round at THAC0 10 for 1d3+1, no concentration needed. A save per attack cuts a hit to 1 point. Seven Sisters and Harpers only. |
 | **B** | *Light* | **PHB**, WSC | — | 1 | Special | Torchlight in a 20-ft. radius for 1 turn per level, no save on objects. Cast on a creature's eyes it blinds, a -4 penalty, but they get a save. |
@@ -84,7 +84,7 @@
 | **C** | *Chill Touch* | **PHB** | — | 1 | Neg. | Needs a melee touch, then the victim saves or takes 1d4 and loses 1 Strength. Undead that fail their save flee. Low damage keeps it behind shocking grasp. |
 | **C** | *Claws of Velsharoon* | P&P | FR | 1 per claw | None | Animates 1 crawling claw per level from severed limbs, permanently, at casting time 1 per claw. Total claws cannot exceed caster level, and each claw is weak. |
 | **C** | *Cloud Messenger* | Dr226 | — | 1 | None | Needs cloud cover. A cloud carries a message of up to five minutes, plus 10 pounds of cargo, at Move 96. It is a slow, weather-bound courier. |
-| **C** | *Comprehend Languages* 📖 | **PHB**, WSC | — | 1 rd. | None | Reads unknown writing at one page per round, lasting 5 rounds per level. Casting time is 1 round, so it solves puzzles and maps but not magical script. |
+| **C** | *Comprehend Languages* | **PHB**, WSC | — | 1 rd. | None | Reads unknown writing at one page per round, lasting 5 rounds per level. Casting time is 1 round, so it solves puzzles and maps but not magical script. |
 | **C** | *Conjure Spell Component* | ToM, WSC | — | 1 | None | Teleports 3 natural components per level, each under 1 gp, from up to 1 mile per level. It never works for gems and metal, and animal parts are risky. |
 | **C** | *Control Vapor* | WSC | — | 1 | Special | Moves gas at rate 6 or makes a 30-ft. vapor-free bubble for 1 turn. It answers stinking cloud and breath weapons, but gaseous creatures save. |
 | **C** | *Cool* | WSC | Maztica | 1 turn | None | Pluma only. Reduces fire or heat damage by 1 point per die and ends desert heat penalties for 4 hrs./level. Casting takes 1 turn, so it is prepared travel cover. |
@@ -127,7 +127,7 @@
 | **C** | *Hypnotism* | **PHB**, WSC | — | 1 | Negate | Affects 1d6 creatures with a suggestion after a save, with a -2 penalty against a creature meeting your gaze. It is weaker than charm person for a single target. |
 | **C** | *Ignite Flame* | WSC | FR | 1 | Neg. | Starts a small flame at 10 yards that deals 1d3 per round for 3 rounds and burns oil or paper. A save negates, but damage is small. |
 | **C** | *Immunity to Adherence* | WSC | — | 3 | None | Casting time 3. Lets one creature ignore webs, viscid globs and roper strands for 1 round per level. Great against spiders, nothing else, and restricted to drow. |
-| **C** | *Jump* 📖 | **PHB**, WSC | — | 1 | None | Gives one leap per round of 30 feet forward or up for 1d3 rounds plus 1 per level. Useful to cross gaps, but it does not make landing safe. |
+| **C** | *Jump* | **PHB**, WSC | — | 1 | None | Gives one leap per round of 30 feet forward or up for 1d3 rounds plus 1 per level. Useful to cross gaps, but it does not make landing safe. |
 | **C** | *Know Weight* | WSC | — | 1 | None | Reads weight up to 1,000 lbs. at 1st level, or tests whether a bridge or person can bear a load. Clever for checking bridges, but narrow. |
 | **C** | *Kreshenk's Shadow Mask* | Dr261 | — | 1 | None | Hides the caster's face for 1 hour per level and grants +4 against gaze attacks. Good for disguise and crime, but it does not change the rest of the body. |
 | **C** | *Lasting Breath* | ToM, WSC | — | 1 | None | Adds 1d4 rounds plus 1 round per level to breath-holding for one creature per level. Useful for a swim, but nobody knows when it ends. |
@@ -135,7 +135,7 @@
 | **C** | *Little Bird* | WSC | — | 1 | None | Moves one object up to 1 lb. per level at movement 6 for 1 turn plus 1 per level. A labour-saver and diversion, with a throw doing at most 1d3. |
 | **C** | *Living Link* | WSC | — | 2 | None | Shares one sense of a living target for 1 round per level, no save. Good scouting, but it overrides your own senses and cannot steer the target. |
 | **C** | *March* | WSC | — | 1 | None | Lets an encumbered person walk at normal rate for 1 hr. per level with no fatigue. Good for hauls, but it ends if they stop over one round. |
-| **C** | *Message* 📖 | **PHB**, WSC | — | 1 | None | Whispered conversation with up to one creature per level at 30 feet plus 10 per level, 5 rounds per level. Silent signalling for a coordinated group. |
+| **C** | *Message* | **PHB**, WSC | — | 1 | None | Whispered conversation with up to one creature per level at 30 feet plus 10 per level, 5 rounds per level. Silent signalling for a coordinated group. |
 | **C** | *Metamorphose Liquids* | ToM, WSC | — | 1 round | Special | Changes liquid into a different nonmagical fluid permanently, 1' cube per level. Purifies water or poison, but magical liquids save at +3 and casting takes 1 round. |
 | **C** | *Mount* | **PHB**, WSC | — | 1 turn | None | Conjures a mule or light horse at 1st to 3rd level for 2 hours plus 1 per level, vanishing after. Casting takes 1 turn, so it only helps with travel. |
 | **C** | *Murdock's Feathery Flyer* | ToM, WSC | — | 1 | None | Lets the caster glide 5 feet horizontally per foot of height, movement 12, for 1 turn per level. Handy escape from a wall or cliff, but it is not flight. |
@@ -165,7 +165,7 @@
 | **C** | *Sound Bubble* | WSC | — | 1 | None | Casting time 1. No sound passes a bubble of 10 ft. radius around the caster, or 5 feet per level when placed. Bards only. |
 | **C** | *Spearflight* | WSC | Maztica | 1d6 rds. | None | Casting time 1d6 rds. Doubles range and adds +1 per die of damage for 3 spear throwers per level, for 3 turns per level. Only helps spearmen. Pluma mages. |
 | **C** | *Spectral Ears* | Dr167, CotD, WSC | FR | 1 | None | Hear through a skeleton or zombie for 1 turn per level and give it four-word orders. A neat scout for necromancers, but needs undead already standing nearby. |
-| **C** | *Spider Climb* 📖 | **PHB**, WSC | — | 1 | Negate | Climb walls and ceilings at movement 6 for 3 rounds plus 1 per level, but items under a pound stick to the hands, so casting is impossible. |
+| **C** | *Spider Climb* | **PHB**, WSC | — | 1 | Negate | Climb walls and ceilings at movement 6 for 3 rounds plus 1 per level, but items under a pound stick to the hands, so casting is impossible. |
 | **C** | *Spidereyes* | Drow, PftM, WSC | FR | 1 | None | See through any normal or giant arachnid within 60 yards for 1 round per level. Cheap scouting, but the spider is uncontrolled and the spell lasts only a few rounds. |
 | **C** | *Spirit of Servitude* | Glantri | Mystara | 1 | None | Works like unseen servant but glows, which hurts stealth. Same 30-foot radius and 1 hour plus 1 turn per level, so it is a worse unseen servant. |
 | **C** | *Spirit Servant* | WSC | Mystara | 1 | None | A glowing unseen servant for 1 hr. plus 1 turn per level. Same chores as the PHB spell, but visible, so it ranks below unseen servant. |
@@ -268,7 +268,7 @@
 | **D** | *Locate Remains* | CBN, WSC | — | 1 round | None | Finds corpses and corporeal undead in a 10 ft. wide path, one round per scan. Narrow necromancer utility, and ghosts and spectres go unseen. |
 | **D** | *Masque Mask* | WSC | — | 1 | None | Blurs the caster's face for only 2 or 3 rounds, with no control over which. Drow identity hiding, and true seeing beats it. |
 | **D** | *Melt* | WSC | Kara-Tur | 1 | Special | Melts 1 cubic yard of ice or 2 of snow per level over 1 rd. per level. Damage 2 per level only hits white dragons, yeti and other cold creatures. |
-| **D** | *Mending* 📖 | **PHB**, WSC | — | 1 | None | Repairs small breaks, 1 cubic foot per level, permanent after one turn. Handy for chains and broken gear, but rarely worth a slot. |
+| **D** | *Mending* | **PHB**, WSC | — | 1 | None | Repairs small breaks, 1 cubic foot per level, permanent after one turn. Handy for chains and broken gear, but rarely worth a slot. |
 | **D** | *Moonglow* | WSC | FR | 1 | Neg. (see below) | Lights one man-sized item with faint radiance, 10-ft. radius, for 1 rd. per level. It cannot show an invisible foe and is too dim to read by. |
 | **D** | *Mordenkainen's Protection from Avians* | WSC | Greyhawk | 1 | None | Gives -2 to hit for avians totaling no more than 15 Hit Dice for 5 rds. per level. A one-monster-type ward that fails if more attack. |
 | **D** | *Mournful Mutter* | GEP | Planescape | 1 | Neg. | Works only on the Ethereal Plane. A failed save gives -2 to all actions for 1 turn per level, a narrow penalty with no other effect. |

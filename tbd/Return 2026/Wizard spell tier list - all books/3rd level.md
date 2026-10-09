@@ -7,26 +7,26 @@
 
 | Tier | Spell | Source | Setting | CT | Save | Why |
 |:--:|---|---|---|:--:|:--:|---|
-| **S** | *Dispel Magic* 📖 | **PHB**, WSC | — | 3 | None | The answer to charm, hold, haste and traps in a 30-ft. cube at range 120 yds. The base chance is 50%, rising with caster level. No save. |
+| **S** | *Dispel Magic* | **PHB**, WSC | — | 3 | None | The answer to charm, hold, haste and traps in a 30-ft. cube at range 120 yds. The base chance is 50%, rising with caster level. No save. |
 | **S** | *Fireball* | **PHB**, WSC | — | 3 | ½ | Up to 10d6 in a 20-ft. radius, half on a successful save. Range grows with level, and it ends most fights at this level of play. |
-| **S** | *Haste* 📖 | **PHB**, WSC | — | 3 | None | Doubles movement and attacks for up to one creature per caster level, with no save. It ages each recipient one year, a small price for the whole party. |
+| **S** | *Haste* | **PHB**, WSC | — | 3 | None | Doubles movement and attacks for up to one creature per caster level, with no save. It ages each recipient one year, a small price for the whole party. |
 | **A** | *Bands of Sirellyn* | S&M, WSC | — | 3 | Neg. | Holds a target for 1 turn plus 1 rd./level at a save penalty of -1 per three levels, size under G. It can be burst on a bend bars roll. |
 | **A** | *Bewilder* | WSC | — | 3 | Neg. | Up to one creature per level in a 20-ft. radius loses a round, and casters lose spells for 1 rd./level. Save negates, no stated penalty, at range 60 yds. |
 | **A** | *Calm - Witch* | WSC | — | 3 | Special | Within 70 ft. radius, foes of 5 Hit Dice or less stop attacking for 1 hr., with saves at -2 and MR down 15%. Allies can be excluded. Witches. |
 | **A** | *Entomb* | WSC | Al-Qadim | 3 | Neg. | Casting time 3, range 30 yds., 30-ft. cube: failed saves are swallowed by stone for 1 turn plus 1 rd./level. Wins an encounter. Arabian sand province. |
 | **A** | *Flashburst* | WSC | FR | 3 | Special | Range 10 yds./level, 20-ft. radius: everyone is blinded one round with no save, then a failed save blinds for 2d10 rounds at -4 to attack. Red Wizards of Thay. |
-| **A** | *Fly* 📖 | **PHB**, WSC | — | 3 | None | Grants flight at rate 18 for 1 turn/level plus 1d6 turns, with no save. It solves chasms, pursuit and escape, though the DM hides the duration. |
-| **A** | *Hold Person* 📖 | **PHB**, WSC | — | 3 | Neg. | Holds 1d4 man-sized humanoids for 2 rds./level, and a lone target saves at a -3 penalty. It fails on undead and large foes, but wins many fights. |
+| **A** | *Fly* | **PHB**, WSC | — | 3 | None | Grants flight at rate 18 for 1 turn/level plus 1d6 turns, with no save. It solves chasms, pursuit and escape, though the DM hides the duration. |
+| **A** | *Hold Person* | **PHB**, WSC | — | 3 | Neg. | Holds 1d4 man-sized humanoids for 2 rds./level, and a lone target saves at a -3 penalty. It fails on undead and large foes, but wins many fights. |
 | **A** | *Invisibility, 10' Radius* | **PHB**, WSC | — | 3 | None | Hides everyone within 10 feet of the recipient, mobile with them, casting time 3. The whole party can sneak or retreat, which single-target invisibility cannot do. |
 | **A** | *Laeral's Raging Griffon* | WSC | FR | 3 | None | Summons a 7 HD flying griffon construct for 9 rds. that rides, scouts and attacks three times, with no save. A mount and a fighter in one slot. |
 | **A** | *Lance of Disruption* | S&M, WSC | — | 3 | ½ | A 5 x 60 ft. beam for 5d4 plus 2 per level (max 5d4+30), half on a save. Beats lightning bolt at low levels and smashes doors. |
-| **A** | *Lightning Bolt* 📖 | **PHB**, WSC | — | 3 | ½ | Does up to 10d6, half on a save, in a line 80 feet long. Fireball covers more area, but the bolt breaches doors and wood. |
+| **A** | *Lightning Bolt* | **PHB**, WSC | — | 3 | ½ | Does up to 10d6, half on a save, in a line 80 feet long. Fireball covers more area, but the bolt breaches doors and wood. |
 | **A** | *Net - Mazitica* | WSC | Maztica | 1 rd. | Neg. or 1/2 | Spider-web-like net filling up to eight 10-ft. cubes, with a -2 save penalty for those inside. It holds creatures under 13 Strength until freed. Best area control, though it burns. |
 | **A** | *Nybor's Mild Admonishment* | Spellbound, WSC | FR | 3 | Neg. | One creature that fails its save is helpless in pain for 2d4 rounds, and its saves are at -3. Hold-like, no Hit Dice limit. Thay only. |
 | **A** | *Otto's Crystal Rhythms* | WSC | Greyhawk | 3 | Neg. | A creature that fails its save drops everything and claps for 2 rds./level, so it cannot cast with somatic components or use weapons. Costs 500 gp of crystals each cast. |
 | **A** | *Paralyzation* | WSC | — | 3 | Neg. | Mass illusory paralysis on creatures totalling twice the caster's level in Hit Dice, save negates, up to one hour. Illusionists and shadow mages only, DM adjudicated. |
 | **A** | *Ray of Paralysis* | CotD, WSC | FR | 3 | Special | Target saves vs. breath weapon, then vs. paralysis at -2, or is helpless for 3d4 rounds. Ends fights, though two saves are needed. Necromancers only. |
-| **A** | *Slow* 📖 | **PHB**, WSC | — | 3 | Negate | Halves movement and attacks for one creature per caster level, with +4 AC, -4 to hit and a -4 penalty to saves. Strong against big monsters, though a save negates. |
+| **A** | *Slow* | **PHB**, WSC | — | 3 | Negate | Halves movement and attacks for one creature per caster level, with +4 AC, -4 to hit and a -4 penalty to saves. Strong against big monsters, though a save negates. |
 | **A** | *Slumber* | WSC | — | 3 | Special | One creature up to 4 HD above the caster falls into unbreakable sleep for 1 hr./level, with a -1 save penalty per four levels. Wounding won't wake it. Dream mages. |
 | **A** | *Spectral Force* | **PHB**, WSC | — | 3 | Special | An illusion with sound, smell and heat for 40-ft. cube plus 10-ft. cube/level, lasting 3 rounds after concentration ends. Powerful but it leans on DM adjudication. |
 | **A** | *Steam Blast* | Dr187, WSC | — | 3 | ½ | Does 1d6 per level to 10d6 in a 40-foot cone, half on a save. Failing a breath weapon save also means passing out for 3d4 rounds, an encounter-ending extra. |
@@ -43,7 +43,7 @@
 | **B** | *Bloodburn* | CotD | FR | 3 | Special | Boils blood for 2d4 per round for 5 rounds, ends casting, and kills oozes. Save negates, then repeated saves at -3 from round three. Touch needed. |
 | **B** | *Charm Man II* | WSC | — | 2 | Neg. | Charms 7-12 men of 3 Hit Dice or less at casting time 2 for 1d6+4 turns. Save negates once the leader fails. Female casters only. |
 | **B** | *Charm Undead* | WSC | — | 4 | Neg. | Mindless undead equal in number to caster level are charmed with no save. Necromancer only, but a free skeleton or zombie squad is strong. |
-| **B** | *Clairvoyance* 📖 | **PHB**, WSC | — | 3 | None | Scouts a known place at any distance with no saving throw, but lasts only 1 rd./level and fails against lead sheeting or magical protection. Useful for scouting, rarely memorized daily. |
+| **B** | *Clairvoyance* | **PHB**, WSC | — | 3 | None | Scouts a known place at any distance with no saving throw, but lasts only 1 rd./level and fails against lead sheeting or magical protection. Useful for scouting, rarely memorized daily. |
 | **B** | *Delay Death* | CWH, WSC | — | 1 round | None | For 1 turn per level the target keeps fighting until -10 hit points, at -2 to attacks and saves. Buys time for healing, but casting time is 1 round. |
 | **B** | *Dire Charm* | PftM, WSC | FR | 3 | Neg. | One target saves or goes berserk for 1d4 rounds plus 1 round per level, killing friend and foe. Range 120 yards, but a single person only. |
 | **B** | *Drawmij's Marvelous Shield* | WSC | Greyhawk | 3 | None | Improves AC by 2 against attacks from all sides, including behind, for 1 turn per level. Casting time 3, but a surprise attack ends it. |
@@ -81,7 +81,7 @@
 | **B** | *Proof from Teleportation* | Spellbound, PftM, WSC | FR | 2 turns | None | Blocks teleport and dimension door in a 10 yard radius per level for 2 hour/level. Gates need a save. Casting time of 2 turns limits it. |
 | **B** | *Protection from Evil, 10' Radius* | **PHB**, WSC | — | 3 | None | Extends protection from evil to everyone within 10 feet for 2 rds./level. It stops enchanted and summoned attackers well, but a party member who attacks in melee breaks it. |
 | **B** | *Protection from Normal Edged Weapons* | WSC | — | 3 | None | Total invulnerability to normal swords, axes and spears in melee for 1 turn/level, and 1 less per die from magical edged weapons or big foes. Strong tank spell. |
-| **B** | *Protection from Normal Missiles* 📖 | **PHB**, WSC | — | 3 | None | Complete immunity to normal hurled and fired missiles for 1 turn per level. Archers are a common threat, though magical missiles and spells still get through. |
+| **B** | *Protection from Normal Missiles* | **PHB**, WSC | — | 3 | None | Complete immunity to normal hurled and fired missiles for 1 turn per level. Archers are a common threat, though magical missiles and spells still get through. |
 | **B** | *Sandspray* | WSC | Al-Qadim | 3 | — | Sand erupts around one creature for 1d6 per two levels, half on a save, and even a saved target is blinded for 1d4+1 rounds, unable to cast. Al-Qadim. |
 | **B** | *Scalding Spout* | WSC | Mystara | 3 | — | Needs an attack roll at +2, then 2d6 impact and up to 10d6 heat damage, with two separate saves for half. Single target, so fireball beats it. Mystara. |
 | **B** | *Scalespray* | CotD | FR | 3 | ½ | A dragon showers a 50-foot radius for 1d6 per age category up to 10d6, save for half. Centered on the caster so it hits allies. Dragons only. |
@@ -118,7 +118,7 @@
 | **C** | *Cause Blindness or Deafness* | WSC | — | 1 rd. | Neg. | Needs a touch and a save, then inflicts -4 attack, +4 AC and +2 initiative until removed. It is permanent, but dispel does not work. Evil act, necromancers. |
 | **C** | *Chant of the Red Wizards* | WSC | FR | 1 turn | None | Gives +1 to attacks, damage and saves for allies, -1 for enemies, in 30 ft. radius, but only while the chanter stays still. Casting time 1 turn. Red Wizards. |
 | **C** | *Charmthwart* | CotD | FR | 3 | None | Gives a normal save against no-save charms and +3 on other enchantment saves for 1 round per level. Narrow, and only protects the caster. |
-| **C** | *Clairaudience* 📖 | **PHB**, WSC | — | 3 | None | Hears a known place at any distance for 1 rd./level, but only sound. Clairvoyance does the same job with sight, so this is the weaker twin. |
+| **C** | *Clairaudience* | **PHB**, WSC | — | 3 | None | Hears a known place at any distance for 1 rd./level, but only sound. Clairvoyance does the same job with sight, so this is the weaker twin. |
 | **C** | *Cloak Against All Peril* | Glantri | Mystara | 3 | None | Absorbs 3d4 plus 1 per level of damage from all attacks, up to 1 round per level. Casting time 3, but only a modest one-use buffer. |
 | **C** | *Cloak of Insanity* | WSC | — | 3 | None | Immunity to mind-affecting spells for 1 rd. +1d4 rds., but the caster cannot cast, and a 12% chance of helpless confusion afterward. |
 | **C** | *Cloak of Warding* | WSC | — | 3 | None | Absorbs 3d4 plus 1 per level of damage from all attacks, up to 1 round per level. Same as cloak against all peril, a modest buffer. |
@@ -173,7 +173,7 @@
 | **C** | *Misfortune* | PWH | Planescape | 3 | Negates | Touches one person per level for 1 turn/level, with a 25% chance each turn that something goes wrong. Save negates, and the DM must adjudicate. Needs DM permission for PCs. |
 | **C** | *Mummy Touch* | PftM, WSC | FR | 3 | Neg. | Touch inflicts mummy rot for 1 round/level: 2 Charisma loss a month, fatal in 1-6 months, and blocks healing. Slow and needs an attack roll. |
 | **C** | *Nightscar* | PftM, WSC | FR | 3 | Neg. | Marks a creature or object for 1 day/level at 30 yards, visible to the caster and seven others. Save negates. Tracks shapechangers and invisible foes, but it does no harm. |
-| **C** | *Non-Detection* 📖 | **PHB**, WSC | — | 3 | None | Blocks clairvoyance, ESP and locate object for 1 hr./level, but the 300 gp diamond dust is spent and the divination only fails if the caster saves. |
+| **C** | *Non-Detection* | **PHB**, WSC | — | 3 | None | Blocks clairvoyance, ESP and locate object for 1 hr./level, but the 300 gp diamond dust is spent and the divination only fails if the caster saves. |
 | **C** | *Numbness* | WSC | — | 3 | Neg. | A touch attack numbs one limb for 1 turn/level, costing 2 Strength and Dexterity and risking drops. Save negates. Many penalties, but hitting the limb is hard. |
 | **C** | *Nystul's Expeditious Fire Extinguisher* | WSC | Greyhawk | 1 | Special | Snuffs normal fire up to 100 x 100 feet at casting time 1, but magical fire only 60% of the time. Great against forest fires, rare at the table. |
 | **C** | *Nystul's Radiant Baton* | WSC | Greyhawk | 3 | None | A melee baton for 2d4 plus 1 per level, up to 2d4+10, with no save, in seven colored modes. Mages rarely want to fight in melee, so it is niche. |
@@ -219,7 +219,7 @@
 | **C** | *Teleport Object* | WSC | — | 2 | Special | Casting time 2 moves 2 oz. per level anywhere, with no distance limit. Magic items wait until 9th level and held items until 12th. Good for messages and theft. |
 | **C** | *Tenser's Eye of the Eagle* | WSC | Greyhawk | 1 rd. | None | A touched warrior gets doubled vision and +2 to hit with missile weapons for 1 turn/level. A modest party buff, no save and no cost beyond feathers. |
 | **C** | *Time Snare* | WSC | Chronomancer | 3 | Neg. | Repeats a creature's last action with a save each round, gaining +1 cumulative. Attackers just attack again, so it seldom stops damage. Chronomancer only. |
-| **C** | *Tongues* 📖 | **PHB**, WSC | — | 3 | None | Speak one extra language per three levels for 1 rd./level in a 30-ft. radius. Useful in diplomacy, but the short duration and low impact keep it from regular slots. |
+| **C** | *Tongues* | **PHB**, WSC | — | 3 | None | Speak one extra language per three levels for 1 rd./level in a 30-ft. radius. Useful in diplomacy, but the short duration and low impact keep it from regular slots. |
 | **C** | *Torrent of Death* | Glantri | Mystara | 3 | None | Magic missile with up to 10 missiles, but one more only every two levels. Identical to magic missile below 11th level, so a 3rd-level slot buys little damage. |
 | **C** | *Transpose* | WSC | — | 1 round | Special | Swaps weight, volume or color between targets for 1 hour/level, with a 500 gp reusable focus. A saved attempt can backfire on the caster. Dragon version ranked. |
 | **C** | *Trap Spellbook* | Spellbound, WSC | FR | 3 | None or 1/2 | Deals 1d6 per level to a maximum of 5d6 to whoever opens the book, and renews itself on closing. Better than explosive runes but passive. Red Wizards only. |

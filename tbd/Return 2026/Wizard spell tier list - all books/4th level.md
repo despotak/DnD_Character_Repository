@@ -8,24 +8,24 @@
 | Tier | Spell | Source | Setting | CT | Save | Why |
 |:--:|---|---|---|:--:|:--:|---|
 | **S** | *Confusion* | **PHB**, WSC | — | 4 | Special | Casting time 4, hits 1d4 creatures plus one per level at 120 yards. Saves carry a penalty of 2, so it breaks whole groups. |
-| **S** | *Dimension Door* 📖 | **PHB**, WSC | — | 1 | None | Casting time 1, verbal only, no error. Moves the caster 30 yards per level with up to 500 pounds of gear, then one round of recovery. The escape spell of the level. |
+| **S** | *Dimension Door* | **PHB**, WSC | — | 1 | None | Casting time 1, verbal only, no error. Moves the caster 30 yards per level with up to 500 pounds of gear, then one round of recovery. The escape spell of the level. |
 | **S** | *Slumber - Lvl 4* | WSC | FR | 4 | None | Sleeps 4d10 Hit Dice of creatures up to 7 Hit Dice, no save, for 5 rounds per level. A scaled-up sleep that ends whole encounters. Beats sleep outright. |
-| **S** | *Stoneskin* 📖 | **PHB**, WSC | — | 1 | None | Casting time 1, no save. Blocks 1d4 attacks plus one per two caster levels from physical weapons, including a sword of sharpness. The best defensive buff here. |
+| **S** | *Stoneskin* | **PHB**, WSC | — | 1 | None | Casting time 1, no save. Blocks 1d4 attacks plus one per two caster levels from physical weapons, including a sword of sharpness. The best defensive buff here. |
 | **A** | *Blacksphere* | CoS, WSC | FR | 3 | Special | Casting time 3, 1d4 per level (maximum 10d4) in a 10-foot radius, full damage even on a save. Failed save traps the victim in a force sphere. Ends fights. |
 | **A** | *Charm Monster* | **PHB**, WSC | — | 4 | Neg. | Works on any living creature, 2d4 Hit Dice, but only one of 4 or more Hit Dice. Save negates, and damage grants a new save. Strong control. |
 | **A** | *Despair* | PWH, WSC | Planescape | 4 | Negates | Casting time 4. 2d4 sentient creatures in a 20 foot square must save or cannot act for 1 round per level. Foes can be struck freely. |
 | **A** | *Drawmij's Instant Exit* | WSC | Greyhawk | 1 | None | Casting time 1. A door lets the caster and about 10 others slip out and teleport to a random spot within 250 yards. 5% chance of Ethereal dumping. Party escape. |
-| **A** | *Evard's Black Tentacles* 📖 | **PHB**, WSC | — | 1 rd. | None | Casting time is a full round, but the tentacles last 1 hour per level. Each victim saves or takes 3d4 per round, held fast. |
+| **A** | *Evard's Black Tentacles* | **PHB**, WSC | — | 1 rd. | None | Casting time is a full round, but the tentacles last 1 hour per level. Each victim saves or takes 3d4 per round, held fast. |
 | **A** | *Fear* | **PHB**, WSC | — | 4 | Negate | A 60-foot cone, save negates, and victims flee for rounds equal to caster level. Undead are immune. Ends many fights, though no save penalty applies. |
 | **A** | *Flamsterd's Flamestrike* | HHK, WSC | FR | 4 (1 round if "set") | — | Casting time 4, range 10 yards per level, no save. Does 1d12 plus 1 per level to one creature and ruins its casting. Can also be set as a trap. |
 | **A** | *Flesh to Air* | WSC | — | Special | Neg. | Save negates, no system shock roll. Failure permanently turns a living creature into a skeleton the caster controls as if undead. No Hit Dice cap, but alignment penalties may apply. |
 | **A** | *Forcelash* | WSC | — | 4 | Special | Casting time 4, lasts 4 rounds. An 80 foot force whip always hits for 6d4, save halves, and a second save or the victim is rooted. Phaerimm spell. |
 | **A** | *Greater Malison* | ToM, WSC | — | 4 | None | Casting time 4, a 30-foot-radius sphere for 2 rounds per level, no save. All hostile creatures get -2 on saves, or -3 against one school. It boosts every save-or-lose spell. |
-| **A** | *Improved Invisibility* 📖 | **PHB**, WSC | — | 4 | None | Casting time 4, duration 4 rounds plus 1 per level, no save. The recipient attacks while unseen, and foes suffer a penalty of 4 to hit. |
+| **A** | *Improved Invisibility* | **PHB**, WSC | — | 4 | None | Casting time 4, duration 4 rounds plus 1 per level, no save. The recipient attacks while unseen, and foes suffer a penalty of 4 to hit. |
 | **A** | *Iron Maiden* | WSC | FR | 4 | None | Casting time 4, 1 round per level. Creates a helmed horror with 4 Hit Dice plus 1 hit point per caster level, magic missile, dimension door. Daily limit. |
 | **A** | *Lesser Geas* | S&M, WSC | — | 2 | Negate | Casting time 2, 7 Hit Dice or less, save at a penalty of 2 or 4 against lower-level targets. Disobeying costs ability scores each week. Strong control. |
 | **A** | *Magic Resistance* | WSC | Maztica | 1 rd. | None | Casting time 1 round, radius of 5 feet per level for 1 turn. Cancels all magic effects in the area, 16th level against dispel magic. Pluma only. |
-| **A** | *Minor Globe of Invulnerability* 📖 | **PHB**, WSC | — | 4 | None | An immobile 5-ft. sphere that no 1st- to 3rd-level spell can enter for 1 round per level, so fireball and hold person stop at its edge. You can cast out of it. |
+| **A** | *Minor Globe of Invulnerability* | **PHB**, WSC | — | 4 | None | An immobile 5-ft. sphere that no 1st- to 3rd-level spell can enter for 1 round per level, so fireball and hold person stop at its edge. You can cast out of it. |
 | **A** | *Phantasmal Killer* | **PHB**, WSC | — | 4 | Special | Casting time 4, no saving throw, only one Intelligence check to disbelieve. The beast attacks as a 4 Hit Dice monster and a hit kills. Leans on DM ruling. |
 | **A** | *Poison* | WSC | — | 4 | Neg. | Touch attack, then save vs poison or die within one turn. Caster can halt it. Necromancer or evil witch only, and an evil act. |
 | **A** | *Polymorph Other* | **PHB**, WSC | — | 4 | Negate | Casting time 4, save negates, then a system shock roll. Success turns a foe into a harmless form. Strong, but a good save stops it. |
@@ -64,7 +64,7 @@
 | **B** | *Emotion* | **PHB**, WSC | — | 4 | Negate | Save negates over a 20-foot cube, and the caster must keep concentrating. Fear sends targets fleeing for 2d4 rounds, but fear and hopelessness are weaker than confusion. |
 | **B** | *Fire Aura* | CWH, WSC | — | 4 | Special | Casting time 4, 2 rounds per level. Full fire immunity, and touchers take 2d4 plus burning at 1d6 per round with a save. Strong versus fire, middling otherwise. |
 | **B** | *Fire Enchantment* | WSC | Kara-Tur | 1 rd. | Neg. | Wu jen spell. Casting time 1 round, range 240 yards, a 10-foot radius. Everyone who fails a save takes a suggestion, so it works as a group suggestion. |
-| **B** | *Fire Shield* 📖 | **PHB**, WSC | — | 4 | None | Casting time 4 for 2 rounds plus 1 round per level. Attackers take the same damage they deal, with +2 to saves against one element. Good in melee but short. |
+| **B** | *Fire Shield* | **PHB**, WSC | — | 4 | None | Casting time 4 for 2 rounds plus 1 round per level. Attackers take the same damage they deal, with +2 to saves against one element. Good in melee but short. |
 | **B** | *Forcefend* | CotD | FR | 4 | Special | Casting time 4, lasting 1 round. Redirects every targeted hostile spell at another creature, with saves for the new target. Casting any spell ends it. |
 | **B** | *Galathar's Gnostic Chain* | WSC | FR | 4 | Special | Casting time 4. A spellcaster can cast only spells of one level, and the first save comes two rounds later at -6. Strong against one mage, dead against anything else. |
 | **B** | *Gaseous Form - Lvl 4* | WSC | — | 4 | Negates | Casting time 4, 1d6 rounds plus 1 round per level. Gear up to 1,000 gp weight per level turns gaseous, and only magical fire or lightning harms. Good for escape. |
@@ -118,7 +118,7 @@
 | **B** | *Wesley's Temporal Disjunction* | WSC | Chronomancer | 1 rd. | Neg. | Casting time 1 round, range 60 yards, save negates. The victim always loses initiative and is surprised for 5 days plus 1d10 days, and loses an attack. Strong debuff. |
 | **B** | *Wind Blade* | AQ, WSC | Al-Qadim | 4 | None | Casting time 4 invisible blade deals 4d4 per round with speed factor 2, hitting visible nonflying targets as AC 10. No save, but fails against magic-only creatures. |
 | **B** | *Wingbind - Lvl 4* | CotD, WSC | FR | 3 | Special | Dragon-only spell, casting time 3, 40 feet per level. A dragon failing the save cannot fly and falls, with a new save at a -3 penalty each round. |
-| **B** | *Wizard Eye* 📖 | **PHB**, WSC | — | 1 turn | None | Casting time 1 turn scouts through an invisible eye moving 30 feet per round for 1 round per level. No save, and safe recon, but slow and short. |
+| **B** | *Wizard Eye* | **PHB**, WSC | — | 1 turn | None | Casting time 1 turn scouts through an invisible eye moving 30 feet per round for 1 round per level. No save, and safe recon, but slow and short. |
 | **B** | *Zala's Amberhelm* | WSC | — | 2 turns | None | Casting time 2 turns gives 90% resistance to charm, ESP, confusion and similar spells for 1 turn per level. Strong defense, but it also blocks the caster's own mind spells. |
 | **C** | *Agitate Wounds* | WSC | FR | 4 | Special | Save vs spell, then 2d6 damage to a creature wounded by an edged weapon, and 1d3 more per round if the save fails. Needs a prior wound, so unreliable. |
 | **C** | *Argaster's Cloak of Shadows* | Dr211, WSC | — | 4 | None | Casting time 4, duration 1d4+2 rounds. Gives AC bonus of 2 and missiles suffer -1, no save needed. Evard's tentacles and web are negated. Thin for a 4th-level slot. |
