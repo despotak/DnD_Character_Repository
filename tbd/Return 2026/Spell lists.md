@@ -48,15 +48,11 @@ ranked: ask from the top, and ask the backup only if the spell it backs up fails
 
 ### What changed from the old plan
 
-- **Armor and shield hang on the elven chain** (Questions #10, still open). *Armor* gives
-  AC 6 and fails on anyone already at AC 6 or better. *Shield* gives AC 4 against attacks
-  from the front, AC 3 against arrows and AC 2 against thrown weapons, and blocks *magic
-  missile*.
-  - **With elven chain** (AC 5 before Dexterity), *armor* does nothing and *shield* is worth
-    a point at most against melee (whether Dex adds to it is a DM call). Keep *shield* for
-    archers and enemy wizards.
-  - **Without it**, he fights unarmoured. *Armor* becomes his first ask: AC 6 from the
-    morning until damage passes 8 points plus 1 per level. *Shield* becomes a daily.
+- **His elven chain makes armor useless and shield situational.** The chain is AC 5 before
+  Dexterity. *Armor* gives AC 6 and fails on anyone already at AC 6 or better. *Shield*
+  gives AC 4 against attacks from the front, so it's worth a point at most there (whether
+  Dex adds to it is a DM call). Its value is AC 3 against arrows, AC 2 against thrown
+  weapons, and blocking *magic missile*.
 - **Haste costs him almost nothing.** It ages the target a year, and Panagiotis's elves live
   800–1000 years.
 - **The +2 splits the book in two.** Spells cast before the fight can be slow. Spells cast
@@ -80,7 +76,7 @@ ranked: ask from the top, and ask the backup only if the spell it backs up fails
 | 9 | *Identify* | B | What a found item does. It costs a 100 gp pearl and 8 points of Constitution | |
 | 10 | *Comprehend languages* | C | Conversation | |
 
-**Without elven chain**, *armor* goes in at #1 and *shield* moves up to #3. *Read magic* lets him read anyone else's book or scroll, which is how he learns spells he
+*Read magic* lets him read anyone else's book or scroll, which is how he learns spells he
 finds. Make sure it's in his starting book. **Dropped:** *mending* (D), *jump* (C), *spider
 climb* (C: he can't cast while climbing), *message* (C).
 

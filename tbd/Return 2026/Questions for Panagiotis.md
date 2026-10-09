@@ -26,7 +26,6 @@ paladin's +2, and the Orwell aside.
 - **#1** starting level
 - **#3** how two characters for one player should work
 - **#4** healing (nobody in the party has any)
-- **#10** elven chain
 - **#18** how *Dispel Falsehood* works
 
 The rest can wait for a coffee.
@@ -71,7 +70,7 @@ Handbook* (CPaH), *Faiths & Avatars* (F&A), *The Complete Bard's Handbook* (CBH)
 9. ✓ **Level limits.** Elf fighter 12, mage 15 (DMG p. 15). Do you use any way past
    them? *Demihumans of the Realms* (p. 9) bars multi-class characters from the
    exceeding-limits rule.
-10. **Elven chain.** A fighter/mage can only cast "unarmored or clad in elvenmade or
+10. ✓ **Elven chain.** Settled: he has it. A fighter/mage can only cast "unarmored or clad in elvenmade or
     magical armor" (CBoE p. 88), and elven chain "can never be purchased" (PHB p. 45).
     Does he have any? I suggest it was Orendyl's (see Ideas).
 11. **Weapon of choice.** A long sword, I assume, from Orendyl. That's his one weapon
