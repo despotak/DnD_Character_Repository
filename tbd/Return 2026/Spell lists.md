@@ -1,7 +1,8 @@
 # Spell lists, at about 350,000–400,000 XP
 
-AD&D 2e. All spells are from the *Player's Handbook* (PHB). Levels are worked out from
-the PHB experience tables; Panagiotis has no level limits.
+AD&D 2e. The lists below are built from the *Player's Handbook* (PHB); Panagiotis hasn't
+said which other books he allows. Levels are worked out from the PHB experience tables;
+Panagiotis has no level limits.
 
 | | XP | Level | Spells per day |
 |---|---|---|---|
@@ -18,41 +19,150 @@ Wizards get no bonus spells for Intelligence, and paladins none for Wisdom.
 can't attack in a round he casts, and gains AC against melee while casting. So the list
 leans on spells cast **before** a fight or in a quick gap: protection, movement, and a
 few that end a fight. Thaelith taught him magic as conversation, so there's divination and
-language too, and his people's "not to be found" gives him concealment.
+language too, and his people's "not to be found" gives him concealment. Casting times
+below are the book's; add 2 for him.
 
-### A typical day (4/3/3/2/1)
+### Before asking for a single spell
 
-| Level | Memorised | Why |
+Every spell he asks for needs a roll under his Intelligence's *chance to learn spell*
+(PHB p. 22, Table 4). **A failed roll locks that spell out until he reaches 10th level as
+a mage.** His Int isn't rolled yet. The kit minimum is 15, and a gold elf counts as a high
+elf, so there's no racial bonus.
+
+| Int | Chance to learn | Most spells per spell level (optional rule) |
 |---|---|---|
-| 1st | *shield*, *magic missile*, *feather fall*, *detect magic* | *Shield* before the blades come out. *Detect magic*: the kit expects it, for his duty to aid elves |
-| 2nd | *mirror image*, *blur*, *invisibility* | The duellist's defences |
-| 3rd | *haste*, *fly*, *dispel magic* | *Haste* is the bladesinger's spell |
-| 4th | *stoneskin*, *improved invisibility* | Cast before the fight, then dance |
-| 5th | *teleport* | The way out. (Or *sending*, to reach Khelben) |
+| 15 | 65% | 11 |
+| 16 | 70% | 11 |
+| 17 | 75% | 14 |
+| 18 | 85% | 18 |
 
-**Swap-ins for a research day:** *comprehend languages* and *identify* (1st); *ESP* or
-*locate object* (2nd); *tongues* or *clairaudience* (3rd); *wizard eye* (4th); *contact
-other plane* (5th).
+Two questions for Panagiotis come first, because they change the list more than any pick:
 
-### Spellbook
+1. **Does he use the optional limit on spells per level?** At Int 15–16 it's 11 per spell
+   level.
+2. **Does the starting book need rolls** (Questions #14), or only the spells added later?
+   And which books beyond the PHB does he allow?
 
-What he knows beyond the day's list, grouped by what it's for.
+At 70%, asking for 30 spells gets about 21 and locks out about 9. So the lists below are
+ranked: ask from the top, and ask the backup only if the spell it backs up fails.
 
-- **Thaelith's conversation** (knowledge, language, listening): *read magic*,
-  *comprehend languages*, *identify*, *message*, *mending*; *ESP*, *locate object*,
-  *whispering wind*; *tongues*, *clairaudience*, *clairvoyance*; *wizard eye*; *contact
-  other plane*, *sending*.
-- **Not to be found** (concealment): *change self*; *invisibility*, *misdirection*;
-  *non-detection*; *improved invisibility*; *seeming*, *false vision*.
-- **The dance** (movement and defence): *shield*, *feather fall*, *jump*, *spider climb*;
-  *mirror image*, *blur*, *levitate*; *haste*, *fly*, *protection from normal missiles*;
-  *stoneskin*, *dimension door*, *minor globe of invulnerability*; *teleport*.
-- **When the song turns to war**: *magic missile*, *sleep*; *web*; *lightning bolt*,
-  *hold person*, *slow*; *fire shield*, *Evard's black tentacles*; *cone of cold*,
-  *hold monster*, *Bigby's interposing hand*.
+### What changed from the old plan
 
-Rathael already gives him *light* and a *minor globe of invulnerability* once a day, so
-those needn't use his memorised slots.
+- **Shield is situational, not daily.** It gives AC 4 against melee, and his elven chain is
+  already AC 5 before Dexterity, so it's worth one point at most there (whether Dex adds
+  to the shield is a DM call). Its value is missiles (AC 2 against thrown weapons, AC 3
+  against arrows) and blocking *magic missile*.
+- **Armor does nothing for him.** It fails on anyone already at AC 6 or better.
+- **Haste costs him almost nothing.** It ages the target a year, and Panagiotis's elves live
+  800–1000 years.
+- **The two scrolls are free sources.** *Comprehend languages* and *identify* can go into his
+  book with a learn roll each. The scroll is used up, and it costs no request.
+- **The +2 splits the book in two.** Spells cast before the fight can be slow. Spells cast
+  during it should stay at 3 or less after the +2. Casting time 5 becomes 7 for him, so
+  *hold monster*, *cone of cold* and *wall of force* open a fight; they don't rescue one.
+
+### Ask in this order (PHB)
+
+**1st level** (4 slots a day)
+
+| # | Spell | Tier | What it does for him | If it fails |
+|---|---|:--:|---|---|
+| 1 | *Magic missile* | S | No save, casting time 1 | *Sleep* |
+| 2 | *Sleep* | S | Ends low-level fights, no save | *Color spray* |
+| 3 | *Detect magic* | A | The kit's duty to elves | |
+| 4 | *Protection from evil* | A | Summoned and conjured creatures can't touch him. The campaign has a bound demon | |
+| 5 | *Color spray* | A | A cone from where he stands, made for melee range | |
+| 6 | *Shield* | A | For archers and enemy wizards | |
+| 7 | *Feather fall* | B | Casting time 1, the fall that would kill him | |
+| 8 | *Change self* | B | Not to be found | |
+| | *Comprehend languages*, *identify* | | From his scrolls, no request | |
+
+*Read magic* lets him read anyone else's book or scroll, which is how he learns spells he
+finds. Make sure it's in his starting book. **Dropped:** *mending* (D), *jump* (C), *spider
+climb* (C: he can't cast while climbing), *message* (C).
+
+**2nd level** (3 slots)
+
+| # | Spell | Tier | What it does for him | If it fails |
+|---|---|:--:|---|---|
+| 1 | *Mirror image* | S | His defence once the blades are out | *Blur* |
+| 2 | *Invisibility* | S | Not to be found | |
+| 3 | *Web* | S | Holds a group in place | *Glitterdust* |
+| 4 | *Rope trick* | A | A safe rest for the whole party | |
+| 5 | *ESP* | B | Listening | |
+| 6 | *Knock* | A | Opens what's locked or held | |
+| 7 | *Locate object* | B | Conversation | |
+| 8 | *Levitate* | B | | |
+
+**Dropped:** *misdirection* (C), *whispering wind* (C).
+
+**3rd level** (3 slots)
+
+| # | Spell | Tier | What it does for him | If it fails |
+|---|---|:--:|---|---|
+| 1 | *Dispel magic* | S | On his daily list, but it was never in his book | |
+| 2 | *Haste* | S | Doubled attacks for him and the party | *Slow* |
+| 3 | *Fly* | A | Before a fight, or for travel | |
+| 4 | *Protection from normal missiles* | B | Archers can't touch him | |
+| 5 | *Hold person* | A | Ends a fight with a lone leader | *Suggestion* |
+| 6 | *Lightning bolt* | A | When the song turns to war | |
+| 7 | *Clairvoyance* | B | Listening | |
+| 8 | *Tongues* | C | Conversation | |
+
+**Dropped:** *clairaudience* (C: *clairvoyance* does the job with sight), *non-detection*
+(C: 300 gp of diamond dust per casting, and an *amulet of proof against detection* is on
+his items list).
+
+**4th level** (2 slots)
+
+| # | Spell | Tier | What it does for him | If it fails |
+|---|---|:--:|---|---|
+| 1 | *Stoneskin* | S | Blocks 1d4 attacks plus one per two levels, cast before the fight. His best spell | |
+| 2 | *Dimension door* | S | The exit, casting time 1, then a round of recovery | |
+| 3 | *Improved invisibility* | A | He fights unseen | |
+| 4 | *Fire shield* | B | Whoever hits him in melee takes the same damage back | |
+| 5 | *Evard's black tentacles* | A | An opener: it takes a round to cast | |
+| 6 | *Wizard eye* | B | Listening | |
+
+Rathael gives him *minor globe of invulnerability* once a day, so ask for it last if at all.
+
+**5th level** (1 slot)
+
+| # | Spell | Tier | What it does for him | If it fails |
+|---|---|:--:|---|---|
+| 1 | *Teleport* | S | The way out | |
+| 2 | *Wall of force* | S | Splits a fight in two. Nothing walks or shoots through it | *Hold monster* |
+| 3 | *Sending* | B | To reach Khelben | |
+| 4 | *Seeming* | B | Disguises the whole party | |
+| 5 | *Contact other plane* | C | The story's questions | |
+
+**Dropped:** *false vision* (D), *Bigby's interposing hand* (C). *Cone of cold* (A) stays a
+later want: at casting time 7 for him it's an opener, and *lightning bolt* covers it.
+
+### If Panagiotis opens other books
+
+| Book | Spell | Level | Why him |
+|---|---|:--:|---|
+| *Spells & Magic* | *Improved blink* | 5th | Casting time 1 (3 for him). Attacks on him miss outright and he reappears where he likes. The best 5th-level spell for a bladesinger |
+| *Spells & Magic* | *Displace self* | 2nd | The first attack misses, later ones are at −2, and +2 on saves against targeted spells. Better than *blur* |
+| *Spells & Magic* | *Prying eyes* | 5th | Scouting from a mile away: the listening theme |
+| *Spells & Magic* | *Expeditious retreat* | 1st | Triples his movement |
+| *Complete Book of Elves* | *Camouflage* | 2nd | Elves only. Hides one person per level in the wild, even from infravision. His people's creed |
+| Realms | *Sunbolt* | 4th | Known to the elves of Evermeet. No damage cap, and double against undead |
+| Realms | *Shadow dance* | 4th | Intangible and 90% undetectable for 1 round per level |
+| Realms, Old Empire | *Slumber* (4th), *ethereal banishment* (5th) | | Strong, but the text says a first exposure needs a mentor or *read Southern magic*. A Mir forest elf has no road to Mulhorandi magic, so ask last |
+
+### A typical day, if the rolls go well
+
+| Level | Memorised |
+|---|---|
+| 1st | *magic missile*, *sleep*, *protection from evil*, *detect magic* |
+| 2nd | *mirror image*, *invisibility*, *web* |
+| 3rd | *haste*, *dispel magic*, *fly* |
+| 4th | *stoneskin*, *dimension door* |
+| 5th | *teleport* |
+
+Rathael adds *light* and *minor globe of invulnerability* once a day.
 
 ---
 

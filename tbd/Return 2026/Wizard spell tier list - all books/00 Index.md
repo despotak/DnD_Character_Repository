@@ -16,7 +16,7 @@
 
 - **The list and the spell text are the adnd2e fandom wiki's** ([All Wizard Spells](https://adnd2e.fandom.com/wiki/All_Wizard_Spells)), a transcription of the books. Where it and a book disagree, the book wins. The level is the wiki table's, which differs from the spell's own infobox for 18 spells, mostly ones printed at different levels in different books.
 - **Not included**, because the wiki list leaves them out: the WSC's cantrips and its psionic enchantments. *Karsus's avatar* is listed on the wiki at 1st level but is a 12th-level Netherese spell, so it is left out too.
-- **The PHB spells keep the tiers in `Wizard spell tier list.md`**, which are checked against the book itself. That file remains the campaign-legal view, since Panagiotis's table is PHB only. The other spells were ranked against those PHB tiers as fixed anchors, so the two files agree.
+- **The PHB spells keep the tiers in `Wizard spell tier list.md`**, which are checked against the book itself. That file is the PHB-only view. The other spells were ranked against those PHB tiers as fixed anchors, so the two files agree.
 - **Setting** comes from the source book, or from the WSC's own rarity note ("Very rare spell from the Forgotten Realms setting", "Uncommon or rare spell (WoG)" and so on). Blank means core or no setting given. Setting-bound and kit-restricted spells are ranked as if the caster qualifies, and the note says what the restriction is.
 - **U** means the text is too thin or garbled to judge. \* after a name marks a wild-magic spell. **PHB** in bold marks a *Player's Handbook* spell.
 - **Every digit in a note appears in that spell's text**, checked by script for all 2,509 notes.
@@ -47,7 +47,7 @@ The 2e reasoning behind the tiers (saves set by the target, casting time as init
 
 ## If Panagiotis opens the Realms books
 
-The table is PHB only today. These are the S and A spells of levels 1–5 tagged **FR**, the setting of the campaign, which are the ones worth asking him for. Several are restricted (Red Wizards, necromancers, the Seven Sisters and their circle), and the level files name the restriction in each note, so read the note before asking.
+Panagiotis hasn't said which books beyond the PHB he allows. These are the S and A spells of levels 1–5 tagged **FR**, the setting of the campaign, which are the ones worth asking him for. Several are restricted (Red Wizards, necromancers, the Seven Sisters and their circle), and the level files name the restriction in each note, so read the note before asking.
 
 - **1st**: *Circle* (A, Spellbound), *Undead Servant* (A, Dr167, CotD)
 - **2nd**: *Animate Skeletons* (A, CotD), *Darsson's Fiery Cube* (A, PftM), *Dazzle* (A, Spellbound), *Gemidan's Paralytic Missile* (A, CoS), *Power Word, Sleep* (A, WSC), *Threestones* (A, WSC)

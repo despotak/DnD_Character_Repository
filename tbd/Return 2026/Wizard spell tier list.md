@@ -4,7 +4,7 @@ Every wizard spell in the *Player's Handbook* (revised printing, 1995), **312 sp
 
 ## Scope
 
-- **PHB only**, because Panagiotis's table is PHB only (see `Spell lists.md`). *Tome of Magic*, *The Complete Wizard's Handbook* and *Player's Option: Spells & Magic* add roughly 180 more. That is a second pass if he opens those books.
+- **PHB only.** Panagiotis hasn't said which other books he allows. The [all-books list](<Wizard spell tier list - all books/00 Index.md>) ranks the other 2,197 wizard spells against these same tiers.
 - **Tiers are within the level.** S at 1st level means "one of the best 1st-level spells", not "as good as *wish*".
 - **The reference player is a generalist mage** in an ordinary campaign of dungeons, wilderness and intrigue, judged from the level the spell becomes castable through the next five or so levels.
 - 📖 marks a spell in the bladesinger's spellbook or on his daily list. His own read is at the end.
