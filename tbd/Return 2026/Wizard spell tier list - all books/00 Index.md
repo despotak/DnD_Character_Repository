@@ -1,6 +1,6 @@
 # AD&D 2nd Edition wizard spells: tier list, all books
 
-**2509 wizard spells** from every 2e source the adnd2e wiki lists: the *Player's Handbook*, the four-volume *Wizard's Spell Compendium*, *Tome of Magic*, the Complete handbooks, the setting books and Dragon Magazine. Each is ranked within its level. One file per level:
+**2509 wizard spells** from every 2e source the adnd2e wiki lists: the *Player's Handbook*, the four-volume *Wizard's Spell Compendium*, *Tome of Magic*, the Complete handbooks, the setting books and Dragon Magazine. Each is ranked within its level. **[wizard-spell-tiers.html](<wizard-spell-tiers.html>)** is the same list as one filterable page, with a spell card per spell and links to the full text on the wiki. One file per level:
 
 - [1st level](<1st level.md>): 320 spells · S 2 · A 14 · B 43 · C 123 · D 135 · F 2 · U 1
 - [2nd level](<2nd level.md>): 361 spells · S 3 · A 22 · B 66 · C 129 · D 127 · F 14
