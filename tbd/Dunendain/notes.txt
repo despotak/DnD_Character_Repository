@@ -13,6 +13,11 @@ General
 --------
 Sorcerer King				Orbdamus, Nebiros, Demon, Greator God, Darkness, link to Negative plane
 Spectral Legion				Proxies of Gods, 9 members
+Extradimensional Prison		(tied to the Sorcerer King / Spectral Legion)
+Society of the Moon			Keepers (of the prison?) - based in Dancing Vale
+Mattela Ordeil				High Priestess of Lathander
+Planar Trade Consortium		(PTC) - Estavan's outfit, Sigil
+Shadow cast					????
 	Salendra				Elven Archmage (Evereska)
 	Mistye Addisar			Paladin (Torm ?)
 	Crafyl					Half-Elf Arcane Mage (Thay)
@@ -72,15 +77,18 @@ Deaf Pawn					Ilipur
 Golden Flow					Merchant subjects (Storm of Iron)
 Hygraath Crom 				The Itinerant priest, Savior of Westgate ()
 
-Dancing Vale
+Dancing Vale (Society of the Moon)
 -------------
-Crandam Ethander			Chief of Ogmarin Clergy
+Oghma						Binder of What is Known - The Wise God
+Mystra						Lady of All Stars - Lady of Mysteries
+Selune						Our Lady of Silver (Moonmaiden)
+Father Crandam Ethander		Chief of Oghmanite Clergy
 Renard Redclyff				High Silvestar - Selunite
 
 
 Ossington
 ----------
-Asardalon					Red Dragon
+Asardalon					Fiendish Red Dragon
 Diyd the wise				Druid
 Mardows						Elder
 Meril						ex-Elder
@@ -88,6 +96,11 @@ Thylrara					Elf ?
 Dyson the Sage				The mind (fled)
 Tally the Fighter			The muscle (KIA)
 Cucco						Demon(Vroc ?) bard(?) (fled)
+Warlock						????
+
+High Castle
+------------
+Eagle's Eyrie				Inn at High Castle
 
 Sigil
 ----
@@ -98,6 +111,11 @@ Estavan						The Merchant Lord, Leader of PTC (Clerk's Ward)
 Baltazar Tames				Seeker of Curiosities (Clerk's Ward)
 Beranta						Baltazar's helper (KIA)
 Origax						Wizard, high up of the Signers
+Estavan's office			Clerk's Ward
+Pride's Street				Near the Hall of Records
+Frowning Gargoyle			(tavern?)
+Jerkal's Import				Trash DIA (?)
+Garmundi's lead				Temple of Aoskar -> Retriever's lair
 
 Pandemonium
 -------------
@@ -105,3 +123,38 @@ Agathyon					Black Dragon
 Lathuraz					Mercurial, want's to play with the multiverse
 Zatulaz						Brother of Lathuraz
 Retriever					????
+
+Portals
+--------
+1st portal					(The cup) -> Plateau -> Portal to Sigil
+							Hive -> Filthy alley -> Dead end -> Portal to Toril (rusty key)
+2nd portal					Shatter Temple - key is the Symbol of Aoskar
+3rd portal					Market
+
+To defeat Zatulaz
+------------------
+Rod of Mercury				to find him
+Cloak of Trapping			to bind him
+Manacles of Lesser Reality	to render him helpless
+Sword of Lathuraz			to slay him
+
+Intercepted messages (sender unknown)
+======================================
+"The Deal is on. Just make sure you get full control of the place."
+"Be careful. The Captain and the Ogre are friends from old."
+"You will get a visit from Rafoc in two days at the Emoth grove. Make sure you pact with his clan and warn him that both parties have to keep their part."
+"The past seems to solve this issue for us. Just make sure Rafoc will learn that Terran resides in the freehold. Enjoy the patience, for we have work to do after that."
+"Just make sure they do not stick their nose deep enough to spoil anything."
+"Have you ever heard of Church torch?"
+"Although unfortunate, minor inconveniences like that would be yours to settle."
+"Principal act upcoming."
+
+Dunendain's Spellbook (30 pages)
+=================================
+In book (pages)	Identify 5, Armor 1, Magic Missile 5, Sleep 5, Detect Magic 2, Shield 2,
+				Invisibility 2, Undetectable Alignment 4, Knock 4
+Scrolls			Magic Missile, Sleep, Fog Cloud, Forget
+To copy (pages)	Color Spray, Find Familiar 2, Friends 4, Audible Glamer 2, Charm Person 1, Shocking Grasp 1, Hold Person 3
+Wishlist		Suggestion, Minor Globe of Invulnerability
+Struck out (memorised/cast?)	Audible Glamer, Change Self, Detect Magic, Erase, Grease, Shield,
+				Alter Self, Flaming Sphere, Pyrotechnics, Whispering Wind

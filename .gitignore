@@ -3,6 +3,7 @@ Thumbs.db
 .history/
 *.lnk
 debug.log
+.~lock.*#
 
 # --- Oversized local assets (GitHub rejects files >100MB) ---
 Characters/Extened Map of Faerun Max Res Hexes.jpg
