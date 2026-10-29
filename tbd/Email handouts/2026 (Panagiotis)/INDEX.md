@@ -1,6 +1,6 @@
 # 2026: emails with Panagiotis
 
-From christos@despotak.is (most) and despotak@gmail.com, 3–9 October 2026. One folder
+From christos@despotak.is (most) and despotak@gmail.com, 3–26 October 2026. One folder
 per email, named by send time. `.docx` files have a MarkItDown `.md` beside them where
 they're new.
 
@@ -19,6 +19,9 @@ they're new.
 | 10-09 11:17 | Panagiotis | Seat of Lore Berdusk | **`SEAT OF LORE - OGHMA CHURCH BERDUSK`** (.docx + .md) |
 | 10-09 11:31 | Panagiotis | Horse | (body: the mount, "Lexicon") |
 | 10-09 14:25 | Panagiotis | Bladesinger sword? | **`Rathael - DAHAST Sword - Chris`** (.docx + .md), `The Moon Between Blades.jpg` |
+| 10-12 13:00 | Panagiotis | ΕΡΩΤΗΣΗ ΓΙΑ ΤΟΝ Mr.DAHAST | (body: a question about the elf's months in Waterdeep, below) |
+| **10-19 10:26** | **Panagiotis** | **1o ΠΑΚΕΤΟ - SESSION 10 OCT 26** | **the first handout pack from the 10 October session**: 7 .docx (+ .md) and 4 images, to Savvas and Christos (below) |
+| 10-26 14:32 | Panagiotis | Medallion | **`Crest Medallion.png`**, the medallion he owed the elf |
 
 ## His answers, 10-09 (digest)
 
@@ -80,3 +83,39 @@ Common.
 - **Uncanny Navigation:** never forgets a path or place it has been, even in a blizzard.
 - **Combat:** as a heavy warhorse (2 hooves 1d8/1d8, bite 1d4), and never panics.
 - He mentions the **Border Forest** and northern winters.
+
+## His question, 10-12
+
+To finish the elf: in all the months you waited in **Waterdeep**, did you look into
+anything, through Khelben or some other way (sages, or outside Waterdeep)? If so, tell
+him what and how. Anything else that comes to mind, too. «Δεν είναι υποχρεωτικό, απλά
+ρωτάω.»
+
+## The first pack, 10-19 (the session of 10 October)
+
+To Savvas and Christos. He asks for:
+- **Comments** on what was played, and on how the characters were tied in («το
+  "δέσιμο" των χαρακτήρων»). He hopes it felt natural, not contrived.
+- **The main topics and questions each of you will raise with Khelben.** That is where
+  the session stopped, and the meeting isn't over.
+- Any **theories** about the plot or the characters.
+
+| File | What it is |
+|---|---|
+| `KHELBEN – WATERDEEP - BHAAL - AUCTION` | Khelben on why he stepped into the auction: the swords were part payment for information, and they are your compensation; the House has been paid off. Bhaal came back *assembled* from pieces, with a contamination close to **Talona**; one shard is still missing, taken by **Redhanded**; and "This was… arranged." His question: "Do you wish to restore what was… or decide what comes next?" Then Redhanded: an erinyes–vampire hybrid with her Baatezu side from **Glasya**, who hid the shard's echo in **Malygris** by the *Eidolon Drift* ritual, so that the Power Balance Compact can touch neither of them. |
+| `ALLAUNDO PROPHECY OF MALYGRIS - PCs` | Alaundo's 92nd Scroll (76 DR), "The Prophecy of the Bone Gale". Khelben reads it as the Blood Moon, Redhanded and the dracolich, with a gloss for each line. |
+| `Letter to Khelben from Candelkeep - PCs` | Signed *U.* Bhaal was present at the last two risings of the Temple of Elemental Evil (the Blight Eclipse, −598 DR, and the Severing War, 400 DR). Three theories of why, with Hedrack and a "Grey Pact" in the second, and Bhaal's manifestations of 400–438 DR. |
+| `KHLEBEN - The Apocalypse INFO - PCs print` | The longest, with 5 images. The Four Horsemen fragments (attributed to Pylacheus, to Kantorius, or older), *When Seven Trumpets Shall Sound* and *When the 7 Seals shall break*, each horseman in turn, then Khelben reading from Thalassar and from Aemund. |
+| `KHELBEN ON THE 4 WARDS – TEMAG for PCs` | Khelben's commission. Moradin's **Runekiln** made the four **Wards of Binding**, and someone is reawakening the four Elemental Nodes ("Θυμηθείτε τα orbs"). Find the **Shrine of Moradin's Flame** in the *Valley of Frigid Anvils* in the Spine of the World, and reforge the Wards. The **Anvilstone Medallion** reacts to **Temag**, who sees himself as the Forgemaster **Thorad Flamebarrel** forging *Flame's Bane*. One closing line for **Birakar**. |
+| `THE LETTER OF THAELITH` | Thaelith to Khelben, about the elf: a child of House Dahast in the Forest of Mir, born without a name. His mark appears in no elven record, only in a **dwarven** one from the last days of **Delzoun**, beside the words ***Ruan Famkul*** ("that which must be made forgotten") and "...where the anvils froze beneath the mountain...". It is not from his mother. "**Do not let him go north alone.**" |
+| `WESTGATE ANCELM VISION` | Ancelm's dream in Westgate: an abbey of Ilmater ("saint seli…") where books of saints and names of the dead are destroyed, and the words feed a symbol. **REMEMBER BEFORE THEY DO**, **THE DEAD HAVE BEEN READ**. |
+| `NOTES FROM THE ANCIENT ABBEY OF St Selimbrar` | Five leaves of Ilmatari teaching: the Triple Way, the Prayer of Endurance, the Seven Signs of true martyrdom, and the anathema of **Pylacheus**, whose Manual of Blessed Suffering drops measure and end and adds a Fourth Way. A copyist's notes: one copy survived, and the man he is hunting knows Selimbrar by heart. |
+| `BLACKSTAFF STUDY.jpg` | Khelben's study. |
+| `Symbol from Vision - Ancelm.png` | The symbol from the Westgate vision. |
+| `the cracked Anvilstone Medallion.png` | Temag's medallion. |
+
+## The medallion, 10-26
+
+«και το μενταγιόν που χρωστάω, για το ξωτικό μας!» `Crest Medallion.png` is a worn,
+blackened round pendant bearing the leaf-and-spear device from the base of the Dahast
+arms (`DAHAST HOUSE.png`, 10-09).

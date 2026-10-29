@@ -134,4 +134,6 @@ Cover notes on the attachments, as sent:
 
 `2026 (Panagiotis)/` holds the October 2026 mails about the two new characters (mostly via
 christos@despotak.is), including Panagiotis's answers of 10-09, the birthmark, the Dahast
-arms, the Seat of Lore in Berdusk, the horse and the Dahast sword. See its own `INDEX.md`.
+arms, the Seat of Lore in Berdusk, the horse and the Dahast sword; then the question about
+the elf's months in Waterdeep (10-12), the first handout pack from the 10 October session
+(10-19) and the elf's crest medallion (10-26). See its own `INDEX.md`.

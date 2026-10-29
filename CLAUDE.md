@@ -10,6 +10,18 @@ There is no harness mechanism for the assistant to swap its own main-thread mode
 - If the *entire* remaining session clearly warrants Opus throughout (not just one delegated step), say so directly and tell the user to run `/model opus` — don't just silently underperform on Sonnet.
 - Routine character-sheet edits, formatting, lookups, and small file changes stay on Sonnet with ultracode's standing orchestration — don't reach for Opus by default.
 
+## This folder is a CIFS share, and the Edit tool can delete what it edits
+
+Edit and Write replace a file by renaming a temp file over it. On 2026-10-29 the third quick
+Edit to one `INDEX.md` failed with `EACCES` on that rename, and the file was gone from the
+server (sprawl, CT 101 on atlas, `/srv/limbo`) with the edit lost. chaos's CIFS client then
+kept a stale entry for over ten minutes: `stat` worked, open said `ENOENT`, create said
+`EEXIST`. Waiting did not clear it. Writing the file server-side did: `scp` it to
+`root@192.168.69.100`, then `pct push 101 <file> /srv/limbo/<path> --user 102 --group 1000
+--perms 664`, the owner and mode files on the share carry. On this share, change a file
+once, preferably with an in-place write (`open(..., "r+")` and `truncate()`). Keep tracked
+files committed so `git show HEAD:` can rebuild them.
+
 ## Selanar's journal
 
 `Characters/Selanar Durothil/Heroes of Faerun (Crustys Cave)/journal.md` is typeset to `journal.html` with the stoichos Quarto extension. After adding or editing an entry, rebuild with `bash "_typeset/render.sh"` from that folder — it builds in a temp dir, because Quarto's SQLite cache cannot lock on this CIFS share. Keep writing plain Markdown: `_typeset/journal.lua` infers the typography from the conventions the entries already follow (its header lists them: a line wholly in italics is set apart, a wholly italic parenthetical becomes a margin note, a wholly bold line a display line). The epigraph and colophon live in that folder's `_quarto.yml`.
