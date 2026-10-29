@@ -12,8 +12,8 @@ There is no harness mechanism for the assistant to swap its own main-thread mode
 
 ## This folder is a CIFS share, and the Edit tool can delete what it edits
 
-Edit and Write replace a file by renaming a temp file over it. On 2026-10-29 the third quick
-Edit to one `INDEX.md` failed with `EACCES` on that rename, and the file was gone from the
+The Edit tool replaces a file by renaming a temp file (`<name>.tmp.<pid>.<hex>`) over it. On
+2026-10-29 the third quick Edit to one `INDEX.md` failed with `EACCES` on that rename, and the file was gone from the
 server (sprawl, CT 101 on atlas, `/srv/limbo`) with the edit lost. chaos's CIFS client then
 kept a stale entry for over ten minutes: `stat` worked, open said `ENOENT`, create said
 `EEXIST`. Waiting did not clear it. Writing the file server-side did: `scp` it to
