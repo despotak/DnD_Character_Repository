@@ -1,6 +1,9 @@
 # Replies to Panagiotis: drafts
 
-Two replies, in your usual register (English, structured). Edit freely; nothing has been sent.
+Two replies, mostly in Greek, keeping the game's own terms and the handouts' English quotes in
+English, the way Panagiotis writes his. Where his handouts are in Greek (Aemund's letter, the
+Selimbrar leaves), the quotes use his own Greek words. The English version is in git
+(`cb3c38a`). Edit freely; nothing has been sent.
 
 - **Reply 1** answers his 10-12 question about the elf's months in Waterdeep, and thanks him for
   the 10-26 medallion. To Panagiotis only.
@@ -15,45 +18,49 @@ Two replies, in your usual register (English, structured). Edit freely; nothing 
 **To:** Panayotis Galanopoulos
 **Subject:** Re: ΕΡΩΤΗΣΗ ΓΙΑ ΤΟΝ Mr.DAHAST
 
-> My dear DM,
+> Αγαπητέ μου DM,
 >
-> Late, but here it is: the elf's months in Waterdeep. First, one question back: did Khelben see
-> me at all in those months, or did I only get as far as the Tower's door? Either works. I never
-> opened Thaelith's letter. I was tempted more than once, and I didn't.
+> Με καθυστέρηση, αλλά να τοι: οι μήνες του ξωτικού στη Waterdeep. Πρώτα μια ερώτηση πίσω: με
+> είδε καθόλου ο Khelben όλους αυτούς τους μήνες, ή έφτασα μόνο μέχρι την πόρτα του Πύργου; Και
+> τα δύο μου κάνουν. Το γράμμα της Thaelith δεν το άνοιξα ποτέ. Μπήκα στον πειρασμό πάνω από μία
+> φορά, αλλά δεν το έκανα.
 >
-> What I'd have done while I waited:
+> Τι θα έκανα όσο περίμενα:
 >
-> 1. **The sixth rune.** Your Rathael text says I *recently* deciphered the Rune of the White
->    Tree. I'd like the Waterdeep months to be when that happened, if it fits how the sword came
->    to me. After that, the riddle: "the unfallen tear of Sehanine's Daughter", "the silver-leaf
->    root". I'd ask Selûne's clergy at the House of the Moon, and any elf in the city who keeps
->    Sehanine's rites, what "Sehanine's Daughter" could mean.
-> 2. **Delzoun, quietly.** Dwarven sages, smiths and temples: the last days of Delzoun, an old
->    northern route where the dwarven roads go under the mountains, frozen anvils, and any story
->    of elves up there. I'd never show the mark, since Saelith forbade copying it and I've never
->    drawn it. I wouldn't say *Ruan Famkul* to strangers either. A mark that means "removed from
->    remembrance" teaches you to ask around the edges.
-> 3. **The Blood Moon.** Who else saw anything that night: temples, astrologers, sailors at the
->    docks. Did anyone else have visions, or was it only me?
-> 4. **House Dahast.** Elves or half-elves in Waterdeep with Myth Drannor blood, any record of the
->    Dahasts after 714, any trace of my mother, Elyndra. And would I have heard any of the old
->    stories about Khelben himself, and whether he has any tie to Myth Drannor?
-> 5. **The Song.** I'd hum the two notes I remember to every elven bard and minstrel who'd stand
->    still for it, in case one of them knows the third.
-> 6. **The book and the blade.** Bladesong practice every day, and work on my spellbook. I've
->    ranked the spells I'd ask to learn. Two rules questions decide how far that goes: do you use
->    the optional limit on spells per level, and does the starting book need learn rolls? And
->    which books beyond the PHB do you allow?
+> 1. **Ο έκτος ρούνος.** Στο κείμενο του Rathael λες ότι τον Rune of the White Tree τον
+>    αποκρυπτογράφησα *πρόσφατα*. Θα ήθελα να έγινε μέσα σε αυτούς τους μήνες στη Waterdeep, αν
+>    ταιριάζει με το πώς ήρθε το σπαθί σε μένα. Μετά, ο γρίφος: "the unfallen tear of Sehanine's
+>    Daughter", "the silver-leaf root". Θα ρωτούσα τον κλήρο της Selûne στο House of the Moon, και
+>    όποιο ξωτικό στην πόλη κρατάει τις τελετές της Sehanine, τι μπορεί να είναι η "Sehanine's
+>    Daughter".
+> 2. **Delzoun, διακριτικά.** Νάνοι λόγιοι, σιδεράδες, ναοί: οι τελευταίες μέρες του Delzoun, ένας
+>    παλιός βόρειος δρόμος εκεί που οι νάνικοι δρόμοι χάνονται κάτω από τα βουνά, παγωμένα αμόνια,
+>    και κάθε ιστορία για ξωτικά εκεί πάνω. Το σημάδι δεν θα το έδειχνα ποτέ: η Saelith απαγόρευσε
+>    να αντιγραφεί, και δεν το έχω ζωγραφίσει ποτέ. Ούτε θα έλεγα *Ruan Famkul* σε αγνώστους. Ένα
+>    σημάδι που σημαίνει «αυτό που αφαιρέθηκε σκόπιμα από τη μνήμη» σε μαθαίνει να ρωτάς από την
+>    άκρη.
+> 3. **Το Blood Moon.** Ποιος άλλος είδε κάτι εκείνη τη νύχτα: ναοί, αστρολόγοι, ναυτικοί στο
+>    λιμάνι. Είδε κανείς άλλος οράματα, ή μόνο εγώ;
+> 4. **Ο Οίκος Dahast.** Ξωτικά ή μισοξωτικά στη Waterdeep με αίμα από το Myth Drannor, οποιοδήποτε
+>    αρχείο για τους Dahast μετά το 714, οποιοδήποτε ίχνος της μητέρας μου, της Elyndra. Και θα
+>    είχα ακούσει καμιά από τις παλιές ιστορίες για τον ίδιο τον Khelben, και αν έχει κάποια σχέση
+>    με το Myth Drannor;
+> 5. **Το Τραγούδι.** Θα σιγοτραγουδούσα τις δύο νότες που θυμάμαι σε κάθε ξωτικό βάρδο και
+>    τροβαδούρο που θα στεκόταν να ακούσει, μήπως κάποιος ξέρει την τρίτη.
+> 6. **Το βιβλίο και η λεπίδα.** Bladesong κάθε μέρα, και δουλειά στο spellbook. Έχω βάλει σε σειρά
+>    τα spells που θα ζητούσα να μάθω. Δύο ερωτήσεις κανόνων κρίνουν πόσο μακριά φτάνει αυτό:
+>    χρησιμοποιείς το optional όριο spells ανά level, και θέλει learn rolls το αρχικό spellbook; Και
+>    ποια βιβλία πέρα από το PHB επιτρέπεις;
 >
-> And, sentimentally: on clear nights I'd look up, because of the seed. "When you see the sky
-> without stars…"
+> Και, πιο συναισθηματικά: τις καθαρές νύχτες θα κοίταζα ψηλά, εξαιτίας του σπόρου. "When you see
+> the sky without stars…"
 >
-> Whatever I'd have found, or failed to find, is yours to decide. I'd rather some of it was dead
-> ends.
+> Ό,τι κι αν βρήκα, ή δεν βρήκα, το αποφασίζεις εσύ. Θα προτιμούσα κάποια από αυτά να ήταν
+> αδιέξοδα.
 >
-> Also, thank you for the medallion! Is it the silver pendant with "the old Dahast emblem", the
-> leaf from the foot of the Dahast arms? If so, that settles my question about the pendant. And is
-> "When the ember remembers itself, follow the Song" on its back?
+> Και ευχαριστώ για το μενταγιόν! Είναι το ασημένιο μενταγιόν με "the old Dahast emblem", το
+> φύλλο από τη βάση του θυρεού των Dahast; Αν ναι, λύνεται η απορία μου για το μενταγιόν. Και
+> γράφει στην πίσω πλευρά "When the ember remembers itself, follow the Song";
 >
 > Chris
 
@@ -64,87 +71,94 @@ Two replies, in your usual register (English, structured). Edit freely; nothing 
 **To:** Panayotis Galanopoulos
 **Subject:** Re: 1o ΠΑΚΕΤΟ - SESSION 10 OCT 26
 
-> My dear and devious DM,
+> Αγαπητέ μου και πανούργε DM,
 >
-> Thank you for the pack. Having it in writing changed a lot: half of what Khelben said only
-> really landed when I read it. Your three requests, in order.
+> Ευχαριστώ για το πακέτο. Το ότι τα έχω γραμμένα άλλαξε πολλά: τα μισά από όσα είπε ο Khelben τα
+> κατάλαβα πραγματικά μόνο όταν τα διάβασα. Τα τρία που ζήτησες, με τη σειρά.
 >
-> ### 1. The session, and the binding
+> ### 1. Το session, και το «δέσιμο»
 >
-> The binding didn't feel contrived. Each character walked in for his own reason: Anselm through
-> Nadari and the portal, Dahast with Thaelith's letter, Temag and Birakar on their own roads. And
-> it was Khelben, not coincidence, who put us in one room. Then, reading the pack, it clicked:
-> Thaelith's frozen anvils and closed road, the door in Dahast's Blood Moon vision, and Khelben's
-> Valley of Frigid Anvils are the same place. Three roads, one mountain. That's the best kind of
-> binding: you set it up long before we could see it.
+> Το δέσιμο δεν μου φάνηκε καθόλου επιτηδευμένο. Ο καθένας μπήκε για τον δικό του λόγο: ο Anselm
+> μέσω της Nadari και του portal, ο Dahast με το γράμμα της Thaelith, ο Temag και ο Birakar από
+> τους δικούς τους δρόμους. Και ήταν ο Khelben, όχι η σύμπτωση, που μας έβαλε στο ίδιο δωμάτιο.
+> Μετά, διαβάζοντας το πακέτο, έκανε κλικ: τα παγωμένα αμόνια και ο κλειστός δρόμος της Thaelith,
+> η πόρτα στο όραμα του Dahast στο Blood Moon, και το Valley of Frigid Anvils του Khelben είναι το
+> ίδιο μέρος. Τρεις δρόμοι, ένα βουνό. Αυτό είναι το καλύτερο είδος δεσίματος: το είχες στήσει
+> πολύ πριν μπορέσουμε να το δούμε.
 >
-> Two smaller things:
-> - Anselm's dream came before the abbey, and then the abbey turned out to be the dream. Lovely.
-> - Bringing Dahast in at the Tower, after Anselm had already been through the abbey, made
->   two characters easy to run.
+> Δύο μικρότερα:
+> - Το όνειρο του Anselm ήρθε πριν από το αβαείο, και μετά το αβαείο αποδείχτηκε ότι ήταν το
+>   όνειρο. Υπέροχο.
+> - Το ότι έφερες τον Dahast στον Πύργο αφού ο Anselm είχε ήδη περάσει από το αβαείο έκανε τους δύο
+>   χαρακτήρες εύκολους στο παίξιμο.
 >
-> And one wish: keep sending the long texts in writing, as you just did. The recording turns
-> half the names to mush, and I'd rather argue with your words than with a transcript's.
+> Και μια ευχή: συνέχισε να στέλνεις τα μεγάλα κείμενα γραπτά, όπως τώρα. Η ηχογράφηση κάνει τα
+> μισά ονόματα χυλό, και προτιμώ να τα βάζω με τα δικά σου λόγια παρά με ένα transcript.
 >
-> ### 2. For Khelben
+> ### 2. Για τον Khelben
 >
 > **Dahast**
-> 1. Thaelith: why you? What did she want you to do with me?
-> 2. Her letter says not to let me go north alone, and to find the dwarves. Is that what you're
->    advising: north, with Temag and Birakar?
-> 3. You said my mark is dwarven, and that I carry "a memory that belongs to the elves". What
->    memory? And who were the elves who "came from the west, though no elf had crossed the
->    passes"?
-> 4. Moradin told Thorad: "Hide the glyph. Seal the secret." Can a glyph be hidden in a person?
-> 5. What does it mean that I have no page in Jergal's book? A protection, or a danger?
-> 6. Did you know House Dahast, in Myth Drannor or after it?
+> 1. Η Thaelith: γιατί εσύ; Τι ήθελε να κάνεις μαζί μου;
+> 2. Το γράμμα της λέει να μη με αφήσεις να πάω βόρεια μόνος, και να βρω τους νάνους. Αυτό
+>    συμβουλεύεις κι εσύ: βόρεια, με τον Temag και τον Birakar;
+> 3. Είπες ότι το σημάδι μου είναι νάνικο, και ότι κουβαλάω μια μνήμη που ανήκει στα ξωτικά.
+>    Ποια μνήμη; Και ποια ήταν τα ξωτικά που "came from the west, though no elf had crossed the
+>    passes";
+> 4. Ο Moradin είπε στον Thorad: "Hide the glyph. Seal the secret." Μπορεί ένα glyph να κρυφτεί
+>    πάνω σε κάποιον;
+> 5. Τι σημαίνει που δεν έχω σελίδα στο βιβλίο του Jergal; Προστασία, ή κίνδυνος;
+> 6. Ήξερες τον Οίκο Dahast, στο Myth Drannor ή μετά;
 >
 > **Anselm**
-> 1. The tome you read Thalassar and Aemund from: where does it come from, who copied it, and
->    may I read it? Some of Pylacheus's letters seem to survive only as quotations. You have one
->    whole.
-> 2. Aemund's letter and the Pylacheus of the Selimbrar leaves can't both be the same man. The
->    leaves say he taught that the god *is* pain; the letter says pain is how the world tells us
->    something matters. Which one do you believe, and do you know who holds the copy of the Handbook that
->    "should not exist"?
-> 3. Whose was the Divine Order that forbade parts of this history?
-> 4. Who is *U.*, who wrote to you from Candlekeep? Could I write to them?
-> 5. You asked me whether I'd prefer Bhaal broken or whole. Before I answer: who gains from
->    "broken"?
-> 6. The symbol from my dream, and from the slab in the abbey: do you know it?
+> 1. Ο τόμος απ' όπου διάβασες τον Thalassar και τον Aemund: από πού προέρχεται, ποιος τον
+>    αντέγραψε, και μπορώ να τον διαβάσω; Από την αλληλογραφία του Pylacheus κάποια γράμματα
+>    φαίνεται να σώζονται μόνο σε παραθέματα. Εσύ έχεις ένα ολόκληρο.
+> 2. Το γράμμα του Aemund και ο Pylacheus των φύλλων του Selimbrar δεν μπορεί να είναι ο ίδιος
+>    άνθρωπος. Τα φύλλα λένε ότι δίδασκε πως «ο θεός δεν στέκεται δίπλα στον πόνο: είναι ο πόνος».
+>    Το γράμμα λέει ότι ο πόνος είναι «η γλώσσα με την οποία ο κόσμος μας λέει ότι κάτι έχει
+>    σημασία». Ποιον από τους δύο πιστεύεις; Και ξέρεις ποιος έχει το αντίγραφο του Εγχειριδίου που
+>    «δεν θα έπρεπε να υπάρχει»;
+> 3. Ποιανού ήταν το Divine Order που απαγόρευσε κομμάτια αυτής της ιστορίας;
+> 4. Ποιος είναι ο *U.* που σου έγραψε από το Candlekeep; Θα μπορούσα να του γράψω;
+> 5. Με ρώτησες αν θα προτιμούσα τον Bhaal σπασμένο ή ολόκληρο. Πριν απαντήσω: ποιος κερδίζει από
+>    το «σπασμένο»;
+> 6. Το σύμβολο από το όνειρό μου, και από την πλάκα στο αβαείο: το ξέρεις;
 >
-> **All of us**
-> - Who is waking the nodes? Where are the other three Wards, and the other three Forgemasters?
-> - The names on the Anvilstone Medallion.
-> - Malygris and the Black Dunes: are you asking us to go?
-> - Matt.
+> **Όλοι μας**
+> - Ποιος ξυπνάει τα nodes; Πού είναι τα άλλα τρία Wards, και οι άλλοι τρεις Forgemasters;
+> - Τα ονόματα στο Anvilstone Medallion.
+> - Ο Malygris και τα Black Dunes: μας ζητάς να πάμε;
+> - Ο Matt.
 >
-> ### 3. Theories
+> ### 3. Θεωρίες
 >
-> Take these as the characters thinking aloud.
+> Πάρ' τες σαν τους χαρακτήρες να σκέφτονται φωναχτά.
 >
-> - **One valley.** The Shrine of Moradin's Flame is in the valley on Dahast's door. Temag carries
->   the blood that "remembers"; Dahast carries a dwarven mark that Thaelith says is *not* of his
->   blood. Two halves of something.
-> - **Pylacheus's record has been tampered with.** He has three portraits: the heretic of the
->   leaves, the gentle man of the letter, and the scholar my mentor thought was hiding in plain
->   sight. And he has three ends: condemned and saved when Gestas took his place (as our notes
->   have it), dead of illness, or dead of his own practice. They can't all be true. Somebody wanted us to believe one version, and
->   Anselm wants to know who.
-> - **Alaundo's last lines are Selimbrar's test.** "The hand that suffers willingly" is the first
->   of the Seven Signs, and "the blade that bleeds for another" is Selimbrar's man who stands in
->   the fire to save someone else. The prophecy names the true sufferer, and the abbey already
->   showed us a counterfeit: "So do I. The difference is only the God we name."
-> - **The Temple is early.** The Candlekeep letter has it returning about every thousand years,
->   at −598 and 400 DR. The next would be around 1400, and it's 1160. Khelben said Bhaal's return
->   was arranged. So, perhaps, is the Temple's.
+> - **Μία κοιλάδα.** Το Shrine of Moradin's Flame είναι στην κοιλάδα της πόρτας του Dahast. Ο
+>   Temag κουβαλάει το αίμα που "remembers". Ο Dahast κουβαλάει ένα νάνικο σημάδι που η Thaelith
+>   λέει ότι *δεν* είναι του αίματός του. Δύο μισά από κάτι.
+> - **Κάποιος έχει πειράξει το αρχείο του Pylacheus.** Έχει τρία πορτρέτα: τον αιρετικό των
+>   φύλλων, τον ήπιο άνθρωπο του γράμματος, και τον λόγιο που ο μέντοράς μου πίστευε ότι κρυβόταν
+>   σε κοινή θέα. Και τρία τέλη: καταδικασμένος και σωσμένος όταν ο Gestas πήρε τη θέση του (όπως
+>   το έχουν οι σημειώσεις μας), νεκρός από αρρώστια, ή νεκρός από τις ίδιες του τις ασκήσεις. Δεν
+>   μπορεί να ισχύουν όλα. Κάποιος ήθελε να πιστέψουμε μία εκδοχή, και ο Anselm θέλει να μάθει
+>   ποιος.
+> - **Οι τελευταίοι στίχοι του Alaundo είναι η δοκιμασία του Selimbrar.** Το "the hand that
+>   suffers willingly" είναι το πρώτο από τα Επτά Σημάδια («Γίνεται εκούσια. Κανείς δεν σε
+>   ανάγκασε.»), και το "the blade that bleeds for another" είναι ο άνθρωπος του Selimbrar που
+>   «στέκεται στη φωτιά για να σώσει κάποιον άλλον». Η προφητεία ονομάζει τον αληθινό μάρτυρα, και
+>   το αβαείο μάς έδειξε ήδη έναν κάλπικο: την καινούργια σελίδα που απαντούσε ότι κι αυτός υποφέρει
+>   με τη θέλησή του, και η διαφορά είναι μόνο ο Θεός που ονομάζει.
+> - **Το Temple έρχεται νωρίς.** Το γράμμα από το Candlekeep λέει ότι επανεμφανίζεται κάθε περίπου
+>   χίλια χρόνια, το −598 και το 400 DR. Το επόμενο θα έπεφτε γύρω στο 1400, και είμαστε στο 1160.
+>   Ο Khelben είπε ότι η επιστροφή του Bhaal ήταν "arranged". Ίσως και του Temple.
 >
-> ### 4. Small things
+> ### 4. Μικρά
 >
-> - **The orbs.** Khelben said "remember the orbs", and I can't: that's from the years I wasn't at
->   the table. Brief me, or let Savvas?
-> - **Spelling.** I've been writing **Anselm**; your handouts say **Ancelm**. Which do you want?
-> - Red Handed is "a hybrid of erinyes and vampire ( )": the parentheses are empty in the file.
->   Something you meant to add?
+> - **Τα orbs.** Ο Khelben είπε «θυμηθείτε τα orbs», κι εγώ δεν μπορώ: είναι από τα χρόνια που
+>   έλειπα από το τραπέζι. Θα μου τα πεις εσύ, ή να με ενημερώσει ο Σάββας;
+> - **Ορθογραφία.** Εγώ γράφω **Anselm**, τα handouts σου **Ancelm**. Ποιο θέλεις;
+> - Η Red Handed είναι «υβρίδιο ερινύας και βρικόλακα ()»: οι παρενθέσεις είναι άδειες στο
+>   αρχείο. Κάτι που ήθελες να προσθέσεις;
 >
 > Chris
