@@ -2,6 +2,11 @@
 
 Two replies, in your usual register (English, structured). Edit freely; nothing has been sent.
 
+Canon behind Reply 1's items 6–8: *Complete Book of Elves* (secret names); *Cormanthyr* (High
+Mages and true names); *Demihuman Deities* (Corellon's blood and Sehanine's tears; the Dark
+Disaster); *Lost Empires of Faerûn*, 3e (Aelinthaldaar; the Nether Scrolls found in Aryvandaar;
+the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
+
 - **Reply 1** answers his 10-12 question about the elf's months in Waterdeep, and thanks him for
   the 10-26 medallion. To Panagiotis only.
 - **Reply 2** answers his 10-19 pack: comments, topics for Khelben, theories. His mail went to
@@ -36,11 +41,42 @@ Two replies, in your usual register (English, structured). Edit freely; nothing 
 > 3. **The Blood Moon.** Who else saw anything that night: temples, astrologers, sailors at the
 >    docks. Did anyone else have visions, or was it only me?
 > 4. **House Dahast.** Elves or half-elves in Waterdeep with Myth Drannor blood, any record of the
->    Dahasts after 714, any trace of my mother, Elyndra. And would I have heard any of the old
+>    Dahasts after 714, any trace of my mother, Elyndra. Whether my house ever had High
+>    Mages, and what became of them. And would I have heard any of the old
 >    stories about Khelben himself, and whether he has any tie to Myth Drannor?
 > 5. **The Song.** I'd hum the two notes I remember to every elven bard and minstrel who'd stand
 >    still for it, in case one of them knows the third.
-> 6. **The book and the blade.** Bladesong practice every day, and work on my spellbook. I've
+> 6. **Names.** This is the one I couldn't leave alone. Every elf gets a secret name from the
+>    parents and the priest, and a public one for everyone else. I have neither, and Thaelith said
+>    something else had written itself where mine should be. So I'd go after what a true name *is*.
+>    The elves' own answer is gentle: knowing an elf's true name gives no power over him, and telling
+>    it is a gift of trust. The old High Magic is less gentle: its apprentices learned the true names
+>    of animals and folk, and a High Mage could speak a god's true name in ritual and cut its avatar
+>    from the Weave. Somewhere between those two answers is mine. Can a name be written over? Taken?
+>    And if something wrote itself in the place of mine, is that a name, or the opposite of one? I'd
+>    never ask anyone for their name, and never tell anyone I lack one.
+> 7. **Before the Folly.** Mystra's Weave is younger than the Art: before Karsus it was Mystryl's,
+>    and before the Netherese found the Nether Scrolls in the ruins of Aryvandaar, the magic they
+>    knew was what the elves had taught them. I'd want the elven magic under all of it: High Magic
+>    before the mythals, the Crown Wars, the Dark Disaster that turned Miyeritar into the High Moor.
+>    It's the history elves rarely speak of even among themselves, which is exactly why I'd want it.
+>    And it's under my feet. Waterdeep stands where Aelinthaldaar stood, Illefarn's capital, razed
+>    with High Magic on its own coronal's order before its people sailed for Evermeet. No ruins were
+>    left. Only crypts, and a high magic that still runs, a secret the city's own elves keep. I'd try
+>    to earn my way to them, and ask, as one elf to another, what was worth unmaking a city rather
+>    than leaving it behind. It's my mark's question in stone: forgotten by design.
+> 8. **Where things begin, carefully.** The one I'd keep closest. I'd never say the words Garden,
+>    Seed or Light aloud. The sword is my cover: Rathael wants "the unfallen tear of Sehanine's
+>    Daughter", and the elves say they sprang from Corellon's blood mingled with Sehanine's tears. A
+>    bladesinger asking about that is pious, not suspicious. From there, slowly, the rest: how the
+>    elves tell the making of the world, and how the House of the Moon tells it, Selûne's light and
+>    Shar's dark, with Mystryl born of their battle. The first light and the first night. What the
+>    Moon's priests made of the Long Night, which everyone lived through, so asking costs nothing.
+>    And, only ever in passing, whether any telling, elven or older, has a light before the moon, or
+>    a song before the singer. Bards for the songs, priests for the stories, sages for the texts;
+>    never the same person twice, never the whole question at once. If anyone asked why: the sword.
+>    It's even true.
+> 9. **The book and the blade.** Bladesong practice every day, and work on my spellbook. I've
 >    ranked the spells I'd ask to learn. Two rules questions decide how far that goes: do you use
 >    the optional limit on spells per level, and does the starting book need learn rolls? And
 >    which books beyond the PHB do you allow?
