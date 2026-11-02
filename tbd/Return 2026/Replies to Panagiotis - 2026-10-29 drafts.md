@@ -37,7 +37,7 @@ Two replies, in your usual register (English, structured). Edit freely; nothing 
 >    docks. Did anyone else have visions, or was it only me?
 > 4. **House Dahast.** Elves or half-elves in Waterdeep with Myth Drannor blood, any record of the
 >    Dahasts after 714, any trace of my mother, Elyndra. And would I have heard any of the old
->    stories about Khelben himself? He was born in Myth Drannor too.
+>    stories about Khelben himself, and whether he has any tie to Myth Drannor?
 > 5. **The Song.** I'd hum the two notes I remember to every elven bard and minstrel who'd stand
 >    still for it, in case one of them knows the third.
 > 6. **The book and the blade.** Bladesong practice every day, and work on my spellbook. I've
@@ -97,7 +97,7 @@ Two replies, in your usual register (English, structured). Edit freely; nothing 
 >    passes"?
 > 4. Moradin told Thorad: "Hide the glyph. Seal the secret." Can a glyph be hidden in a person?
 > 5. What does it mean that I have no page in Jergal's book? A protection, or a danger?
-> 6. You were born in Myth Drannor. Did you know House Dahast?
+> 6. Did you know House Dahast, in Myth Drannor or after it?
 >
 > **Anselm**
 > 1. The tome you read Thalassar and Aemund from: where does it come from, who copied it, and
