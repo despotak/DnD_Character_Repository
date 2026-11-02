@@ -169,8 +169,11 @@ silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 > 3. Whose was the Divine Order that forbade parts of this history?
 > 4. Who is *U.*, who wrote to you from Candlekeep? Could I write to them?
 > 5. You asked me whether I'd prefer Bhaal broken or whole. Before I answer: who gains from
->    "broken"?
+>    "broken"? And if the Candlekeep letter's third theory is right, and Bhaal is "the blade that
+>    finally closes the throat", is a whole Bhaal the price of ending the Temple?
 > 6. The symbol from my dream, and from the slab in the abbey: do you know it?
+> 7. Does your tome describe the sixth seal in full? Irildë puts a bleeding moon beside a sky that
+>    weeps stars, and we've had the Blood Moon.
 >
 > **All of us**
 > - Who is waking the nodes? Where are the other three Wards, and the other three Forgemasters?
@@ -193,10 +196,30 @@ silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 > - **Alaundo's last lines are Selimbrar's test.** "The hand that suffers willingly" is the first
 >   of the Seven Signs, and "the blade that bleeds for another" is Selimbrar's man who stands in
 >   the fire to save someone else. The prophecy names the true sufferer, and the abbey already
->   showed us a counterfeit: "So do I. The difference is only the God we name."
+>   showed us a counterfeit: "So do I. The difference is only the God we name." And it isn't the
+>   only hand in the pack. The Hand of God is the Chosen who opens the first seals; the "hand
+>   unclean" is Red Handed; Ilmater's symbol is two bound hands. Khelben said seals are broken by
+>   love, not by the wicked. Anselm's fear: whoever could open them and whoever could turn the storm
+>   aside are the same person, told apart only by the choice.
 > - **The Temple is early.** The Candlekeep letter has it returning about every thousand years,
 >   at −598 and 400 DR. The next would be around 1400, and it's 1160. Khelben said Bhaal's return
->   was arranged. So, perhaps, is the Temple's.
+>   was arranged. So, perhaps, is the Temple's. And both signs before it were ours: the Long
+>   Night came when the old party went into the Demiplane of Shadow for Matt's memories, and Anselm
+>   tied the rain of bodies after Karran-Kul to Bhaal's return. Did we do this?
+> - **The seals are the nodes.** A second Reckoning needs a first, and Khelben's chronicle has one:
+>   four unbound elemental powers, and Moradin's answer. Khelben reads "the fourth part of the
+>   World" as perhaps the four elements, and the sixth seal looses them. So the first four seals may
+>   be the nodes, the Chosen who opens them the Temple's Champion, and the Wards the dwarves' seals
+>   over them.
+> - **The fifth seal runs on false martyrs.** It releases the martyrs' cries of the world to the
+>   gods. Selimbrar's seventh sign says true martyrdom asks no recognition, not even from the god,
+>   and Pylacheus cut the fourth and fifth, measure and an end. Endless pain crying out to be seen
+>   is the fuel. And a μάρτυρας is also a witness: those who remember burn too.
+> - **Someone is counting names.** "When the last name is spoken, I shall take the breath." "He who
+>   ends all things awaits the last breath." Jergal was once the Lord of the End of Everything; his
+>   priests read the year's dead aloud and, at the last name, cried "one year closer". Anselm
+>   dreamt THE DEAD HAVE BEEN READ. And Jergal ends a life by writing its name: is that why Hedrack,
+>   who has none, keeps coming back?
 >
 > ### 4. Small things
 >

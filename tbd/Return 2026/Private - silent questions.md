@@ -99,3 +99,12 @@ From the canon checks behind Reply 1's research items. The facts are [C]; the li
   called Temag High Old One. If the dwarves' hidden thing has a door in Waterdeep, it may be there.
 - **464, the Year of the True Names**, is the year the nameless Arun's Son became Mystra's
   Chosen (*Cormanthyr*, timeline). Reply 1's item 6 lets the elf find it without naming Khelben.
+
+---
+
+## More silent ones, in the theories file (2026-11-02)
+
+`Theories 2026-11-02 - Temple, Apocalypse and the rest.md` marks every theory shareable or silent.
+The silent ones: the sixth seal's sky and the white seed (§10), the Legion's Scroll as the
+seven-sealed scroll, with Matt as a reader (§11), Shar behind the forgetting (§8), and the
+name-readings and puns (§12).
