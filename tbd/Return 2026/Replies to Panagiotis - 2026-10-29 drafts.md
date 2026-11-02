@@ -5,10 +5,12 @@ English, the way Panagiotis writes his. Where his handouts are in Greek (Aemund'
 Selimbrar leaves), the quotes use his own Greek words. The English version sits beside it,
 as `… drafts (English).md`. Edit freely; nothing has been sent.
 
-Canon behind Reply 1's items 6–8: *Complete Book of Elves* (secret names); *Cormanthyr* (High
-Mages and true names); *Demihuman Deities* (Corellon's blood and Sehanine's tears; the Dark
-Disaster); *Lost Empires of Faerûn*, 3e (Aelinthaldaar; the Nether Scrolls found in Aryvandaar;
-the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
+Canon behind Reply 1's research: *Complete Book of Elves* (secret names); *Cormanthyr* (High
+Mages and true names; the *selû'kiira*; 464, the Year of the True Names); *Demihuman Deities*
+(Corellon's blood and Sehanine's tears; the Dark Disaster; the Tears of Aloevan and the Veiled
+Choir; the Vault of Hidden Silences); *Elves of Evermeet* (moonblades); *Lost Empires of
+Faerûn*, 3e (Aelinthaldaar; the Melairkyn; the Nether Scrolls found in Aryvandaar; the elves'
+silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 
 - **Reply 1** answers his 10-12 question about the elf's months in Waterdeep, and thanks him for
   the 10-26 medallion. To Panagiotis only.
@@ -37,10 +39,16 @@ the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >    ταιριάζει με το πώς ήρθε το σπαθί σε μένα. Μετά, ο γρίφος: "the unfallen tear of Sehanine's
 >    Daughter", "the silver-leaf root". Θα ρωτούσα τον κλήρο της Selûne στο House of the Moon, και
 >    όποιο ξωτικό στην πόλη κρατάει τις τελετές της Sehanine, τι μπορεί να είναι η "Sehanine's
->    Daughter".
+>    Daughter". Και αφού ο Rathael απαντά μόνο στο αίμα των Dahast: τι κάνει ένα σπαθί δεμένο με
+>    μία γενιά σε λάθος χέρι, και αν κοιμάται όταν η γενιά του σωπαίνει.
 > 2. **Delzoun, διακριτικά.** Νάνοι λόγιοι, σιδεράδες, ναοί: οι τελευταίες μέρες του Delzoun, ένας
 >    παλιός βόρειος δρόμος εκεί που οι νάνικοι δρόμοι χάνονται κάτω από τα βουνά, παγωμένα αμόνια,
->    και κάθε ιστορία για ξωτικά εκεί πάνω. Το σημάδι δεν θα το έδειχνα ποτέ: η Saelith απαγόρευσε
+>    και κάθε ιστορία για ξωτικά εκεί πάνω. Η πιο κοντινή νάνικη μνήμη είναι κάτω από τα πόδια μου:
+>    οι Melairkyn έσκαψαν κάτω από το Mount Waterdeep πριν από πάρα πολύ καιρό, με την άδεια των
+>    ξωτικών της Aelinthaldaar (βλ. 7), και μετά χάθηκαν. Ένας από καιρό σφραγισμένος ναός του
+>    Dumathoin, το Vault of Hidden Silences, λέγεται ότι φυλάει ακόμη τις κρύπτες τους. Ξωτικά και
+>    νάνοι μοιράζονταν κάποτε αυτό το βουνό, και θα ήθελα να μάθω τι φύλαγαν μαζί. Μόνο μέσω
+>    λογίων· από τις βαθιές αίθουσες θα κρατιόμουν μακριά. Το σημάδι δεν θα το έδειχνα ποτέ: η Saelith απαγόρευσε
 >    να αντιγραφεί, και δεν το έχω ζωγραφίσει ποτέ. Ούτε θα έλεγα *Ruan Famkul* σε αγνώστους. Ένα
 >    σημάδι που σημαίνει «αυτό που αφαιρέθηκε σκόπιμα από τη μνήμη» σε μαθαίνει να ρωτάς από την
 >    άκρη.
@@ -48,7 +56,10 @@ the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >    λιμάνι. Είδε κανείς άλλος οράματα, ή μόνο εγώ;
 > 4. **Ο Οίκος Dahast.** Ξωτικά ή μισοξωτικά στη Waterdeep με αίμα από το Myth Drannor, οποιοδήποτε
 >    αρχείο για τους Dahast μετά το 714, οποιοδήποτε ίχνος της μητέρας μου, της Elyndra. Αν ο
->    Οίκος μου είχε ποτέ High Mages, και τι απέγιναν. Και θα
+>    Οίκος μου είχε ποτέ High Mages, και τι απέγιναν αυτοί και τα πετράδια τους: το *selû'kiira*
+>    ενός High Mage πρέπει να επιστρέφει στους άλλους όταν πεθαίνει ο φορέας του, και κάποια δεν
+>    επέστρεψαν ποτέ. Ένα πετράδι που κρατάει τις μνήμες ενός Οίκου, για ένα ξωτικό που οι δικές
+>    του μνήμες έρχονται σε θραύσματα. Και θα
 >    είχα ακούσει καμιά από τις παλιές ιστορίες για τον ίδιο τον Khelben, και αν έχει κάποια σχέση
 >    με το Myth Drannor;
 > 5. **Το Τραγούδι.** Θα σιγοτραγουδούσα τις δύο νότες που θυμάμαι σε κάθε ξωτικό βάρδο και
@@ -62,7 +73,11 @@ the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >    και λαών, και ένας High Mage μπορούσε να εκφωνήσει σε τελετουργία το αληθινό όνομα ενός θεού και
 >    να κόψει το avatar του από το Weave. Κάπου ανάμεσα σε αυτές τις δύο απαντήσεις είναι η δική μου.
 >    Μπορεί ένα όνομα να γραφτεί από πάνω; Να αφαιρεθεί; Κι αν κάτι γράφτηκε στη θέση του δικού μου,
->    είναι όνομα, ή το αντίθετο ενός ονόματος; Δεν θα ρωτούσα ποτέ κανέναν το όνομά του, και δεν θα
+>    είναι όνομα, ή το αντίθετο ενός ονόματος; Τα ξωτικά χρονικά έχουν μάλιστα κι ένα Year of the
+>    True Names, το 464: τη χρονιά που ένας άνθρωπος χωρίς όνομα, που τον έλεγαν Arun's Son,
+>    πέθανε στην Anauroch σώζοντας τρία ξωτικά της Evereska, και η Mystra τον γύρισε πίσω ως Chosen
+>    της. Ο Nameless Chosen. Το πώς ένας άνθρωπος χωρίς όνομα αποκτά ένα είναι ερώτηση που θα την
+>    κουβαλούσα πολύ μακριά. Δεν θα ρωτούσα ποτέ κανέναν το όνομά του, και δεν θα
 >    έλεγα ποτέ σε κανέναν ότι μου λείπει.
 > 7. **Πριν από το Folly.** Το Weave της Mystra είναι νεότερο από την Τέχνη: πριν από τον Karsus
 >    ήταν της Mystryl, και πριν βρουν οι Netherese τα Nether Scrolls στα ερείπια της Aryvandaar, η
@@ -88,7 +103,18 @@ the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >    ή ένα τραγούδι πριν από τον τραγουδιστή. Βάρδοι για τα τραγούδια, ιερείς για τις ιστορίες,
 >    λόγιοι για τα κείμενα· ποτέ ο ίδιος άνθρωπος δύο φορές, ποτέ ολόκληρη η ερώτηση μονομιάς. Κι αν
 >    με ρωτούσε κανείς γιατί: το σπαθί. Είναι και αλήθεια.
-> 9. **Το βιβλίο και η λεπίδα.** Bladesong κάθε μέρα, και δουλειά στο spellbook. Έχω βάλει σε σειρά
+> 9. **Ardeep.** Λιγότερο από μια μέρα με το άλογο από τα τείχη είναι ό,τι απέμεινε από ένα
+>    βασίλειο των ξωτικών, και μέσα του ο πιο ιερός τόπος της Sehanine: τα Tears of Aloevan, όπου
+>    φτάνεις από μια λιμνούλα σε ένα ξέφωτο που δεν ανήκει ακριβώς στο δάσος γύρω του. Η Aloevan
+>    ήταν βασίλισσα των moon elves, Chosen και της Sehanine και της Mystra, που δεν μπόρεσε να
+>    κρατήσει τη silver fire μέσα της. Όταν πέθανε, το πνεύμα της πιάστηκε ανάμεσα σε αυτόν τον
+>    κόσμο και το Arvandor, και οι ιερείς της Sehanine ξαναέστησαν την αυλή της μέσα σε εκείνη τη
+>    φωτιά. Ο δρόμος ανοίγει μόνο όταν γίνεται έκλειψη ηλίου. Θα πήγαινα με τον γρίφο μου για το
+>    δάκρυ της Sehanine, που είναι αρκετός λόγος για κάθε ιερέα της. Και θα τους ρωτούσα για το
+>    Veiled Choir: τις μάντισσες της Sehanine, που τραγουδούν ό,τι βλέπουν, σε ναούς που τους
+>    έχουν ξεχάσει ακόμη και τα ξωτικά. Κανείς δεν τις βρίσκει ακολουθώντας τα βήματα κάποιου
+>    άλλου, μόνο ψάχνοντας μόνος του. Εγώ ψάχνω ένα τραγούδι όλη μου τη ζωή.
+> 10. **Το βιβλίο και η λεπίδα.** Bladesong κάθε μέρα, και δουλειά στο spellbook. Έχω βάλει σε σειρά
 >    τα spells που θα ζητούσα να μάθω. Δύο ερωτήσεις κανόνων κρίνουν πόσο μακριά φτάνει αυτό:
 >    χρησιμοποιείς το optional όριο spells ανά level, και θέλει learn rolls το αρχικό spellbook; Και
 >    ποια βιβλία πέρα από το PHB επιτρέπεις;

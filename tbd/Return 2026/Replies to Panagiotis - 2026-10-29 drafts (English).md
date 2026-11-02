@@ -2,10 +2,12 @@
 
 Two replies, in your usual register (English, structured). Edit freely; nothing has been sent.
 
-Canon behind Reply 1's items 6–8: *Complete Book of Elves* (secret names); *Cormanthyr* (High
-Mages and true names); *Demihuman Deities* (Corellon's blood and Sehanine's tears; the Dark
-Disaster); *Lost Empires of Faerûn*, 3e (Aelinthaldaar; the Nether Scrolls found in Aryvandaar;
-the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
+Canon behind Reply 1's research: *Complete Book of Elves* (secret names); *Cormanthyr* (High
+Mages and true names; the *selû'kiira*; 464, the Year of the True Names); *Demihuman Deities*
+(Corellon's blood and Sehanine's tears; the Dark Disaster; the Tears of Aloevan and the Veiled
+Choir; the Vault of Hidden Silences); *Elves of Evermeet* (moonblades); *Lost Empires of
+Faerûn*, 3e (Aelinthaldaar; the Melairkyn; the Nether Scrolls found in Aryvandaar; the elves'
+silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 
 - **Reply 1** answers his 10-12 question about the elf's months in Waterdeep, and thanks him for
   the 10-26 medallion. To Panagiotis only.
@@ -32,17 +34,25 @@ the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >    Tree. I'd like the Waterdeep months to be when that happened, if it fits how the sword came
 >    to me. After that, the riddle: "the unfallen tear of Sehanine's Daughter", "the silver-leaf
 >    root". I'd ask Selûne's clergy at the House of the Moon, and any elf in the city who keeps
->    Sehanine's rites, what "Sehanine's Daughter" could mean.
+>    Sehanine's rites, what "Sehanine's Daughter" could mean. And since Rathael answers only to Dahast
+>    blood: what a blade bound to one bloodline does in the wrong hand, and whether it sleeps when
+>    its line goes quiet.
 > 2. **Delzoun, quietly.** Dwarven sages, smiths and temples: the last days of Delzoun, an old
 >    northern route where the dwarven roads go under the mountains, frozen anvils, and any story
->    of elves up there. I'd never show the mark, since Saelith forbade copying it and I've never
+>    of elves up there. The nearest dwarven memory is under my feet: the Melairkyn dug beneath Mount
+>    Waterdeep long ago, with the leave of the elves of Aelinthaldaar (see 7), and then vanished. A
+>    long-sealed temple of Dumathoin, the Vault of Hidden Silences, is said to keep their crypts
+>    still. Elves and dwarves once shared this mountain, and I'd want to know what they kept
+>    together. Through sages only; I'd stay out of the deep halls. I'd never show the mark, since Saelith forbade copying it and I've never
 >    drawn it. I wouldn't say *Ruan Famkul* to strangers either. A mark that means "removed from
 >    remembrance" teaches you to ask around the edges.
 > 3. **The Blood Moon.** Who else saw anything that night: temples, astrologers, sailors at the
 >    docks. Did anyone else have visions, or was it only me?
 > 4. **House Dahast.** Elves or half-elves in Waterdeep with Myth Drannor blood, any record of the
 >    Dahasts after 714, any trace of my mother, Elyndra. Whether my house ever had High
->    Mages, and what became of them. And would I have heard any of the old
+>    Mages, and what became of them and of their gems: a High Mage's *selû'kiira* is meant to go
+>    back to the others when its bearer dies, and some never did. A gem that holds a house's
+>    memories, for an elf whose own come in fragments. And would I have heard any of the old
 >    stories about Khelben himself, and whether he has any tie to Myth Drannor?
 > 5. **The Song.** I'd hum the two notes I remember to every elven bard and minstrel who'd stand
 >    still for it, in case one of them knows the third.
@@ -53,8 +63,11 @@ the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >    it is a gift of trust. The old High Magic is less gentle: its apprentices learned the true names
 >    of animals and folk, and a High Mage could speak a god's true name in ritual and cut its avatar
 >    from the Weave. Somewhere between those two answers is mine. Can a name be written over? Taken?
->    And if something wrote itself in the place of mine, is that a name, or the opposite of one? I'd
->    never ask anyone for their name, and never tell anyone I lack one.
+>    And if something wrote itself in the place of mine, is that a name, or the opposite of one? The
+>    elven chronicles even have a Year of the True Names, 464: the year a nameless human called
+>    Arun's Son died in Anauroch saving three Evereskan elves, and Mystra brought him back as her
+>    Chosen. The Nameless Chosen. How a man with no name comes by one is a question I'd carry a
+>    long way. I'd never ask anyone for their name, and never tell anyone I lack one.
 > 7. **Before the Folly.** Mystra's Weave is younger than the Art: before Karsus it was Mystryl's,
 >    and before the Netherese found the Nether Scrolls in the ruins of Aryvandaar, the magic they
 >    knew was what the elves had taught them. I'd want the elven magic under all of it: High Magic
@@ -76,7 +89,17 @@ the elves' silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >    a song before the singer. Bards for the songs, priests for the stories, sages for the texts;
 >    never the same person twice, never the whole question at once. If anyone asked why: the sword.
 >    It's even true.
-> 9. **The book and the blade.** Bladesong practice every day, and work on my spellbook. I've
+> 9. **Ardeep.** Less than a day's ride from the walls is the last of an elven kingdom, and in it
+>    the place most sacred to Sehanine: the Tears of Aloevan, reached through a pool in a glen that
+>    doesn't quite belong to the forest around it. Aloevan was a moon-elf queen, Chosen of both
+>    Sehanine and Mystra, who couldn't hold the silver fire inside her. When she died, her spirit
+>    was caught between this world and Arvandor, and Sehanine's priests rebuilt her court inside
+>    that fire. The way in opens only when the sun is eclipsed. I'd go with my riddle about
+>    Sehanine's tear, which is reason enough for any priest of hers. And I'd ask them about the
+>    Veiled Choir: Sehanine's seers, who sing what they see, in temples even the elves have
+>    forgotten. No one finds them by following someone else's steps, only by looking for
+>    themselves. I've been looking for a song my whole life.
+> 10. **The book and the blade.** Bladesong practice every day, and work on my spellbook. I've
 >    ranked the spells I'd ask to learn. Two rules questions decide how far that goes: do you use
 >    the optional limit on spells per level, and does the starting book need learn rolls? And
 >    which books beyond the PHB do you allow?

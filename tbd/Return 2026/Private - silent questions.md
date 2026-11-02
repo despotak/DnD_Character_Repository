@@ -81,3 +81,21 @@ horns and a central drop. The mark's dwarven name, *Ruan Famkul*, means "that wh
 been deliberately removed from remembrance". In other words, **oblivion**. If that's a
 joke, it's a very good one. Whether he meant anything by the source, we keep to
 ourselves.
+
+---
+
+## Ardeep, the dwarves under Waterdeep, and a year (2026-11-02)
+
+From the canon checks behind Reply 1's research items. The facts are [C]; the links are [I].
+
+- **Ardeep Forest was the first of the Oghmanite's two near-deaths**, the ones he remembers only
+  as perfume, blood, a red feather and a woman's voice saying "Not yet" (OGH). Reply 1's item 9
+  now sends the elf to the same forest, for Sehanine's sake. The letter doesn't say so.
+- **The Tears of Aloevan open only at a solar eclipse**: day looking as night, which is the
+  Westgate ritual's condition (web §9). (*Demihuman Deities*, Sehanine.)
+- **"High Old One" is a canon Dumathoin title.** It belongs to Bandaerl Dumatheir, "blood of
+  Melair", the archlich priest who guards the Vault of Hidden Silences and the Melairkyn crypts
+  on Undermountain's Lost Level (*Demihuman Deities*, Dumathoin). Alathena and Khelben both
+  called Temag High Old One. If the dwarves' hidden thing has a door in Waterdeep, it may be there.
+- **464, the Year of the True Names**, is the year the nameless Arun's Son became Mystra's
+  Chosen (*Cormanthyr*, timeline). Reply 1's item 6 lets the elf find it without naming Khelben.
