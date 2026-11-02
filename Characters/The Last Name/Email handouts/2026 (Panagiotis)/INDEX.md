@@ -10,9 +10,9 @@ they're new.
 | 10-03 19:37 | Panagiotis | Teaser no.2 | (body: first draft of the Oghmanite, "Seeker of Lost Truths") |
 | 10-05 09:56 | Panagiotis | Custom Oghma Kit | first version of the kit |
 | 10-05 16:57 | Panagiotis | Fw: O | near-final Oghmanite background |
-| 10-06 19:04 | Panagiotis | Draft for Elf - Background | the elf draft (same as `tbd/`) |
+| 10-06 19:04 | Panagiotis | Draft for Elf - Background | the elf draft (same as `The Last Name/`) |
 | 10-08 14:32 | Christos | Έτσι γιατί τα θές | Oghmanite + kit with your Word comments |
-| 10-08 14:55 | Panagiotis | Re: Έτσι γιατί τα θές | Nennul Exul, Shards of Bhaal, Westgate (same as `tbd/`) |
+| 10-08 14:55 | Panagiotis | Re: Έτσι γιατί τα θές | Nennul Exul, Shards of Bhaal, Westgate (same as `The Last Name/`) |
 | 10-09 00:25 | Christos | Even more comments and additions + some questions | elf + Oghmanite with your comments; the questions in the body (Gmail holds nine copies) |
 | **10-09 10:22** | **Panagiotis** | **Re: Even more comments…** | **his answers, inline in red** (digest below) |
 | 10-09 10:23 | Panagiotis | Re: Draft for Elf - Background | **`Elf Birthmark.jpg`**, **`DAHAST HOUSE.png`** |
