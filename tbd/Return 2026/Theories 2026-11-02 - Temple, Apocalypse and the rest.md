@@ -38,7 +38,7 @@ Beside the campaign:
 | The campaign | Jergal [C] |
 |---|---|
 | "When the last name is spoken, I shall take the breath. Not before." The third voice near Hedrack, 4th century (CK) | "When the last name was intoned…", "one year closer" |
-| "He who ends all things awaits the last breath", carved in the abbey crypt [S Sat 6:53] | Lord of the End of Everything |
+| "He who ends all things awaits the last breath", carved in the abbey crypt [S Sat 6:53]; still (listen), so unquoted in the letter | Lord of the End of Everything |
 | ***THE DEAD HAVE BEEN READ***, behind the altar in Ancelm's dream (WGV) | the rite is reading the dead aloud |
 | A **Grey** Pact between "a voice of endings" and "a knife of necessity" (CK) | a disembodied voice, and a realm in the Gray Waste; the knife is Bhaal, whom the letter calls the god of necessary murder |
 | Irildë's **Heir of Dusk**, "Whose breath stills light, and whose eyes drink fate" (OGH) | dusk is in his portfolio, and his gaze reads a being's fate |
@@ -71,7 +71,7 @@ from Jergal with the rest when Bane, Bhaal and Myrkul took his power. Irildë gi
 attributes. Two of them, dusk and the eyes that drink fate, are Jergal's in canon; the third, the
 breath, is what the third voice near Hedrack says it will take. The Black
 Cyst was grooming Lareth "as the future Heir of Dusk" [S Sun 1:13], and the Candlekeep letter has
-Hedrack as Jergal's exarch before his fall (CK). [I] Read together: **a nameless former servant
+Hedrack, by "some records", as perhaps Jergal's exarch before his fall (CK). [I] Read together: **a nameless former servant
 of the god of endings, raising an heir to the endings.** The Temple doesn't want a god; it wants
 the office. Whoever holds the scroll decides when the last name is spoken. **Shareable as a
 question** (whose dusk?); **silent** as the full plan.

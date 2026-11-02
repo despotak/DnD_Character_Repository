@@ -151,7 +151,7 @@ silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 > 1. Thaelith: why you? What did she want you to do with me?
 > 2. Her letter says not to let me go north alone, and to find the dwarves. Is that what you're
 >    advising: north, with Temag and Birakar?
-> 3. You said my mark is dwarven, and that I carry "a memory that belongs to the elves". What
+> 3. You said my mark is dwarven, and that I carry a memory that belongs to the elves. What
 >    memory? And who were the elves who "came from the west, though no elf had crossed the
 >    passes"?
 > 4. Moradin told Thorad: "Hide the glyph. Seal the secret." Can a glyph be hidden in a person?
@@ -196,7 +196,8 @@ silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 > - **Alaundo's last lines are Selimbrar's test.** "The hand that suffers willingly" is the first
 >   of the Seven Signs, and "the blade that bleeds for another" is Selimbrar's man who stands in
 >   the fire to save someone else. The prophecy names the true sufferer, and the abbey already
->   showed us a counterfeit: "So do I. The difference is only the God we name." And it isn't the
+>   showed us a counterfeit: the newer sheet that answered that it, too, suffers willingly, and the
+>   only difference is the God it names. And it isn't the
 >   only hand in the pack. The Hand of God is the Chosen who opens the first seals; the "hand
 >   unclean" is Red Handed; Ilmater's symbol is two bound hands. Khelben said seals are broken by
 >   love, not by the wicked. Anselm's fear: whoever could open them and whoever could turn the storm
@@ -205,7 +206,8 @@ silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >   at −598 and 400 DR. The next would be around 1400, and it's 1160. Khelben said Bhaal's return
 >   was arranged. So, perhaps, is the Temple's. And both signs before it were ours: the Long
 >   Night came when the old party went into the Demiplane of Shadow for Matt's memories, and Anselm
->   tied the rain of bodies after Karran-Kul to Bhaal's return. Did we do this?
+>   read the rain of bodies after Karran-Kul as a sign that Birakar and Temag had touched Bhaal's
+>   return, or its prevention. Did we do this?
 > - **The seals are the nodes.** A second Reckoning needs a first, and Khelben's chronicle has one:
 >   four unbound elemental powers, and Moradin's answer. Khelben reads "the fourth part of the
 >   World" as perhaps the four elements, and the sixth seal looses them. So the first four seals may
@@ -215,8 +217,9 @@ silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >   gods. Selimbrar's seventh sign says true martyrdom asks no recognition, not even from the god,
 >   and Pylacheus cut the fourth and fifth, measure and an end. Endless pain crying out to be seen
 >   is the fuel. And a μάρτυρας is also a witness: those who remember burn too.
-> - **Someone is counting names.** "When the last name is spoken, I shall take the breath." "He who
->   ends all things awaits the last breath." Jergal was once the Lord of the End of Everything; his
+> - **Someone is counting names.** "When the last name is spoken, I shall take the breath." And the
+>   crypt's carving says the one who ends all things awaits the last breath. Jergal was once the
+>   Lord of the End of Everything; his
 >   priests read the year's dead aloud and, at the last name, cried "one year closer". Anselm
 >   dreamt THE DEAD HAVE BEEN READ. And Jergal ends a life by writing its name: is that why Hedrack,
 >   who has none, keeps coming back?

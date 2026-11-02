@@ -229,8 +229,9 @@ silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >   χίλια χρόνια, το −598 και το 400 DR. Το επόμενο θα έπεφτε γύρω στο 1400, και είμαστε στο 1160.
 >   Ο Khelben είπε ότι η επιστροφή του Bhaal ήταν "arranged". Ίσως και του Temple. Και τα δύο
 >   σημάδια πριν από αυτό ήταν δικά μας: η Long Night ήρθε όταν η παλιά ομάδα μπήκε στο Demiplane
->   of Shadow για τις μνήμες του Matt, και ο Anselm έδεσε τη βροχή από πτώματα μετά το Karran-Kul
->   με την επιστροφή του Bhaal. Το κάναμε εμείς;
+>   of Shadow για τις μνήμες του Matt, και ο Anselm διάβασε τη βροχή από πτώματα μετά το Karran-Kul
+>   ως σημάδι ότι ο Birakar και ο Temag άγγιξαν την επιστροφή του Bhaal, ή την αποτροπή της. Το
+>   κάναμε εμείς;
 > - **Οι σφραγίδες είναι τα nodes.** Ένα δεύτερο Reckoning θέλει κι ένα πρώτο, και το χρονικό του
 >   Khelben έχει ένα: τέσσερις αδέσμευτες στοιχειακές δυνάμεις, και την απάντηση του Moradin. Ο
 >   Khelben διαβάζει το "the fourth part of the World" ίσως ως τα τέσσερα Στοιχεία, και η έκτη
@@ -243,8 +244,9 @@ silence on the Crown Wars); FRCS 3e (Selûne, Shar and Mystryl).
 >   Pylacheus έκοψε το τέταρτο και το πέμπτο, το μέτρο και το τέλος. Ο ατελείωτος πόνος που φωνάζει
 >   για να τον δουν είναι το καύσιμο. Και μάρτυρας είναι κι αυτός που είδε: όσοι θυμούνται
 >   καίγονται κι αυτοί.
-> - **Κάποιος μετράει ονόματα.** "When the last name is spoken, I shall take the breath." "He who
->   ends all things awaits the last breath." Ο Jergal ήταν κάποτε ο Lord of the End of Everything·
+> - **Κάποιος μετράει ονόματα.** "When the last name is spoken, I shall take the breath." Και το
+>   σκάλισμα στην κρύπτη λέει ότι αυτός που τελειώνει τα πάντα περιμένει την τελευταία πνοή. Ο
+>   Jergal ήταν κάποτε ο Lord of the End of Everything·
 >   οι ιερείς του διάβαζαν φωναχτά τους νεκρούς της χρονιάς και, στο τελευταίο όνομα, φώναζαν "one
 >   year closer". Ο Anselm είδε στο όνειρό του το THE DEAD HAVE BEEN READ. Κι ο Jergal τελειώνει μια
 >   ζωή γράφοντας το όνομά της: γι' αυτό ο Hedrack, που δεν έχει όνομα, γυρίζει ξανά και ξανά;
