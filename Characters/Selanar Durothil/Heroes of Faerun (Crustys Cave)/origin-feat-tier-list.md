@@ -26,7 +26,7 @@ Full two-axis rating of **every** Origin feat in the local RAW mirror (25 across
 
 | Feat | Source | Mech | Narr | One-line |
 |---|---|:--:|:--:|---|
-| **Spellfire Spark** | FRHoF | ★★★☆☆ | ★★★★★ | Repeatable bonus-action **Sacred Flame** (radiant, INT-castable) + reduce magical damage 1d4/turn. Radiant cantrip = his light theme; "spellfire" = his declared motif; combos with his action-cantrip routine (Action: melee cantrip / Bonus: Sacred Flame). Fable-pass caveats: the bonus action competes with Bladesong activation rounds and (at 14+) Song of Victory — good, not frictionless. Upside: the feat and the pending *Spellfire Blade* reskin are mutually justifying — pitch them to Crusty together. |
+| **Spellfire Spark** | FRHoF | ★★★☆☆ | ★★★★★ | Repeatable bonus-action **Sacred Flame** (radiant, INT-castable) + reduce magical damage 1d4/turn. Radiant cantrip = his light theme; "spellfire" = his declared motif; combos with his action-cantrip routine (Action: melee cantrip / Bonus: Sacred Flame). Fable-pass caveats: the bonus action competes with Bladesong activation rounds and (at 14+) Song of Victory — good, not frictionless. Upside: the feat and the *Spellfire Blade* reskin (accepted) are mutually justifying. |
 | **Alert** | XPHB | ★★★★★ | ★★★☆☆ | Prof to initiative + ally swap. Elite **specifically here** — dynamic initiative applies it every round, and the swap trigger ("immediately after you roll Initiative") RAW fires on *every* per-round reroll, making it a repeatable tactical tool, not a once-per-combat trick (confirm the ruling with Crusty). Flavors as Akh'Faer combat training. |
 | **Lucky** | XPHB | ★★★★★ | ★★★☆☆ | Prof-bonus luck points: self-advantage or impose disadvantage on an attacker. Best defensive feat for a squishy melee caster — and "pixie dust"/faerie-dragon fey-luck flavors it better than a generic pick. |
 | **Magic Initiate (Cleric)** | XPHB | ★★★☆☆ | ★★★★☆ | Off-list cantrips + a slot-free L1 spell. Downgraded now the party has a cleric (Guidance/heal no longer a gap), but residual split-party value + the Corellite-clergy hook keep it strong. Wizard variant is the weaker sibling, not a pure trap (Fable pass): a slot-free Shield 1×/day + two extra cantrips *known* is real on a cantrip-starved squishy Bladesinger — just clearly worse than the Cleric list here. |
@@ -45,9 +45,9 @@ Full two-axis rating of **every** Origin feat in the local RAW mirror (25 across
 | **Cult of the Dragon Initiate** | FRHoF | ★★☆☆☆ | ★☆☆☆☆ | Draconic + a fear effect. Villainous evil-aligned faction — contradicts a Neutral Good noble. |
 | **Zhentarim Ruffian** | FRHoF | ★★★☆☆ | ★☆☆☆☆ | Reroll OA damage + initiative advantage. Mechanically fine, but **the Zhentarim are a listed Enemy on his sheet** — hard no. |
 
-## Group B — Off-setting (D&D 5e, but not Forgotten Realms — needs DM approval)
+## Group B — Off-setting (D&D 5e, but not Forgotten Realms — legal)
 
-The listing says "all 2014/2024 content permitted," which *may* extend to these, but they're from non-FR product lines (Lorwyn = a Magic: the Gathering plane; Ravenloft; Astarion's vampire book). Two of them are among the best fits on the entire list, so they're worth explicitly asking Crusty about rather than silently dropping.
+They're from non-FR product lines (Lorwyn = a Magic: the Gathering plane; Ravenloft; Astarion's vampire book), all three published by Wizards of the Coast, so they're legal: every official book is (2026-11-10). Two of them are among the best fits on the entire list.
 
 | Feat | Source | Mech | Narr | One-line |
 |---|---|:--:|:--:|---|
@@ -67,9 +67,9 @@ Reading the reskin doc reshuffles the top meaningfully from the last pass:
 
 - **New standout for *this* character — Spellfire Spark (FRHoF).** It's the only *available* feat that scores ★★★★★ narrative while still doing real work: it directly instantiates his declared **spellfire** motif and his **radiant/light** damage theme (Sacred Flame), adds passive damage mitigation a squishy caster wants in a lethal game, and slots cleanly into his action economy (Action: melee cantrip; Bonus: Sacred Flame). It dominates Harper Agent — matching it on theme while vastly outdoing it mechanically.
 - **Optimizer's picks — Alert or Lucky** (both ★★★★★ mechanical). Alert is the table-inflated pick (initiative every round); Lucky is the raw-survival pick and now flavors passably via the "pixie dust" fey-luck angle.
-- **Ask the DM about off-setting content before finalizing.** If Crusty allows non-FR books, **Child of the Sun** (★★★/★★★★★ — Faerie Fire is *the* prismatic-light feat) and **Sharp Eye** (★★★★/★★★ — the investigation-game sleeper) are both stronger fits than most of the FR-legal list. This is the single highest-leverage question to resolve, and it pairs naturally with getting the spell-reskin approval you already owe him.
+- **Off-setting content is legal.** **Child of the Sun** (★★★/★★★★★ — Faerie Fire is *the* prismatic-light feat) and **Sharp Eye** (★★★★/★★★ — the investigation-game sleeper) are both stronger fits than most of the FR-legal list.
 
-**My lead is now Spellfire Spark**, with Alert as the pure-power alternative — and a flag to ask Crusty about (a) the three spell reskins and (b) whether off-setting feats like Child of the Sun are on the table, since one of his best thematic options lives there.
+**My lead is now Spellfire Spark**, with Alert as the pure-power alternative. Both questions it raised are settled: the three spell reskins are accepted, and off-setting feats like Child of the Sun are legal (2026-11-10).
 
 Standing correction from the mechanical re-read: the +1 DEX (Mythalkeeper) is right for AC/initiative/DEX-saves, **not** weapon attacks — 2024 Bladesong routes weapon attack/damage through INT.
 

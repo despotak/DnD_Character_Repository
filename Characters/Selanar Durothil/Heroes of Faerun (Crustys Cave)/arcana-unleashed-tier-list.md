@@ -8,7 +8,7 @@ Every feat, spell and magic item in *Arcana Unleashed* (AU, released 2026-09-15)
 - **Spells (33):** 30 are on the Wizard list and rated. **Summon Dinosaur** and **Summon Plant** (druid/ranger) and **Zone of Amicability** (bard/warlock) are off-list. Zone of Amicability is still reachable through Boon of Magic School Mastery (see Epic Boons).
 - **Magic items:** every item, the evolving items, and the evolution rules in ch. 5. Not rated: the ten faction trinket tables (mundane), ammunition (he has no ranged weapon), and armor (it breaks Bladesong).
 - **Not rated because not asked:** the four revised Wizard subclasses (Conjurer, Enchanter, Necromancer, Transmuter; none touch Bladesinger), the eight Arcane Shot options, backgrounds, factions, patrons.
-- **Legality:** AU falls under "all 2014/2024 content permitted", but the ruling predates the book, so a one-line confirmation is cheap.
+- **Legality:** in. AU is a Wizards of the Coast book, and every build at this table is read as 2024 with all official books legal (Christos, 2026-11-10). Faelyn's Enchanter is AU's.
 
 ## Levers this book pulls
 
@@ -162,15 +162,15 @@ Ritual-tagged spells ride **Ritual Adept**: they cost book space, never a prepar
 ## What this does to the plan (proposals, nothing locked)
 
 - **L4 Elven Accuracy and L8 War Caster:** unchanged. Nothing in AU competes.
-- **L12 Spellfire Adept:** now has a RAW twin in **Evocation Adept**. If the reskins are denied, Evocation Adept replaces it outright: same Hit Dice fuel, triggered by his Evocation cantrips instead of radiant damage, plus Wall of Force and Fireball always prepared. If the reskins are approved, the choice is **identity and radiant resistance piercing** against **five free prepared spells**. Both burn the same Hit Dice, so taking both buys little.
+- **L12 Spellfire Adept:** now has a RAW twin in **Evocation Adept**: same Hit Dice fuel, triggered by his Evocation cantrips instead of radiant damage, plus Wall of Force and Fireball always prepared. The reskins are accepted, so the choice is **identity and radiant resistance piercing** against **five free prepared spells**. Both burn the same Hit Dice, so taking both buys little.
 - **L16 flex:** two new contenders join Fey-Touched, Resilient, Keen Mind, Observant and Alert. **Divination Adept** (the reaction Advantage/Disadvantage engine, plus Clairvoyance and Scrying prepared) and **Spell Resistant** (magic-save insurance for WIS 8, and legal on CON even under RAW). Fey-Touched stays the frontrunner only if its two gates clear.
 - **L19 Epic Boon:** **Erupting Spellpower** (INT 22, a Prone rider, per-round recharge if (d) goes his way) or **Magic School Mastery: Evocation** (Spellfire Flare at will, Prismatic Spray daily). The build doc's "INT is capped" note does not apply to Epic Boons.
-- **Book:** Battle Familiar at L3; Dueling Ground whenever convenient (ritual, costs nothing to hold). Later tiers: Transfix, Power Word Pain, Fractured Awareness, Entrancing Mirrors, Vision of Elapsing Eons, Hindsight, Invulnerability.
+- **Book:** Battle Familiar at L4 (L3's two picks go to the Iridescent Blade and Mirror Image; see `spell-tier-list-L2.md`); Dueling Ground whenever convenient (ritual, costs nothing to hold). Later tiers: Transfix, Power Word Pain, Fractured Awareness, Entrancing Mirrors, Vision of Elapsing Eons, Hindsight, Invulnerability.
 - **Wishlist:** add the Scholar's Anchoring Bangle and the Arcanist's Bestiary. Pitch the Longsword of Warning as an evolving weapon (Studious or Quickening → Fortunate → Prismatic).
 
 ## New questions for Crusty
 
-- **(h)** Is *Arcana Unleashed* in? It is 2024 content, but the "all content permitted" ruling predates it. If Faelyn's Enchanter is the AU subclass (the only one by that name; the 2014 one is School of Enchantment), the table already uses the book, which goes most of the way to answering this.
+- **(h)** Answered yes: every official book is legal (Christos, 2026-11-10), and Faelyn plays AU's Enchanter.
 - **(i)** Boon of Erupting Spellpower recharges "until you roll Initiative". Does a per-round reroll count? This is the same shape as (d).
 - **(j)** Catnap on an elf: does Trance's "magic can't put you to sleep" block it?
 - **(k)** Will he use the Evolving Magic Items chapter, including crafting evolution in downtime?

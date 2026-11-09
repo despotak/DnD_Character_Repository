@@ -16,7 +16,7 @@ Five cantrips at L1, **two of which float daily** — so "picks" here means the 
 
 All wizard-list cantrips per the class-source lookup: 24 XPHB entries (2024 core — including absorbed reprints of Toll the Dead, Mind Sliver, Thunderclap and the new Elementalism) + the TCE quartet (Booming Blade, Green-Flame Blade, Sword Burst, Lightning Lure — 2014-era, table-legal). The XGE elemental-utility set (Shape Water, Mold Earth, Control Flames, Gust, Create Bonfire, Frostbite, Infestation) exists as 2014 content but was functionally superseded by Elementalism in 2024 and none earns a stable slot — surveyed, named, set aside.
 
-**Levers:** the radiant/prismatic-light theme; the pending reskins (Echoing Light Blade = BB, Spellfire Blade = GFB); Bladesong making weapon attacks INT-based from L3; Extra Attack (L6) letting one attack be an action-cantrip; the visible-casting house rule (**somatic-only spells can be cast without a sound** — verbal ones can't be whispered); Elven Accuracy (planned L4) rewarding *attack-roll* cantrips whenever advantage exists; Spellfire Adept (planned L12) rewarding **radiant spell damage**.
+**Levers:** the radiant/prismatic-light theme; the accepted reskins (Echoing Light Blade = BB, Spellfire Blade = GFB), which **work through the Iridescent Blade** (ruled 2026-11-10), so a blade cantrip carries the blade's 2d8 radiant and Advantage; Bladesong making weapon attacks INT-based from L3; Extra Attack (L6) letting one attack be an action-cantrip; the visible-casting house rule (**somatic-only spells can be cast without a sound** — verbal ones can't be whispered); Elven Accuracy (planned L4) rewarding *attack-roll* cantrips whenever advantage exists; Spellfire Adept (planned L12) rewarding **radiant spell damage**.
 
 ## S — the stable core
 
@@ -60,7 +60,7 @@ All wizard-list cantrips per the class-source lookup: 24 XPHB entries (2024 core
 
 **At L1** (3 class + lineage + feat):
 - Class (stable): **True Strike** — the combat engine and the awakening-scene cantrip
-- Class (stable): **Booming Blade** — the second blade rider (as Echoing Light Blade if approved)
+- Class (stable): **Booming Blade** — the second blade rider (as Echoing Light Blade)
 - Class (floater): **Mind Sliver** by default; swap to **Message / Minor Illusion / Mage Hand** on intrigue days
 - Lineage (floater): **Light** by default (the advantage engine); swap to **Prestidigitation** on court days
 - Feat (fixed): **Sacred Flame** as "Spellfire Flame"

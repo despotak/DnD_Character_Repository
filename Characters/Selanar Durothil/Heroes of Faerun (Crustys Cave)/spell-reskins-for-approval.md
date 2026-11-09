@@ -1,5 +1,7 @@
 # Selanar — Spell Reskins & One New Spell (for approval)
 
+**Status, 2026-11-10: the three reskins are accepted**, and the blade cantrips work with the Iridescent Blade as their weapon. Rainbow Blast, the new spell, isn't covered by that and is still pending.
+
 The goal behind all of these: give Selanar a consistent **iridescent / kaleidoscopic / prismatic light** identity — I'm reclaiming the rainbow. Three of the four are pure reskins of existing spells (mechanics untouched except where explicitly flagged); the fourth is a new spell, presented with full damage-comparison receipts so you can judge it in one look. Each item stands alone — approve, tweak, or veto them independently.
 
 ---

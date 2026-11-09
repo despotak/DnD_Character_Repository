@@ -25,8 +25,8 @@ Two-axis rating of every level-1 wizard spell in the RAW mirror. Fable pass, 202
 |---|---|:--:|:--:|---|
 | **Color Spray** | XPHB | ★★★☆☆ | ★★★★★ | 2024 rewrite: 15-ft cone, CON save or **Blinded** (no more HP-counting). Blinded enemies attack at disadvantage and are hit at advantage — he *creates* his own Elven Accuracy condition in an AoE. And narratively? A dazzling spray of kaleidoscopic light — **the** "reclaiming the rainbow" spell. |
 | **Detect Magic** | XPHB | ★★★★☆ | ★★★☆☆ | Ritual. The lineage grants it free at character level 3, but a book copy covers L1–2 *and* enables unlimited ritual casts forever (the lineage version costs the daily free use or a slot). Mystery campaign: always-on arcane forensics. |
-| **Comprehend Languages** | XPHB | ★★★☆☆ | ★★★★★ | Ritual. The man's life quest is *reading the Nether Scrolls* — ancient texts in dead tongues are his entire retirement plan. Costs no prepared slot. |
-| **Identify** | XPHB | ★★★☆☆ | ★★★★☆ | Ritual. Magic-item forensics in a game where "most magic items are player-specific" and he owns Jeweler's Tools; the Silver Twilight archaeologist's professional tool. |
+| **Comprehend Languages** | XPHB | ★★☆☆☆ | ★★★★★ | Ritual. The man's life quest is *reading the Nether Scrolls* — ancient texts in dead tongues are his entire retirement plan. Costs no prepared slot. Vesper has it always prepared from cleric 3 (2024 Knowledge Domain), so his own copy is for the reading he does alone. |
+| **Identify** | XPHB | ★★☆☆☆ | ★★★★☆ | Ritual. Magic-item forensics in a game where "most magic items are player-specific" and he owns Jeweler's Tools; the Silver Twilight archaeologist's professional tool. Vesper has it always prepared from cleric 3. |
 | **Alarm** | XPHB | ★★★☆☆ | ★★★☆☆ | Ritual. **Table-inflated**: long rests require "a safe and secure location" — Alarm is how you *make* a location count as safe. Quietly one of the most valuable rituals at this specific table. |
 | **Feather Fall** | XPHB | ★★★☆☆ | ★★☆☆☆ | The reaction that un-kills up to five people. Cheap insurance in the book even if rarely prepared early. |
 | **Protection from Evil and Good** | XPHB | ★★★☆☆ | ★★★☆☆ | Concentration, but vs. fiends/undead/fey it's a defensive wall — and this campaign has already advertised gothic threats (Vesper's whole deal). |
@@ -68,6 +68,6 @@ Two-axis rating of every level-1 wizard spell in the RAW mirror. Fable pass, 202
 
 **L2 additions (+2):** **Comprehend Languages** (ritual — the Nether Scrolls quest in spell form) · **Alarm** (ritual — the "long rests need a safe location" house rule, weaponized). Both cost zero prepared slots. Prepared grows to 5 at L2 → Color Spray joins the prepared four.
 
-**Book growth priorities (L3–4):** Identify (ritual) → Detect Magic (book copy, for the ritual casting) → Protection from Evil and Good / Disguise Self / Feather Fall as the campaign dictates. Rituals stack in the book like tools in a kit — never dead weight.
+**Book growth priorities (L3–4):** Protection from Evil and Good / Disguise Self / Feather Fall as the campaign dictates. Detect Magic is already in the book, and Identify and Comprehend Languages are Vesper's always prepared from cleric 3, so they're copies for later, not priorities. Rituals stack in the book like tools in a kit — never dead weight.
 
 **For the Crusty bundle (add):** faerie-dragon cosmetic reskin for Find Familiar's form; a "Spellfire Bolt" reskin for Fire Bolt remains optional now that Spellfire Flare exists in print.
