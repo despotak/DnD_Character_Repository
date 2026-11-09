@@ -17,9 +17,16 @@ Listing: https://startplaying.games/adventure/cmq2rpi3c006gk104ejuqbyqj?slug=cru
 Sandbox-style campaign — threats (banditry, monsters, corruption) span the region from Thay to Calimport. Player-driven choices shape the narrative; GM weaves character backstories into unfolding events. Canonical Forgotten Realms 1495 DR — everything is canon (minor tweaks if the campaign needs it); named heroes like Elminster and Drizzt aren't acknowledged in play ("Superman stays out of Gotham").
 
 ## Party
-- **Selanar Durothil (Chris/Archangel)** — High (Sun) Elf, House Durothil, Myth Drannor / Akh'Faer background — this character
-- **Kale** (kalesauce_) — **Vesper Lyonsbane**, Shifter Knowledge Domain Cleric of Selûne (locked in). Silverstar-in-training, cursed Lyonsbane lycanthrope line, secret Dark Moon heretic; out to break his curse and destroy the Dead Three / Dark Sun cults. → party now has a full divine caster (healing/utility covered)
-- **Matt / Matticus** (matticus) — leaning College of Eloquence Bard (a "tall tales" storyteller); backup concept was a Thief Rogue
+
+As Christos gave it on 2026-11-10:
+
+- **Selanar Durothil (Chris/Archangel)** — High (Sun) Elf, House Durothil, Myth Drannor / Akh'Faer background — this character. Wizard (Bladesinger), level 3.
+- **Kale** (kalesauce_) — **Vesper Lyonsbane**, Shifter Knowledge Domain Cleric of Selûne. Silverstar-in-training, cursed Lyonsbane lycanthrope line, secret Dark Moon heretic; out to break his curse and destroy the Dead Three / Dark Sun cults. → party has a full divine caster (healing/utility covered). Which Knowledge Domain (FRHoF 2024 or PHB 2014) isn't recorded.
+- **Faelyn** — Wood Elf Wizard, Enchanter. **A second wizard:** every Wizard-list spell is on Faelyn's list too, and the two spellbooks can copy from each other at the usual 2 hours and 50 GP per spell level. Which Enchanter isn't recorded: *Arcana Unleashed*'s (the only subclass by that name: free Enchantment spells in the book, Hypnotic Presence) or the PHB's School of Enchantment. The Wood Elf lineage adds Longstrider at character level 3 and Pass without Trace at 5, once per long rest each.
+- **Cad** — Hexblood Ranger, Hollow Warden (*Ravenloft: The Horrors Within*, p.20). A half caster from the ranger list: level-2 slots at ranger 5, level-3 at 9; always prepared Wrathful Smite (3), Alter Self (5) and Phantom Steed (9). Hexblood gives Disguise Self and Hex once per long rest each, and an Eerie Token, the "see through it from ten miles off" in the journal.
+- **Robbie** — Reborn Rogue, Thief. No spellcasting.
+- **Akir** — red dragonborn, with the party through the latest journal entries but not in the 2026-11-10 roster. Status and class unconfirmed.
+- Which player runs Faelyn, Cad and Robbie isn't recorded. At Session 0, **Matt / Matticus** (matticus) was leaning College of Eloquence Bard, with a Thief Rogue as backup.
 
 ## Character creation
 - Start at **level 0, classless** — build out during Session 0; built mechanically as 1st-level characters, but class abilities get dropped in narratively as the story justifies them (e.g. a druid's awakening = the trees warning of a threat; a first prayer answered with Cure Wounds)

@@ -25,7 +25,7 @@ All wizard-list cantrips per the class-source lookup: 24 XPHB entries (2024 core
 | **True Strike** | XPHB | ★★★★★ | ★★★★★ | 2024 rewrite: weapon attack **using INT**, damage **radiant by choice**, +1d6→3d6 radiant scaling. Core-RAW (no approval needed), INT-attacks *before* Bladesong exists (L1–2!), feeds Spellfire Adept, and "a flash of magical insight guides his blade" is the level-0 awakening beat writing itself. The default combat button. |
 | **Booming Blade** | TCE | ★★★★★ | ★★★★★* | The movement-punish blade cantrip; combos with War Caster's Reactive Spell (opportunity attack → punished if they keep moving). *Narrative score is for the approved **Echoing Light Blade** reskin (radiant after-images); RAW thunder version is ★★ flavor but mechanically identical. |
 | **Light** | XPHB | ★★★★☆ | ★★★★★ | **The engine-enabler**: 20-ft bright light on demand = the Iridescent Blade's advantage condition = Elven Accuracy fuel — and the light "can be colored as you like" (*prismatic, obviously*). Natural home: the **lineage slot** (it's a wizard cantrip, so the High Elf slot can hold it, freeing class slots). If the Light Bringer feat is ever approved, this migrates there and frees the slot back. |
-| **Green-Flame Blade** | TCE | ★★★★☆ | ★★★★★* | The cleave option — second target takes INT-mod damage (scaling). *As the approved **Spellfire Blade** reskin (azure radiant spellfire, matching published spellfire effects — and feeding Spellfire Adept); RAW green fire is ★★. Slots in at L4 or L10 rather than L1 — one blade rider at a time. |
+| **Green-Flame Blade** | TCE | ★★★★☆ | ★★★★★* | The cleave option — second target takes INT-mod damage (scaling). *As the approved **Spellfire Blade** reskin (azure radiant spellfire, matching published spellfire effects — and feeding Spellfire Adept); RAW green fire is ★★. Rotates in from L3 beside Booming Blade: the class slot and the lineage slot each swap on a long rest. |
 
 ## A — earns a slot or a floater rotation
 
@@ -65,6 +65,8 @@ All wizard-list cantrips per the class-source lookup: 24 XPHB entries (2024 core
 - Lineage (floater): **Light** by default (the advantage engine); swap to **Prestidigitation** on court days
 - Feat (fixed): **Sacred Flame** as "Spellfire Flame"
 
-**Growth:** L4 → **Green-Flame Blade** (Spellfire Blade). L10 → utility consolidation (promote Minor Illusion or Message to stable; or Toll the Dead if ranged damage has been lacking).
+**The sheet went another way at L1** (Mage Hand and Prestidigitation, no Booming Blade; `build-progression.md` § 7 has the live loadout), and the rotation makes that cheap to fix.
+
+**Growth:** from L3, both blade cantrips are in the daily rotation. One long rest swaps a class cantrip and the lineage cantrip, so both blades can be in at once, one in each, at the cost of Light for that day. L4's fourth class cantrip lets both sit in class slots and gives the lineage slot back to Light. L10 → utility consolidation (promote Minor Illusion or Message to stable; or Toll the Dead if ranged damage has been lacking).
 
 Note the deliberate redundancy *avoidance*: True Strike, BB, and GFB all replace the same attack — but their riders answer different situations (raw radiant vs. movement-punish vs. cleave), and from L6 Extra Attack lets a cantrip ride alongside a weapon swing, so the diversity pays.

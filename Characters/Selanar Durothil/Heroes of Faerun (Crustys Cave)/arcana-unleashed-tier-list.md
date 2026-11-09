@@ -170,7 +170,7 @@ Ritual-tagged spells ride **Ritual Adept**: they cost book space, never a prepar
 
 ## New questions for Crusty
 
-- **(h)** Is *Arcana Unleashed* in? It is 2024 content, but the "all content permitted" ruling predates it.
+- **(h)** Is *Arcana Unleashed* in? It is 2024 content, but the "all content permitted" ruling predates it. If Faelyn's Enchanter is the AU subclass (the only one by that name; the 2014 one is School of Enchantment), the table already uses the book, which goes most of the way to answering this.
 - **(i)** Boon of Erupting Spellpower recharges "until you roll Initiative". Does a per-round reroll count? This is the same shape as (d).
 - **(j)** Catnap on an elf: does Trance's "magic can't put you to sleep" block it?
 - **(k)** Will he use the Evolving Magic Items chapter, including crafting evolution in downtime?
