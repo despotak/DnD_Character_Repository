@@ -4,7 +4,14 @@ Two-axis rating of every level-2 Wizard-list spell in the RAW mirror (5etools, p
 
 ## Where the book stands (check this first)
 
-Journal Entry VIII has him copying two spells at wizard level 2: **Absorb Elements** and **Silvery Barbs**. The plan in `build-progression.md` § 8 put Absorb Elements in the opening six and made Comprehend Languages and Alarm the level-2 additions. So the book in play differs from the plan by at least one opening spell, and Silvery Barbs (penciled for L3) is already in. **The recommendations below assume Barbs is in the book and both L3 picks are free.**
+From his Foundry sheet on 2026-11-09, Selanar is a level-2 wizard with eight spells in the book:
+
+- **Opening six:** Shield · Mage Armor · Spellfire Flare · Find Familiar (ritual) · Detect Magic (ritual) · Sleep
+- **Copied at level 2:** Absorb Elements · Silvery Barbs (Journal Entry VIII)
+- **Prepared (5):** Mage Armor · Shield · Silvery Barbs · Sleep · Spellfire Flare
+- **Cantrips:** True Strike · Mind Sliver · Mage Hand · Prestidigitation (lineage slot) · Spellfire Gleam (the feat's Sacred Flame: 60 ft, DEX save)
+
+That isn't the plan in `build-progression.md` § 8, which had Absorb Elements and Color Spray in the opening six and Comprehend Languages and Alarm at level 2. **Color Spray, Comprehend Languages, Alarm, Booming Blade and Light aren't on the sheet.** Silvery Barbs, penciled for L3, is already in, so both L3 picks are free.
 
 ## The frame
 
@@ -19,7 +26,7 @@ Journal Entry VIII has him copying two spells at wizard level 2: **Absorb Elemen
 
 ## The snag in the centerpiece: the blade has no price
 
-True Strike's material component is *"a weapon with which you have proficiency and that is worth 1+ CP"*. Booming Blade's and Green-Flame Blade's is *"a melee weapon worth at least 1 sp"*. Shadow Blade *"counts as a simple melee weapon with which you are proficient"*, but it has no price, so **RAW the blade can't be the weapon for any of his three blade cantrips.**
+True Strike's material component is *"a weapon with which you have proficiency and that is worth 1+ CP"*. Booming Blade's and Green-Flame Blade's is *"a melee weapon worth at least 1 sp"*. Shadow Blade *"counts as a simple melee weapon with which you are proficient"*, but it has no price, so **RAW the blade can't be the weapon for True Strike, his one blade cantrip today, or for Booming Blade and Green-Flame Blade if he learns them.**
 
 Before L6 this costs almost nothing, because swinging the blade with the Attack action (2d8+5, Advantage in light) already beats True Strike through steel (1d8+5, plus 1d6 from L5). From L6, Extra Attack lets one of the two attacks become a cantrip, and that cantrip then has to go through a real sword in his other hand, or not happen. One line added to the reskin bundle fixes it (question (l) below).
 
@@ -27,14 +34,14 @@ Before L6 this costs almost nothing, because swinging the blade with the Attack 
 
 | Spell | Source | Mech | Narr | Notes |
 |---|---|:--:|:--:|---|
-| **Iridescent Blade** (Shadow Blade chassis) | XGE + reskin | ★★★★★ | ★★★★★ | Bonus action, concentration, 1 minute. 2d8 radiant with finesse, light and thrown (20/60), and Bladework puts INT on attack and damage: **2d8+5 a hit against 1d8+5 with the longsword**. Advantage whenever the target stands in bright light from another source, which is Elven Accuracy fuel from L4 and more Dirty Crits. Upcasts to 3d8 at 3rd–4th, 4d8 at 5th–6th, 5d8 at 7th+. Over a fight it out-earns upcast Flare: +4.5 a hit over steel plus the Advantage, and two hits a round from L6. **His own reskin eats a light when he casts it**, and the source he picks goes out. In a dark room lit only by his Light cantrip, the blade eats the Light and then has nothing to refract. He needs a second source: daylight, a torch, or Continual Flame (A tier). **If the reskin is denied,** take Shadow Blade as printed anyway: still ★★★★★ mechanically, but it deals psychic and wants dim light, so it fights his Light engine and feeds nothing radiant. |
+| **Iridescent Blade** (Shadow Blade chassis) | XGE + reskin | ★★★★★ | ★★★★★ | Bonus action, concentration, 1 minute. 2d8 radiant with finesse, light and thrown (20/60), and Bladework puts INT on attack and damage: **2d8+5 a hit against 1d8+5 with the longsword**. Advantage whenever the target stands in bright light from another source, which is Elven Accuracy fuel from L4 and more Dirty Crits. Upcasts to 3d8 at 3rd–4th, 4d8 at 5th–6th, 5d8 at 7th+. Over a fight it out-earns upcast Flare: +4.5 a hit over steel plus the Advantage, and two hits a round from L6. **His own reskin eats a light when he casts it**, and the source he picks goes out. In a dark room with a single light (one torch, or his Light cantrip on a day the lineage slot holds it instead of Prestidigitation), the blade eats it and then has nothing to refract. He needs a second source: daylight, a torch, or Continual Flame (A tier). **If the reskin is denied,** take Shadow Blade as printed anyway: still ★★★★★ mechanically, but it deals psychic and wants dim light, so it fights his Light engine and feeds nothing radiant. |
 | **Mirror Image** | XPHB | ★★★★☆ | ★★★★☆ | **No concentration**, so it sits on top of the blade. Three duplicates; when an attack hits him, roll a d6 per remaining duplicate and any 3+ sends the hit to a duplicate: 96% with three left, 89% with two, 67% with one. At AC 21 in song (26 with Shield) most attacks already miss, and this catches the ones that land, Dirty Crits included. It costs an action, so cast it on the first round or before the door opens. Refracted copies of himself, the prismatic theme on defense. **His L18 Spell Mastery pick:** at-will Mirror Image, forever. |
 
 ## A — strong; book candidates by situation
 
 | Spell | Source | Mech | Narr | Notes |
 |---|---|:--:|:--:|---|
-| **Blindness/Deafness** | XPHB | ★★★★☆ | ★★★★☆ | **No concentration**, verbal only. CON save or Blinded for up to a minute, repeating the save at the end of each of its turns. His attacks gain Advantage (Elven Accuracy) and its attacks take Disadvantage. It is Color Spray's engine on a single target, and it stacks with the blade. Each slot level above 2nd adds a target. Reflavor: dazzled by refracted light. CON is a strong monster save, which is the price. |
+| **Blindness/Deafness** | XPHB | ★★★★☆ | ★★★★☆ | **No concentration**, verbal only. CON save or Blinded for up to a minute, repeating the save at the end of each of its turns. His attacks gain Advantage (Elven Accuracy) and its attacks take Disadvantage. Color Spray never made the book, so this is his only way to Blind, and it stacks with the blade. Each slot level above 2nd adds a target. Reflavor: dazzled by refracted light. CON is a strong monster save, which is the price. |
 | **Hold Person** | XPHB | ★★★★☆ | ★★☆☆☆ | Paralyzed: attacks against it have Advantage, and **any hit from within 5 ft is a critical** — every swing, for a melee wizard. Humanoids only, which in a campaign of smugglers, cultists and bought guards covers a great deal. WIS save, repeated each turn. Concentration, so it replaces the blade; run it with steel and Magic Weapon. Each slot level above 2nd adds a target. |
 | **Magic Weapon** | XPHB | ★★★★☆ | ★★★☆☆ | The 2024 version is a **bonus action with no concentration, lasting an hour**: +1 to attack and damage, +2 from a 3rd–5th slot. This is the *steel* path. A magical longsword for the whole hour keeps every blade cantrip legal RAW and leaves concentration free for Hold Person, Hypnotic Pattern or Haste. Against heavily modified resistances, "magical" also matters. Wasted on any turn he draws the Iridescent Blade instead, and ineligible for Spell Mastery. |
 | **Battle Familiar** | AU p35 | ★★★★☆ | ★★★★☆ | Pending (h). One hour, no concentration. Cast on his existing owl, it takes the Flyer form: AC 13, 20 temporary HP, its own Flyby, and a Rend at his spell attack bonus for 1d8+5 force on its own turn. A 25 GP diamond, not consumed. The AU list penciled it at L3; it moves to L4 or a copied scroll, because L3 has two picks and the blade takes one. |
@@ -75,7 +82,7 @@ Before L6 this costs almost nothing, because swinging the blade with the Attack 
 ## Recommended: L3 and L4 book additions
 
 **L3 (+2):** **Iridescent Blade** · **Mirror Image**.
-**Prepared at L3 (6):** Shield · Mage Armor · Spellfire Flare · Iridescent Blade · Mirror Image · one rotating slot for Silvery Barbs, Absorb Elements or Color Spray by the day's threat. Detect Magic arrives always prepared from the lineage and costs none of the six.
+**Prepared at L3 (6):** Shield · Mage Armor · Spellfire Flare · Silvery Barbs · Iridescent Blade · Mirror Image. Sleep or Absorb Elements swaps in for Mirror Image when the day promises crowds or elemental damage. Detect Magic becomes always prepared from the lineage, on top of the six, and Find Familiar stays a ritual.
 
 **L4 (+2):** **Blindness/Deafness** · **Detect Thoughts**. If Vesper's domain already gives him Detect Thoughts, take **Battle Familiar** in its place (once (h) clears), or **Hold Person**.
 
@@ -83,7 +90,7 @@ Before L6 this costs almost nothing, because swinging the blade with the Attack 
 
 **Copy when found (100 GP each):** Magic Weapon → Hold Person → Battle Familiar → Rope Trick → Borrowed Knowledge. Rituals (Gentle Repose, Dueling Ground) whenever convenient; they never take a prepared slot.
 
-This replaces two earlier pencils: the build doc's "Silvery Barbs at L3" (already done at L2, per the journal) and the AU list's "Battle Familiar at L3" (moved to L4 or a scroll).
+This replaces two earlier pencils: the build doc's "Silvery Barbs at L3" (already in the book from L2) and the AU list's "Battle Familiar at L3" (moved to L4 or a scroll).
 
 **L18 Spell Mastery, level-2 half:** Mirror Image.
 
