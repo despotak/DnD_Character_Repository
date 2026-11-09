@@ -25,7 +25,7 @@ As Christos gave it on 2026-11-10:
 - **Faelyn** — Wood Elf Wizard, Enchanter. **A second wizard:** every Wizard-list spell is on Faelyn's list too, and the two spellbooks can copy from each other at the usual 2 hours and 50 GP per spell level. Which Enchanter isn't recorded: *Arcana Unleashed*'s (the only subclass by that name: free Enchantment spells in the book, Hypnotic Presence) or the PHB's School of Enchantment. The Wood Elf lineage adds Longstrider at character level 3 and Pass without Trace at 5, once per long rest each.
 - **Cad** — Hexblood Ranger, Hollow Warden (*Ravenloft: The Horrors Within*, p.20). A half caster from the ranger list: level-2 slots at ranger 5, level-3 at 9; always prepared Wrathful Smite (3), Alter Self (5) and Phantom Steed (9). Hexblood gives Disguise Self and Hex once per long rest each, and an Eerie Token, the "see through it from ten miles off" in the journal.
 - **Robbie** — Reborn Rogue, Thief. No spellcasting.
-- **Akir** — red dragonborn, with the party through the latest journal entries but not in the 2026-11-10 roster. Status and class unconfirmed.
+- **Akir** — red dragonborn; has left the party. His class was never recorded.
 - Which player runs Faelyn, Cad and Robbie isn't recorded. At Session 0, **Matt / Matticus** (matticus) was leaning College of Eloquence Bard, with a Thief Rogue as backup.
 
 ## Character creation
